@@ -175,6 +175,16 @@ content:
         url: /search/news-and-communications?topical_events%5B%5D=coronavirus-covid-19-uk-government-response
       - label: "Guidance"
         url: /search/all?topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
+  other_countries:
+    title: If you live in Scotland, Wales or Northern Ireland
+    text: Additional guidance is available
+    links:
+      - label: Scotland
+        url:
+      - label: Wales
+        url:
+      - label: Northern Ireland
+        url:
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
