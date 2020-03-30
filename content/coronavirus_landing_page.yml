@@ -165,6 +165,8 @@ content:
           list:
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
+            - label: How to help others safely
+              url: /government/publications/coronavirus-how-to-help-safely--2
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
