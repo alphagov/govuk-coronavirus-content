@@ -1,17 +1,19 @@
 content:
   title: "Coronavirus (COVID-19): what you need to do"
   meta_description: "Find out about the government response to coronavirus (COVID-19) and what you need to do."
+  page_header: "Coronavirus (COVID-19): what you need to do"
   stay_at_home:
     pretext: Stay at home
     list:
       - Only go outside for food, health reasons or work (but only if you cannot work from home)
-      - Stay 2 metres (6ft) away from other people
+      - If you go out, stay 2 metres (6ft) away from other people at all times
       - Wash your hands as soon as you get home
   guidance:
-    pretext: You can spread the virus even if you don’t have symptoms.
+    pretext-1: Do not meet others, even friends or family.
+    pretext-2: You can spread the virus even if you don’t have symptoms.
     link:
-      href: /government/publications/full-guidance-on-staying-at-home-and-away-from-others
-      text: Staying at home and away from others (social distancing)
+      href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
+      text: "Read more about what you can and cannot do"
   announcements_label: Announcements
   announcements:
     - text: You must stay at home apart from certain exceptions or you may be fined
@@ -39,8 +41,12 @@ content:
               url: /government/publications/covid-19-stay-at-home-guidance
             - label: Staying at home and away from others (social distancing)
               url: /government/publications/full-guidance-on-staying-at-home-and-away-from-others
+            - label: "Staying at home: what you can and cannot do"
+              url: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
             - label: How to protect extremely vulnerable people (shielding)
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
+            - label: Guidance on pregnancy and coronavirus
+              url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
     - title: Employment and financial support
       sub_sections:
         - title:
@@ -53,6 +59,8 @@ content:
               url: /employment-support-allowance
             - label: Employers can apply for staff to get up to 80% pay if they can’t work
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-guidance-for-employees
+            - label: Financial help if you’re self-employed
+              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
             - label: Get an isolation note to give to your employer
               url: https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-advice/
             - label: Your rights if your hours are cut or you’re laid off
@@ -71,16 +79,14 @@ content:
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
             - label: Cancelled exams
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-            - label: Dealing with COVID-19 in nurseries, schools and universities
-              url: /government/publications/guidance-to-educational-settings-about-covid-19
             - label: Supporting vulnerable children
               url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
+            - label: Full guidance for schools and other educational settings
+              url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
     - title: Businesses and other organisations
       sub_sections:
         - title:
           list:
-            - label: Financial help if you’re self-employed
-              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
             - label: How to keep your employees safe
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
             - label: Businesses and community spaces that must be closed
@@ -159,8 +165,6 @@ content:
           list:
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
-            - label: Help produce ventilators and components
-              url: https://ventilator.herokuapp.com
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
@@ -169,6 +173,16 @@ content:
               url: /government/publications/covid-19-track-coronavirus-cases
             - label: Latest number of coronavirus cases in the UK
               url: /guidance/coronavirus-covid-19-information-for-the-public
+  country_section:
+    header: "If you live in Scotland, Wales or Northern Ireland"
+    text: "Additional guidance is available"
+    links:
+      - label: "Scotland"
+        url: https://www.gov.scot/coronavirus-covid-19/
+      - label: "Wales"
+        url: https://gov.wales/coronavirus
+      - label: "Northern Ireland"
+        url: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19
   topic_section:
     header: "All coronavirus (COVID-19) information"
     text: "Browse information related to coronavirus"
