@@ -20,7 +20,7 @@ content:
       href: /government/publications/full-guidance-on-staying-at-home-and-away-from-others
     - text: If you live in the UK and are currently abroad you are strongly advised to return now
       href: /guidance/travel-advice-novel-coronavirus
-    - text: If you’re self-employed, you’ll get up to £2,500 a month in grants for at least 3 months
+    - text: If you’re self-employed, you’ll get up to £2,500 a month in grants for at t 3 months
       href: /government/news/chancellor-gives-support-to-millions-of-self-employed-individuals
   nhs_banner:
     heading: "Do not leave home if you or someone you live with has either:"
@@ -38,6 +38,8 @@ content:
         - title:
           list:
             - label: Staying at home if you think you have coronavirus (self-isolating)
+              url: /government/publications/covid-19-stay-at-home-guidance
+            - label: Doing something healthy
               url: /government/publications/covid-19-stay-at-home-guidance
             - label: Staying at home and away from others (social distancing)
               url: /government/publications/full-guidance-on-staying-at-home-and-away-from-others
