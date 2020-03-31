@@ -196,3 +196,10 @@ content:
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
+  live_stream:
+    video: ""
+    # the date field must be entered as day/month/year for example 01/04/2020
+    date: ""
+    # the time field must be entered in 24hr format with a colon eg 17:00
+    time: ""
+    show_video: false
