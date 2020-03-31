@@ -202,4 +202,4 @@ content:
     no_cookies_message: "Watch the live stream on YouTube"
     date: 31st March 2020
     time: 5:00pm
-    show_video: true
+    show_video: false
