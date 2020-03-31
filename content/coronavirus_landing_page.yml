@@ -198,7 +198,8 @@ content:
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
   live_stream:
     title: Live press conference
-    video: ""
+    video_url: ""
+    no_cookies_message: "Watch the live stream on Youtube"
     date: ""
     time: ""
     show_video: false
