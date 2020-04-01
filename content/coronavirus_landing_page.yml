@@ -208,4 +208,4 @@ content:
       watch_link_text: "Watch the live stream on YouTube"
     date: 1st April 2020
     time: 5:00pm
-    show_video: true
+    show_video: false
