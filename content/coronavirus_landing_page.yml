@@ -206,9 +206,9 @@ content:
       to_watch: "to watch the live stream"
       or: "or"
       watch_link_text: "Watch the live stream on YouTube"
-    date: 1st April 2020
-    time: 5:00pm
-    show_video: false
+    date: 2nd April 2020
+    time:
+    show_video: true
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
