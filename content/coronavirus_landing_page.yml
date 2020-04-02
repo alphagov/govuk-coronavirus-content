@@ -95,8 +95,8 @@ content:
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
             - label: Check what you need to do about Statutory Sick Pay
               url: /employers-sick-pay
-            - label: Find out what to do for different businesses and organisations
-              url: /government/collections/coronavirus-covid-19-list-of-guidance
+            - label: Find out what business support you can get
+              url: https://www.businesssupport.gov.uk/
             - label: UK businesses trading internationally
               url: /government/publications/coronavirus-covid-19-guidance-for-uk-businesses
             - label: What the government is doing to support businesses
