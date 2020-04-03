@@ -29,6 +29,13 @@ content:
       href: /government/news/coronavirus-support-for-employees-benefit-claimants-and-businesses
     - text: If you're self employed, you'll get up to £2,500 a month in grants, for up to 3 months
       href: /government/news/chancellor-gives-support-to-millions-of-self-employed-individuals
+  related_links:
+    title: Related links
+    list:
+      - text: Get an isolation note to give to your employer
+        url: https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-advice/
+      - text: Your rights if your hours are cut or you’re laid off
+        url: /lay-offs-short-timeworking
   guidance_section:
     header: What you can do now
     list:
