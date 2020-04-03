@@ -53,8 +53,7 @@ content:
             - label: Financial support for businesses
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-support-for-businesses
             - label: Case studies and wider support schemes
-              url:
-              https://www.businesssupport.gov.uk/
+              url: https://www.businesssupport.gov.uk/
             - label: Contact HMRC’s coronavirus helpline
               url: /government/organisations/hm-revenue-customs/contact/coronavirus-covid-19-helpline
             - label: Defer your VAT payments
