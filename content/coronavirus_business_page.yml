@@ -68,6 +68,8 @@ content:
       sub_sections:
         - title:
           list:
+            - label: What you need to do and how to keep your employees safe
+              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
             - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
             - label: "Statutory Sick Pay (SSP): employer guide"
@@ -94,8 +96,6 @@ content:
       sub_sections:
         - title:
           list:
-            - label: What you need to do and how to keep your employees safe
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
             - label: Cleaning your workplace safely
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
             - label: Farmers, landowners and rural businesses
