@@ -1,9 +1,9 @@
 content:
   title: Business support
-  meta_description: "Get coronavirus support for your business or if you’re self-employed, and find out how to keep your business and your employees safe"
+  meta_description: "Get coronavirus (COVID-19) support for your business or if you’re self-employed, and find out how to keep your business and your employees safe"
   page_header: "Business support"
   header_section:
-    pretext: Support will be available to businesses
+    pretext: Coronavirus (COVID-19) support will be available to businesses
     list:
       - Loans, tax relief and cash grants will be available
       - Employers can apply for staff to get up to 80% pay if they can’t work
@@ -68,14 +68,16 @@ content:
       sub_sections:
         - title:
           list:
-            - label: "Statutory Sick Pay (SSP): employer guide"
-              url: /employers-sick-pay
             - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
+            - label: "Statutory Sick Pay (SSP): employer guide"
+              url: /employers-sick-pay
             - label: Claim back Statutory Sick Pay (SSP)
               url: /guidance/claim-back-statutory-sick-pay-paid-to-employees-due-to-coronavirus-covid-19
             - label: Which expenses are taxable if your employees work from home
               url: /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
+            - label: Apprenticeships
+              url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
             - label: Guidance for Tier 2, 4 and 5 visa sponsors
               url: /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
     - title: Self-employed people and sole traders
@@ -96,8 +98,6 @@ content:
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
             - label: Cleaning your workplace safely
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
-            - label: Apprenticeships
-              url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
             - label: Farmers, landowners and rural businesses
               url: /guidance/coronavirus-covid-19-information-for-farmers-landowners-and-rural-businesses
             - label: Food businesses
