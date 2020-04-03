@@ -75,9 +75,9 @@ content:
             - label: Claim back Statutory Sick Pay (SSP)
               url: /guidance/claim-back-statutory-sick-pay-paid-to-employees-due-to-coronavirus-covid-19
             - label: Which expenses are taxable if your employees work from home
-              /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
+              url: /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
             - label: Guidance for Tier 2, 4 and 5 visa sponsors
-              /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
+              url: /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
     - title: Self-employed people and sole traders
       sub_sections:
         - title:
