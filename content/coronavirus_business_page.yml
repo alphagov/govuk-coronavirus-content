@@ -11,9 +11,9 @@ content:
   announcements_label: Announcements
   announcements:
     - text: If you’re self employed, you’ll get up to £2,500 in grants for at least 3 months
-      href: /
+      href: /government/news/chancellor-gives-support-to-millions-of-self-employed-individuals
     - text: Estate agents, lettings agencies and bingo halls to pay no business rates this coming financial year
-      href: /
+      href: /government/news/covid-19-estate-agents-lettings-agencies-and-bingo-halls-to-pay-no-business-rates-this-coming-financial-year
     - text: High street businesses will receive grants
       href: /government/news/high-street-benefits-from-22-billion-grants-and-business-rates-package
   other_announcements:
@@ -44,7 +44,7 @@ content:
       - text: Find out how to claim for your employee’s wages if they’re on temporary leave
         url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
       - text: Find out how to apply for a grant if you’re self-employed
-        url: /
+        url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
   sections:
     - title: Funding and support
       sub_sections:
