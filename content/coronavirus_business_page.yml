@@ -72,6 +72,16 @@ content:
               /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
             - label: Guidance for Tier 2, 4 and 5 visa sponsors
               /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
+    - title: Self-employed people and sole traders
+      sub_sections:
+        - title:
+          list:
+            - label: Self-employment and Universal Credit
+              url: /self-employment-and-universal-credit
+            - label: If you cannot pay your tax bill on time
+              url: /difficulties-paying-hmrc
+            - label: Claim a grant through the Self-employment Income Support Scheme
+              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
     - title: Managing your business during coronavirus
       sub_sections:
         - title:
@@ -108,24 +118,6 @@ content:
               url: /guidance/covid-19-advice-for-accommodation-providers
             - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
-    - title: Self-employed people and sole traders
-      sub_sections:
-        - title:
-          list:
-            - label: Self-employment and Universal Credit
-              url: /self-employment-and-universal-credit
-            - label: If you cannot pay your tax bill on time
-              url: /difficulties-paying-hmrc
-            - label: Claim a grant through the Self-employment Income Support Scheme
-              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
-    - title: Employees
-      sub_sections:
-        - title:
-          list:
-            - label: Guidance for employees
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-guidance-for-employees
-            - label: Check if your employer can use the Coronavirus Job Retention Scheme
-              url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme
     - title: International trade and supply chains
       sub_sections:
         - title:
