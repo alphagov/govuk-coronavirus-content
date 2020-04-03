@@ -1,6 +1,6 @@
 content:
   title: Business support
-  meta_description: "Support and guidance for businesses"
+  meta_description: "Get coronavirus support for your business or if you’re self-employed, and find out how to keep your business and your employees safe"
   page_header: "Business support"
   header_section:
     pretext: Support will be available to businesses
@@ -27,7 +27,7 @@ content:
       href: /government/news/covid-19-call-for-rapid-sanitising-technology-for-ambulances
     - text: Coronavirus support for employees, benefit claimants and businesses
       href: /government/news/coronavirus-support-for-employees-benefit-claimants-and-businesses
-    - text: If you're self employed, you'll get up to £2,500 a month in grants, for up to 3 months
+    - text: If you’re self employed, you’ll get up to £2,500 a month in grants, for up to 3 months
       href: /government/news/chancellor-gives-support-to-millions-of-self-employed-individuals
   related_links:
     title: Related links
@@ -52,13 +52,16 @@ content:
           list:
             - label: Financial support for businesses
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-support-for-businesses
-            - label: HMRC coronavirus (COVID-19) helpline
+            - label: Case studies and wider support schemes
+              url:
+              https://www.businesssupport.gov.uk/
+            - label: Contact HMRC’s coronavirus helpline
               url: /government/organisations/hm-revenue-customs/contact/coronavirus-covid-19-helpline
-            - label: Defer VAT payments
+            - label: Defer your VAT payments
               url: /guidance/deferral-of-vat-payments-due-to-coronavirus-covid-19
             - label: Apply to extend your accounts filing deadline
               url: https://beta.companieshouse.gov.uk/extensions
-            - label: Claim for your employee's wages through the coronavirus job retention scheme
+            - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
             - label: Grant funding for small business, retail, hospitality and leisure
               url: /government/publications/coronavirus-covid-19-business-support-grant-funding-guidance-for-businesses
@@ -68,43 +71,15 @@ content:
           list:
             - label: "Statutory Sick Pay (SSP): employer guide"
               url: /employers-sick-pay
-            - label: Claim for your employee's wages through the coronavirus job retention scheme
+            - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
-    - title: Managing your business during coronavirus
-      sub_sections:
-        - title:
-          list:
-            - label: "COVID-19: guidance for employees, employers and businesses"
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
-            - label: How to clean your workplace safely
-              url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
-            - label: Handwashing Advice - Public Information Materials
-              url: https://campaignresources.phe.gov.uk/resources/campaigns/101/resources/5016
-            - label: Food businesses
-              url: /government/publications/covid-19-guidance-for-food-businesses
-            - label: Supported accommodation, residential care, and home care
-              url: /government/publications/covid-19-residential-care-supported-living-and-home-care-guidance
-            - label: Shipping and sea ports guidance
-              url: /government/publications/covid-19-shipping-and-sea-ports-guidance
-            - label: Staff in transport sector
-              url: /government/publications/covid-19-guidance-for-staff-in-the-transport-sector
-            - label: The freight transport industry
-              url: /government/publications/covid-19-guidance-on-freight-transport
-            - label: Farmers, landowners and rural businesses
-              url: /guidance/coronavirus-covid-19-information-for-farmers-landowners-and-rural-businesses
-            - label: "MHRA guidance on coronavirus (COVID-19)"
-              url: /government/collections/mhra-guidance-on-coronavirus-covid-19
-    - title: Business closures
-      sub_sections:
-        - title:
-          list:
-            - label: Businesses that must be closed
-              url: /government/publications/further-businesses-and-premises-to-close
-            - label: How to close holiday accommodation to temporary residents
-              url: /guidance/covid-19-advice-for-accommodation-providers
-            - label: Claim for your employee's wages through the coronavirus job retention scheme
-              url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
-    - title: Self employed and sole traders
+            - label: Claim back Statutory Sick Pay (SSP)
+              url: /guidance/claim-back-statutory-sick-pay-paid-to-employees-due-to-coronavirus-covid-19
+            - label: Which expenses are taxable if your employees work from home
+              /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
+            - label: Guidance for Tier 2, 4 and 5 visa sponsors
+              /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
+    - title: Self-employed people and sole traders
       sub_sections:
         - title:
           list:
@@ -112,35 +87,49 @@ content:
               url: /self-employment-and-universal-credit
             - label: If you cannot pay your tax bill on time
               url: /difficulties-paying-hmrc
-            - label: Claim a grant through the coronavirus (COVID-19) Self-employment Income Support Scheme
+            - label: Claim a grant through the Self-employment Income Support Scheme
               url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
-    - title: Employees
+    - title: Managing your business during coronavirus
       sub_sections:
         - title:
           list:
-            - label: "COVID-19: guidance for employees"
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-guidance-for-employees
-            - label: Check if your employer can use the Coronavirus Job Retention Scheme
-              url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme
-    - title: Apprenticeships
-      sub_sections:
-        - title:
-          list:
-            - label: "Coronavirus (COVID-19): apprenticeship programme response"
+            - label: What you need to do and how to keep your employees safe
+              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
+            - label: Cleaning your workplace safely
+              url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
+            - label: Apprenticeships
               url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
-    - title: Consumer rights
+            - label: Farmers, landowners and rural businesses
+              url: /guidance/coronavirus-covid-19-information-for-farmers-landowners-and-rural-businesses
+            - label: Food businesses
+              url: /government/publications/covid-19-guidance-for-food-businesses
+            - label: Freight transport businesses
+              url: /government/publications/covid-19-guidance-on-freight-transport
+            - label: Shipping and sea ports businesses
+              url: /government/publications/covid-19-shipping-and-sea-ports-guidance
+            - label: Supported accommodation, residential care and home care
+              url: /government/publications/covid-19-residential-care-supported-living-and-home-care-guidance
+            - label: Transport businesses
+              url: /government/publications/covid-19-guidance-for-staff-in-the-transport-sector
+            - label: Campaign materials from Public Health England (PHE)
+              url: https://campaignresources.phe.gov.uk/resources/campaigns/101/resources/5016
+            - label: Guidance from the Medicines and Healthcare products Regulatory Agency (MHRA)
+              url: /government/collections/mhra-guidance-on-coronavirus-covid-19
+    - title: Business closures
       sub_sections:
         - title:
           list:
-            - label: "CMA approach to business cooperation in response to Coronavirus (COVID-19)"
-              url: /government/publications/cma-approach-to-business-cooperation-in-response-to-covid-19
-            - label: CMA Coronavirus (COVID-19) response
-              url: /government/collections/cma-covid-19-response
+            - label: Businesses that must be closed
+              url: /government/publications/further-businesses-and-premises-to-close
+            - label: Closing holiday accommodation to temporary residents
+              url: /guidance/covid-19-advice-for-accommodation-providers
+            - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
+              url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
     - title: International trade and supply chains
       sub_sections:
         - title:
           list:
-            - label: Guidance for UK businesses trading internationally
+            - label: Trading internationally
               url: /government/publications/coronavirus-covid-19-guidance-for-uk-businesses
     - title: How you can help
       sub_sections:
