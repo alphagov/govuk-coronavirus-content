@@ -83,26 +83,13 @@ content:
               url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
             - label: Full guidance for schools and other educational settings
               url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
-    - title: Businesses and other organisations
+    - title: Business and self-employed
       sub_sections:
         - title:
           list:
-            - label: How to keep your employees safe
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
-            - label: Businesses and community spaces that must be closed
-              url: /government/publications/further-businesses-and-premises-to-close
-            - label: How to clean workplaces safely
-              url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
-            - label: Check what you need to do about Statutory Sick Pay
-              url: /employers-sick-pay
-            - label: Find out what business support you can get
-              url: https://www.businesssupport.gov.uk/
-            - label: UK businesses trading internationally
-              url: /government/publications/coronavirus-covid-19-guidance-for-uk-businesses
-            - label: What the government is doing to support businesses
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
-            - label: How to close holiday accommodation to temporary residents
-              url: /guidance/covid-19-advice-for-accommodation-providers
+            - label: Getting financial help and keeping your business safe
+              url: /coronavirus/business-support
+              featured_link: true
     - title: Healthcare workers and carers
       sub_sections:
         - title:
