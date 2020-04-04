@@ -195,7 +195,7 @@ content:
       watch_link_text: "Watch the live stream on YouTube"
     date: 4th April 2020
     time:
-    show_video: true
+    show_video: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
