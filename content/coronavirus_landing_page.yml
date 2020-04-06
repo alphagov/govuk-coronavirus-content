@@ -198,7 +198,7 @@ content:
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
     date: 6th April 2020
-    time: 5:00pm
+    time:
     show_video: true
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
