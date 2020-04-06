@@ -193,6 +193,10 @@ content:
       to_watch: "to watch the live stream"
       or: "or"
       watch_link_text: "Watch the live stream on YouTube"
+    previous_videos:
+      url: https://www.youtube.com/user/Number10gov/videos
+      previous_videos_text: View past coronavirus press conferences on YouTube
+      next_conference_text: The next live press conference will be shown here
     date: 5th April 2020
     time:
     show_video: false
