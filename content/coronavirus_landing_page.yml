@@ -204,7 +204,7 @@ content:
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
     # date_posted: uses the content_item's public_updated_at property
-    disease_prevention_info_url: https://www.gov.uk/coronavirus
+    disease_prevention_info_url: https://www.nhs.uk/conditions/coronavirus-covid-19/
     disease_spread_statistics_url: https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases
     # getting_tested_info_url: No appropriate URL available at present
     news_updates_and_guidelines_url: https://www.gov.uk/coronavirus
