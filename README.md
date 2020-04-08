@@ -8,7 +8,7 @@ https://www.gov.uk/coronavirus
 
 ## Editing the content as a content designer
 
-You will need to be a member of the GOV.UK content designers Github group. You
+You will need to be a member of the GOV.UK content designers GitHub team. You
 may need to raise a Zendesk ticket pointing 2nd Line at the [instructions for
 adding a content designer to Github](https://docs.publishing.service.gov.uk/manual/give-a-content-designer-access-to-github.html).
 
