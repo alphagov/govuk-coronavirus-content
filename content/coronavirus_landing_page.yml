@@ -16,10 +16,10 @@ content:
       text: "Read more about what you can and cannot&nbsp;do"
   announcements_label: Announcements
   announcements:
-    - text: You must stay at home apart from certain exceptions or you may be fined
-      href: /government/publications/full-guidance-on-staying-at-home-and-away-from-others
-    - text: If you live in the UK and are currently abroad you are strongly advised to return now
-      href: /guidance/travel-advice-novel-coronavirus
+    - text: Health Secretary announces plan to do 100,000 coronavirus tests a day
+      href: /government/news/health-secretary-sets-out-plan-to-carry-out-100000-coronavirus-tests-a-day
+    - text: Tell the NHS about your current experience of coronavirus
+      href: https://www.nhs.uk/coronavirus-status-checker
     - text: If you’re self-employed, you’ll get up to £2,500 a month in grants for at least 3 months
       href: /government/news/chancellor-gives-support-to-millions-of-self-employed-individuals
   nhs_banner:
@@ -43,6 +43,8 @@ content:
               url: /government/publications/full-guidance-on-staying-at-home-and-away-from-others
             - label: "Staying at home: what you can and cannot do"
               url: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
+            - label: "Staying at home leaflet: other languages and accessible formats"
+              url: /government/publications/coronavirus-covid-19-information-leaflet
             - label: How to protect extremely vulnerable people (shielding)
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
             - label: Guidance on pregnancy and coronavirus
@@ -83,26 +85,13 @@ content:
               url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
             - label: Full guidance for schools and other educational settings
               url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
-    - title: Businesses and other organisations
+    - title: Business and self-employed
       sub_sections:
         - title:
           list:
-            - label: How to keep your employees safe
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
-            - label: Businesses and community spaces that must be closed
-              url: /government/publications/further-businesses-and-premises-to-close
-            - label: How to clean workplaces safely
-              url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
-            - label: Check what you need to do about Statutory Sick Pay
-              url: /employers-sick-pay
-            - label: Find out what to do for different businesses and organisations
-              url: /government/collections/coronavirus-covid-19-list-of-guidance
-            - label: UK businesses trading internationally
-              url: /government/publications/coronavirus-covid-19-guidance-for-uk-businesses
-            - label: What the government is doing to support businesses
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19
-            - label: How to close holiday accommodation to temporary residents
-              url: /guidance/covid-19-advice-for-accommodation-providers
+            - label: Getting financial help and keeping your business safe
+              url: /coronavirus/business-support
+              featured_link: true
     - title: Healthcare workers and carers
       sub_sections:
         - title:
@@ -165,6 +154,8 @@ content:
           list:
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
+            - label: How to help others safely
+              url: /government/publications/coronavirus-how-to-help-safely--2
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
@@ -194,3 +185,32 @@ content:
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
+  live_stream:
+    title: Live press conference
+    video_url: https://www.youtube.com/embed/live_stream?channel=UC8o7mIMg3mmO9-dx3e2iFgw
+    no_cookies_message: "Watch the live stream on YouTube"
+    no_cookies:
+      change_settings: "Change your cookie settings"
+      change_settings_link: "/help/cookies"
+      to_watch: "to watch the live stream"
+      or: "or"
+      watch_link_text: "Watch the live stream on YouTube"
+    previous_videos:
+      url: https://www.youtube.com/user/Number10gov/videos
+      previous_videos_text: View past coronavirus press conferences on YouTube
+      next_conference_text: The next live press conference will be shown here
+    date: 7th April 2020
+    time:
+    show_video: false
+  # https://schema.org/SpecialAnnouncement fields
+  special_announcement_schema:
+    category: https://www.wikidata.org/wiki/Q81068910
+    # date_posted: uses the content_item's public_updated_at property
+    disease_prevention_info_url: https://www.nhs.uk/conditions/coronavirus-covid-19/
+    disease_spread_statistics_url: https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases
+    # getting_tested_info_url: No appropriate URL available at present
+    news_updates_and_guidelines_url: https://www.gov.uk/coronavirus
+    public_transport_closures_info_url: https://www.gov.uk/guidance/coronavirus-covid-19-uk-transport-and-travel-advice
+    quarantine_guidelines_url: https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
+    school_closures_info_url: https://www.gov.uk/check-school-closure
+    travel_bans_url: https://www.gov.uk/guidance/travel-advice-novel-coronavirus

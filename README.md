@@ -1,6 +1,6 @@
 # govuk-coronavirus-content
 
-Stores the content for the www.gov.uk/coronavirus page.
+Stores the content for the www.gov.uk/coronavirus page and www.gov.uk/coronavirus/business-support
 
 ## Live examples
 
@@ -41,3 +41,9 @@ you may have to fix the content again.
 
 If you're happy that everything looks OK, press "Publish". Check that everything
 looks OK and head for the hills.
+
+This is used by Collections Publisher when publishing the [Coronavirus
+landing page][1] and the [Coronavirus Business hub page][2].
+
+[1]: https://github.com/alphagov/collections-publisher/blob/master/app/controllers/coronavirus_controller.rb#L5-L6
+[2]: https://github.com/alphagov/collections-publisher/blob/master/lib/tasks/publishing_api.rake#L31-L52
