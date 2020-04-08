@@ -136,8 +136,10 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Businesses that must be closed, and which ones can stay open
+            - label: Businesses that must close
               url: /government/publications/further-businesses-and-premises-to-close/further-businesses-and-premises-to-close-guidance
+            - label: "If you’re staying open for business: safe working guidance"
+              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19
             - label: Closing holiday accommodation to temporary residents
               url: /guidance/covid-19-advice-for-accommodation-providers
             - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
