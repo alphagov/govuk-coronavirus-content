@@ -10,7 +10,7 @@ https://www.gov.uk/coronavirus
 
 You will need to be a member of the GOV.UK content designers GitHub team. You
 may need to raise a Zendesk ticket pointing 2nd Line at the [instructions for
-adding a content designer to Github](https://docs.publishing.service.gov.uk/manual/give-a-content-designer-access-to-github.html).
+adding a content designer to GitHub](https://docs.publishing.service.gov.uk/manual/give-a-content-designer-access-to-github.html).
 
 Edit the [coronavirus landing page content file](https://github.com/alphagov/govuk-coronavirus-content/blob/master/content/coronavirus_landing_page.yml) using the little pencil icon.
 You can also use [the direct link to edit the file](https://github.com/alphagov/govuk-coronavirus-content/edit/master/content/coronavirus_landing_page.yml).
