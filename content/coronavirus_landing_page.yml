@@ -53,22 +53,18 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Check if you can get statutory sick pay (SSP)
-              url: /statutory-sick-pay
-            - label: Check if you're eligible for Universal Credit
-              url: /universal-credit
-            - label: Check if you're eligible for Employment and Support Allowance (ESA)
-              url: /employment-support-allowance
+            - label: Unable to work – what to do if you or someone you live with is ill
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
+            - label: On furlough – what happens if your employer has no work for you
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
+            - label: Unemployed – what to do if you've lost your job
+              url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
+            - label: Self-employed – what to do if you're getting less work
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
+            - label: Already getting benefits – how they’re affected
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-already-getting-benefits
             - label: Employers can apply for staff to get up to 80% pay if they can’t work
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-guidance-for-employees
-            - label: Financial help if you’re self-employed
-              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
-            - label: Get an isolation note to give to your employer
-              url: https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-advice/
-            - label: Your rights if your hours are cut or you’re laid off
-              url: /lay-offs-short-timeworking
-            - label: What to do if you cannot pay your tax bill on time
-              url: /difficulties-paying-hmrc
     - title: School closures, education, and childcare
       sub_sections:
         - title:
