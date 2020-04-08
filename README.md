@@ -30,7 +30,7 @@ Once you've finished your edits, you'll need to commit the changes and make a
 pull request.  (You can ask the on-call dev to help you with this if you like).
 
 You then need to get your pull request approved and merged by someone else.
-GOV.UK developers and other members of the GOV.UK Content Design Github team
+GOV.UK developers and other members of the GOV.UK Content Design GitHub team
 can do this.
 
 Head over to https://collections-publisher.publishing.service.gov.uk/coronavirus
