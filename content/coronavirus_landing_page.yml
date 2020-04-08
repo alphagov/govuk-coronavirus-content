@@ -169,7 +169,7 @@ content:
     text: "Additional guidance is available"
     links:
       - label: "Scotland"
-        url: https://www.gov.scot/coronavirus-covid-19/
+        url: /guidance/coronavirus-covid-19-information-for-individuals-and-businesses-in-scotland
       - label: "Wales"
         url: https://gov.wales/coronavirus
       - label: "Northern Ireland"
