@@ -47,6 +47,8 @@ content:
               url: /government/publications/coronavirus-covid-19-information-leaflet
             - label: How to protect extremely vulnerable people (shielding)
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
+            - label: Contact a GP and order repeat prescriptions online  
+              url: https://www.nhs.uk/health-at-home/
             - label: Guidance on pregnancy and coronavirus
               url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
             - label: Support for victims of domestic violence
