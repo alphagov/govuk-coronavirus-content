@@ -120,14 +120,6 @@ content:
               url: /government/news/covid-19-essential-travel-guidance
     - title: How coronavirus is affecting public services
       sub_sections:
-        - title: Benefits
-          list:
-            - label: Employment and Support Allowance (ESA)
-              url: /employment-support-allowance/your-esa-claim
-            - label: Personal Independence Payment (PIP)
-              url: /pip/how-to-claim
-            - label: Universal Credit
-              url: /universal-credit/how-to-claim
         - title: Crime, justice and the law
           list:
             - label: Court and tribunal cases
