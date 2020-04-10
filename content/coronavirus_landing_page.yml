@@ -20,8 +20,7 @@ content:
       href: /government/news/chancellor-sets-out-extra-750-million-coronavirus-funding-for-frontline-charities
     - text: Tell the NHS about your current experience of coronavirus
       href: https://www.nhs.uk/coronavirus-status-checker
-    - text: If you’re self-employed, you’ll get up to £2,500 a month in grants for at least 3 months
-      href: /government/news/chancellor-gives-support-to-millions-of-self-employed-individuals
+    - text: UK plan ensures personal protective equipment (PPE) is delivered to workers who need it most
   nhs_banner:
     heading: "Do not leave home if you or someone you live with has either:"
     list:
@@ -102,6 +101,8 @@ content:
           list:
             - label: NHS guidance for people working in healthcare
               url: https://www.england.nhs.uk/coronavirus/
+            - label: Guidance on using appropriate personal protective equipment (PPE)
+              url: /government/collections/coronavirus-covid-19-personal-protective-equipment-ppe
             - label: How to protect people in residential care, supported living and home care
               url: /government/publications/covid-19-residential-care-supported-living-and-home-care-guidance
             - label: How to manage adult social care
