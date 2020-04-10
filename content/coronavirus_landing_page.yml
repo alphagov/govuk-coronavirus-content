@@ -53,6 +53,8 @@ content:
               url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
             - label: Support for victims of domestic violence
               url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
+            - label: Find out what you can do if you’re struggling because of coronavirus
+              url: /find-coronavirus-support
     - title: Employment and financial support
       sub_sections:
         - title:
@@ -69,6 +71,8 @@ content:
               url: /guidance/coronavirus-covid-19-what-to-do-if-youre-already-getting-benefits
             - label: Employers can apply for staff to get up to 80% pay if they can’t work
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/covid-19-guidance-for-employees
+            - label: Find out what you can do if you’re struggling because of coronavirus
+              url: /find-coronavirus-support
     - title: School closures, education, and childcare
       sub_sections:
         - title:
