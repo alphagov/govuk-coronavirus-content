@@ -21,6 +21,7 @@ content:
     - text: Tell the NHS about your current experience of coronavirus
       href: https://www.nhs.uk/coronavirus-status-checker
     - text: UK plan ensures personal protective equipment (PPE) is delivered to workers who need it most
+      href: /government/news/government-sets-out-plan-for-national-effort-on-ppe
   nhs_banner:
     heading: "Do not leave home if you or someone you live with has either:"
     list:
