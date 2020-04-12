@@ -114,12 +114,16 @@ content:
       sub_sections:
         - title:
           list:
+            - label: Guidance on essential travel
+              url: /guidance/coronavirus-covid-19-essential-international-travel-guidance
             - label: Information for British citizens travelling abroad
               url: /guidance/travel-advice-novel-coronavirus
             - label: Foreign travel advice for each country
               url: /foreign-travel-advice
             - label: Guidance for visa applicants in the UK and abroad
               url: /guidance/coronavirus-immigration-guidance-if-youre-unable-to-return-to-china-from-the-uk
+            - label: Guidance if you cannot return to the UK
+              url: /guidance/coronavirus-covid-19-staying-where-you-are-if-you-cannot-return-to-the-uk
             - label: Avoid travel to second homes, campsites and caravan parks
               url: /government/news/covid-19-essential-travel-guidance
             - label: Information for people using transport or working in the transport sector
