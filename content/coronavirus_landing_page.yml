@@ -209,7 +209,7 @@ content:
       next_conference_text: The next live press conference will be shown here
     date: 13th April 2020
     time: 5:00pm
-    show_video: true
+    show_video: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
