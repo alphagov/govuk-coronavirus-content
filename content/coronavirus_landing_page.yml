@@ -33,7 +33,7 @@ content:
   explainer_title:
   explainer_text:
   sections:
-    - title: How to protect yourself and others
+    - title: Protect yourself and others from coronavirus
       sub_sections:
         - title:
           list:
@@ -47,15 +47,19 @@ content:
               url: /government/publications/coronavirus-covid-19-information-leaflet
             - label: How to protect extremely vulnerable people (shielding)
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
-            - label: Contact a GP and order repeat prescriptions online
-              url: https://www.nhs.uk/health-at-home/
-            - label: Guidance on pregnancy and coronavirus
-              url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
             - label: Support for victims of domestic violence
               url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
             - label: Find out what you can do if you’re struggling because of coronavirus
               url: /find-coronavirus-support
-    - title: Employment and financial support
+    - title: Health and wellbeing
+      sub_sections:
+        - title:
+          list:
+            - label: Contact a GP and order repeat prescriptions online
+              url: https://www.nhs.uk/health-at-home/
+            - label: Guidance on pregnancy and coronavirus
+              url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
+    - title: Work, financial support and money
       sub_sections:
         - title:
           list:
@@ -71,7 +75,14 @@ content:
               url: /guidance/coronavirus-covid-19-what-to-do-if-youre-already-getting-benefits
             - label: Find out what you can do if you’re struggling because of coronavirus
               url: /find-coronavirus-support
-    - title: School closures, education, and childcare
+    - title: Businesses and self-employed
+      sub_sections:
+        - title:
+          list:
+            - label: Getting financial help and keeping your business safe
+              url: /coronavirus/business-support
+              featured_link: true
+    - title: Education and childcare
       sub_sections:
         - title:
           list:
@@ -87,28 +98,21 @@ content:
               url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
             - label: Full guidance for schools and other educational settings
               url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
-    - title: Business and self-employed
+    - title: Housing and accommodation
       sub_sections:
         - title:
           list:
-            - label: Getting financial help and keeping your business safe
-              url: /coronavirus/business-support
-              featured_link: true
-    - title: Healthcare workers and carers
+           - label: Planning inspections
+             url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
+    - title: Driving and transport in the UK
       sub_sections:
         - title:
           list:
-            - label: NHS guidance for people working in healthcare
-              url: https://www.england.nhs.uk/coronavirus/
-            - label: Guidance on using appropriate personal protective equipment (PPE)
-              url: /government/collections/coronavirus-covid-19-personal-protective-equipment-ppe
-            - label: Guidance for people working in social care
-              url: /government/collections/coronavirus-covid-19-social-care-guidance
-            - label: How to protect extremely vulnerable people (shielding)
-              url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
-            - label: Parking passes for healthcare workers and volunteers
-              url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
-    - title: Travel
+            - label: Information for people using transport or working in the transport sector
+              url: /government/collections/coronavirus-covid-19-transport-and-travel-guidance
+            - label: Avoid travel to second homes, campsites and caravan parks
+              url: https://www.gov.uk/government/news/covid-19-essential-travel-guidance
+    - title: International travel and immigration
       sub_sections:
         - title:
           list:
@@ -122,35 +126,7 @@ content:
               url: /guidance/coronavirus-covid-19-essential-international-travel-guidance
             - label: Guidance for visa applicants in the UK and abroad
               url: /guidance/coronavirus-immigration-guidance-if-youre-unable-to-return-to-china-from-the-uk
-            - label: Avoid travel to second homes, campsites and caravan parks
-              url: /government/news/covid-19-essential-travel-guidance
-            - label: Information for people using transport or working in the transport sector
-              url: /government/collections/coronavirus-covid-19-transport-and-travel-guidance
-    - title: How coronavirus is affecting public services
-      sub_sections:
-        - title: Crime, justice and the law
-          list:
-            - label: Court and tribunal cases
-              url: /guidance/coronavirus-covid-19-courts-and-tribunals-planning-and-preparation
-            - label: Visiting prisoners
-              url: /guidance/coronavirus-covid-19-and-prisons
-        - title: Driving and transport
-          list:
-            - label: Car, motorcycle and van MOTs extended by 6 months
-              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
-            - label: Driving and theory tests suspended
-              url: /guidance/coronavirus-covid-19-driving-tests-and-theory-tests
-            - label: MOTs for heavy vehicles suspended
-              url: /guidance/coronavirus-covid-19-mots-for-lorries-buses-and-trailers
-            - label: Relaxation of drivers’ hours rules
-              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations
-            - label: Vehicle approval tests suspended
-              url: /guidance/coronavirus-covid-19-vehicle-approval-tests
-        - title: Housing and local services
-          list:
-            - label: Planning inspections
-              url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
-    - title: How you can help
+    - title: Volunteering and offering help
       sub_sections:
         - title:
           list:
@@ -162,6 +138,20 @@ content:
               url: /guidance/help-the-government-increase-coronavirus-covid-19-testing-capacity
             - label: Help tackle false information spreading online
               url: https://sharechecklist.gov.uk/
+    - title: Healthcare workers, carers and care settings
+      sub_sections:
+        - title:
+          list:
+            - label: NHS guidance for people working in healthcare
+              url: https://www.england.nhs.uk/coronavirus/
+            - label: Guidance on using appropriate personal protective equipment (PPE)
+              url: /government/collections/coronavirus-covid-19-personal-protective-equipment-ppe
+            - label: Guidance for people working in social care
+              url: /government/collections/coronavirus-covid-19-social-care-guidance
+            - label: How to protect extremely vulnerable people (shielding)
+              url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
+            - label: Parking passes for healthcare workers and volunteers
+              url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
