@@ -16,7 +16,7 @@ content:
       text: "Read more about what you can and cannot&nbsp;do"
   announcements_label: Announcements
   announcements:
-    - text: £750 million extra funding for frontline charities
+    - text: test
       href: /government/news/chancellor-sets-out-extra-750-million-coronavirus-funding-for-frontline-charities
     - text: Tell the NHS about your current experience of coronavirus
       href: https://www.nhs.uk/coronavirus-status-checker
