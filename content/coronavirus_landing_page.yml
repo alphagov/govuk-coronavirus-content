@@ -111,11 +111,11 @@ content:
             - label: Information for people using transport or working in the transport sector
               url: /government/collections/coronavirus-covid-19-transport-and-travel-guidance
             - label: Car, motorcycle and van MOTs extended by 6 months
-              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020  
+              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
             - label: Driving tests and MOTs for heavy vehicles suspended
-              url: /government/news/driving-tests-and-mots-for-heavy-vehicles-suspended-for-up-to-3-months-to-help-tackle-spread-of-coronavirus  
-            - label: Relaxation of drivers’ hours rules 
-              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations  
+              url: /government/news/driving-tests-and-mots-for-heavy-vehicles-suspended-for-up-to-3-months-to-help-tackle-spread-of-coronavirus
+            - label: Relaxation of drivers’ hours rules
+              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations
             - label: Vehicle approval tests suspended
               url: /guidance/coronavirus-covid-19-vehicle-approval-tests
             - label: Avoid travel to second homes, campsites and caravan parks
@@ -203,7 +203,7 @@ content:
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
     date: 16th April 2020
-    show_video: true
+    show_video: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
