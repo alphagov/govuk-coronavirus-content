@@ -110,6 +110,14 @@ content:
           list:
             - label: Information for people using transport or working in the transport sector
               url: /government/collections/coronavirus-covid-19-transport-and-travel-guidance
+            - label: Car, motorcycle and van MOTs extended by 6 months
+              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020  
+            - label: Driving tests and MOTs for heavy vehicles suspended
+              url: /government/news/driving-tests-and-mots-for-heavy-vehicles-suspended-for-up-to-3-months-to-help-tackle-spread-of-coronavirus  
+            - label: Relaxation of drivers’ hours rules 
+              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations  
+            - label: Vehicle approval tests suspended
+              url: /guidance/coronavirus-covid-19-vehicle-approval-tests
             - label: Avoid travel to second homes, campsites and caravan parks
               url: https://www.gov.uk/government/news/covid-19-essential-travel-guidance
     - title: International travel and immigration
