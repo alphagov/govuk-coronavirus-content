@@ -68,7 +68,7 @@ content:
             - label: Guidance on pregnancy and coronavirus
               url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
             - label: Mental health and wellbeing
-              url: /government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing              
+              url: /government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing
     - title: Work, financial support and money
       sub_sections:
         - title:
@@ -217,7 +217,7 @@ content:
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
     date: 17th April 2020
-    show_video: true
+    show_video: false
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
