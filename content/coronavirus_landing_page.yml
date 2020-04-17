@@ -65,6 +65,8 @@ content:
               url: https://www.nhs.uk/health-at-home/
             - label: Guidance on pregnancy and coronavirus
               url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
+            - label: Mental health and wellbeing
+              url: /government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing              
     - title: Work, financial support and money
       sub_sections:
         - title:
