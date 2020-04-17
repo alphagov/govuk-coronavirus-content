@@ -88,7 +88,7 @@ content:
             - label: Getting financial help and keeping your business safe
               url: /coronavirus/business-support
               featured_link: true
-       - title: Education and childcare
+    - title: Education and childcare
       sub_sections:
         - title: Parents and carers
           list:
