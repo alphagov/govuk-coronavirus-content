@@ -90,7 +90,7 @@ content:
               featured_link: true
        - title: Education and childcare
       sub_sections:
-       - title: Parents and carers
+        - title: Parents and carers
           list:
             - label: What parents and carers need to know about closures
               url: /government/publications/closure-of-educational-settings-information-for-parents-and-carers  
@@ -98,11 +98,11 @@ content:
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
             - label: Supporting your children’s education during coronavirus 
               url: /government/publications/supporting-your-childrens-education-during-coronavirus-covid-19
-       - title: Teachers
+        - title: Teachers
           list:           
             - label: Remote education during coronavirus
               url: /government/publications/remote-education-during-coronavirus-covid-19
-       - title: Schools, colleges, and childcare providers
+        - title: Schools, colleges, and childcare providers
           list:
             - label: Guidance for schools and local authorities on closures
               url: /government/publications/covid-19-school-closures
