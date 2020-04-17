@@ -50,8 +50,8 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Financial support for businesses
-              url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19
+            - label: Find coronavirus financial support for your business
+              url: /business-coronavirus-support-finder
             - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
             - label: Apply for the Coronavirus Business Interruption Loan Scheme
