@@ -217,7 +217,7 @@ content:
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
     date: 18th April 2020
-    show_video: true
+    show_video: false
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
