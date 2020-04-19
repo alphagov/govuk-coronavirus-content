@@ -96,12 +96,12 @@ content:
               url: /government/publications/closure-of-educational-settings-information-for-parents-and-carers  
             - label: Schools opening for children of key workers and vulnerable children
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Supporting your children’s education during coronavirus 
-              url: /government/publications/supporting-your-childrens-education-during-coronavirus-covid-19
+            - label: Supporting your children's education during coronavirus 
+              url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
         - title: Teachers
           list:           
             - label: Remote education during coronavirus
-              url: /government/publications/remote-education-during-coronavirus-covid-19
+              url: /guidance/remote-education-during-coronavirus-covid-19
         - title: Schools, colleges, and childcare providers
           list:
             - label: Guidance for schools and local authorities on closures
@@ -115,7 +115,7 @@ content:
             - label: Full guidance for schools and other educational settings
               url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
             - label: Get help with technology for remote education during coronavirus
-              url: /government/publications/get-help-with-technology-for-remote-education-during-coronavirus-covid-19       
+              url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19       
     - title: Housing and accommodation
       sub_sections:
         - title:
