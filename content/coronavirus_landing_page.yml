@@ -97,13 +97,13 @@ content:
         - title: Parents and carers
           list:
             - label: What parents and carers need to know about closures
-              url: /government/publications/closure-of-educational-settings-information-for-parents-and-carers  
+              url: /government/publications/closure-of-educational-settings-information-for-parents-and-carers
             - label: Schools opening for children of key workers and vulnerable children
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Supporting your children's education during coronavirus 
+            - label: Supporting your children's education during coronavirus
               url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
         - title: Teachers
-          list:           
+          list:
             - label: Remote education during coronavirus
               url: /guidance/remote-education-during-coronavirus-covid-19
         - title: Schools, colleges, and childcare providers
@@ -119,7 +119,7 @@ content:
             - label: Full guidance for schools and other educational settings
               url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
             - label: Get help with technology for remote education during coronavirus
-              url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19       
+              url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19
     - title: Housing and accommodation
       sub_sections:
         - title:
@@ -228,8 +228,8 @@ content:
       url: https://www.youtube.com/user/Number10gov/videos
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
-    date: 18th April 2020
-    show_video: false
+    date: 19th April 2020
+    show_video: true
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
