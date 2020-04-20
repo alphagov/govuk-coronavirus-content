@@ -39,8 +39,8 @@ content:
   guidance_section:
     header: What you can do now
     list:
-      - text: Find out what financial support you can get for your business
-        url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19
+      - text: Find out what financial support schemes you may be eligible for
+        url: /business-coronavirus-support-finder
       - text: Find out how to claim for your employee’s wages through the Coronavirus Job Retention Scheme
         url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
       - text: Find out how to apply for a grant if you’re self-employed
@@ -50,8 +50,8 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Find coronavirus financial support for your business
-              url: /business-coronavirus-support-finder
+            - label: Find financial support for your business
+              url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19
             - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
             - label: Apply for the Coronavirus Business Interruption Loan Scheme
