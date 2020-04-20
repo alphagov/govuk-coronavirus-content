@@ -227,7 +227,8 @@ content:
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
     time:
-  live_stream_enabled: false
+  # to turn the live stream on or off, use https://collections-publisher.publishing.service.gov.uk/coronavirus/live_stream
+  live_stream_enabled: 
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
