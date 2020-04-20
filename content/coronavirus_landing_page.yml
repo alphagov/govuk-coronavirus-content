@@ -126,7 +126,7 @@ content:
           list:
            - label: Planning inspections
              url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
-           - label: Renting: guidance for landlords, tenants and local authorities
+           - label: "Renting: guidance for landlords, tenants and local authorities"
              url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities
     - title: Driving and transport in the UK
       sub_sections:
