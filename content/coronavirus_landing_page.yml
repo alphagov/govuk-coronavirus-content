@@ -16,8 +16,8 @@ content:
       text: "Read more about what you can and cannot&nbsp;do"
   announcements_label: Announcements
   announcements:
-    - text: Free laptops to help vulnerable and disadvantaged young people
-      href: /government/news/new-major-package-to-support-online-learning
+    - text: You can now claim for employee's wages through the Coronavirus Job Retention Scheme
+      href: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme 
     - text: Tell the NHS about your current experience of coronavirus
       href: https://www.nhs.uk/coronavirus-status-checker
     - text: UK plan ensures personal protective equipment (PPE) is delivered to workers who need it most
@@ -184,6 +184,10 @@ content:
               url: /government/publications/coronavirus-covid-19-providing-unpaid-care
             - label: Parking passes for healthcare workers and volunteers
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
+        - title: Testing
+          list: 
+            - label: Testing for frontline workers who are self-isolating
+              url: /guidance/coronavirus-covid-19-getting-tested
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
