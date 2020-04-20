@@ -226,8 +226,7 @@ content:
       url: https://www.youtube.com/user/Number10gov/videos
       previous_videos_text: View past coronavirus press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
-    date: 19th April 2020
-    show_video: false
+    time:
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
