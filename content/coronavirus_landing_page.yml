@@ -23,8 +23,8 @@ content:
     - text: UK plan ensures personal protective equipment (PPE) is delivered to workers who need it most
       href: /government/news/government-sets-out-plan-for-national-effort-on-ppe
   see_all_announcements_link:
-    - text: See all announcements
-      href: "/search/news-and-communications?topical_events%5B%5D=coronavirus-covid-19-uk-government-response"
+    text: See all announcements
+    href: "/search/news-and-communications?topical_events%5B%5D=coronavirus-covid-19-uk-government-response"
   nhs_banner:
     heading: "Do not leave home if you or someone you live with has either:"
     list:
