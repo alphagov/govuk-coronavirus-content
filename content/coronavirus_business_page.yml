@@ -52,8 +52,8 @@ content:
           list:
             - label: Find financial support for your business
               url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19
-            - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
-              url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
+            - label: Claim for wages through the Coronavirus Job Retention Scheme
+              url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
             - label: Apply for the Coronavirus Business Interruption Loan Scheme
               url: /guidance/apply-for-the-coronavirus-business-interruption-loan-scheme
             - label: Defer your VAT payments
@@ -90,8 +90,8 @@ content:
           list:
             - label: What you need to do and how to keep your employees safe
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19
-            - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
-              url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
+            - label: Claim for wages through the Coronavirus Job Retention Scheme
+              url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
             - label: "Statutory Sick Pay (SSP): employer guide"
               url: /employers-sick-pay
             - label: Claim back Statutory Sick Pay (SSP)
