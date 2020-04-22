@@ -41,8 +41,8 @@ content:
     list:
       - text: Find out what financial support schemes you may be eligible for
         url: /business-coronavirus-support-finder
-      - text: Find out how to claim for your employee’s wages through the Coronavirus Job Retention Scheme
-        url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
+      - text: Claim for wages through the Coronavirus Job Retention Scheme
+        url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
       - text: Find out how to apply for a grant if you’re self-employed
         url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
   sections:
