@@ -14,6 +14,8 @@ content:
     link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       text: "Read more about what you can and cannot&nbsp;do"
+      link_text: "Read more about what you can and"
+      link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
     - text: You can now claim for employee's wages through the Coronavirus Job Retention Scheme
