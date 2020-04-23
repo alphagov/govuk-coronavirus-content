@@ -71,6 +71,10 @@ content:
           list:
             - label: Guidance on testing for essential workers
               url: /guidance/coronavirus-covid-19-getting-tested
+            - label: Apply for a test if you’re an essential worker
+              url: https://self-referral.test-for-coronavirus.service.gov.uk/
+            - label: Book a test if you have a verification code
+              url: https://test-for-coronavirus.service.gov.uk/appointment
     - title: Health and wellbeing
       sub_sections:
         - title:
