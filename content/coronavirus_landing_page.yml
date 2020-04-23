@@ -65,9 +65,9 @@ content:
               url: /government/publications/coronavirus-covid-19-providing-unpaid-care
             - label: Support for victims of domestic violence
               url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
-        - title: Testing
-          list: 
-            - label: Testing for frontline workers who are self-isolating
+        - title: Testing for coronavirus (COVID-19)
+          list:
+            - label: Testing for key workers in England
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Health and wellbeing
       sub_sections:
@@ -197,7 +197,7 @@ content:
             - label: Parking passes for healthcare workers and volunteers
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
         - title: Testing
-          list: 
+          list:
             - label: Testing for frontline workers who are self-isolating
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Coronavirus (COVID-19) cases in the UK
