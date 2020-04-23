@@ -172,6 +172,8 @@ content:
       sub_sections:
         - title:
           list:
+            - label: How to volunteer 
+              url: /volunteering/coronavirus-volunteering
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
             - label: How to help others safely
