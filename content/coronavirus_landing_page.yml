@@ -69,7 +69,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Testing for frontline workers in England
+            - label: Testing for frontline workers
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Health and wellbeing
       sub_sections:
@@ -200,7 +200,7 @@ content:
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
         - title: Testing
           list:
-            - label: Testing for frontline workers in England
+            - label: Testing for frontline workers
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
