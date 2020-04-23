@@ -1,0 +1,58 @@
+content:
+  title: "Coronavirus (COVID-19): Education and childcare"
+  meta_description: "Get coronavirus (COVID-19) support"
+  page_title: "Education and Childcare"
+  header_section:
+    pretext: How nurseries, schools, colleges and universities are working during coronavirus (COVID-19)
+    list:
+      - Schools and nurseries remain closed to all pupils except children of keyworkers and vulnerable children
+      - Exams are cancelled and grades will be assessed differently
+      - Free school meals or food vouchers will be available for pupils not attending school
+  sections:
+    - title: School curriculum and teaching
+      sub_sections:
+        - title:
+          list:
+            - label: Supporting your children's education during coronavirus
+              url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
+    - title: Pupil wellbeing and safety
+      sub_sections:
+        - title:
+          list:
+            - label: Supporting children and young people’s mental health and wellbeing
+              url: /government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing
+    - title: Closures, exams and managing a school or early years setting
+      sub_sections:
+        - title:
+          list:
+            - label: Schools opening for children of key workers and vulnerable children
+              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
+    - title: Funding and support for schools and education providers
+      sub_sections:
+        - title:
+          list:
+            - label: Get help with technology for remote education during coronavirus
+              url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19
+    - title: Student accommodation, travel and financial support
+      sub_sections:
+        - title:
+          list:
+            - label: "Student loans: current students"
+              url: /guidance/guidance-for-current-students
+    - title: Further and higher education, skills and vocational training
+      sub_sections:
+        - title:
+          list:
+            - label: Apprentices, employers and training providers
+              url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
+  topic_section:
+    header: "All coronavirus education and childcare information on GOV.UK"
+    text: "Browse information related to coronavirus"
+    links:
+      - label: "News"
+        url: /search/news-and-communications?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
+      - label: "Guidance"
+        url: /search/all?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
+  notifications:
+    intro: "Stay up to date with GOV.UK"
+    email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
