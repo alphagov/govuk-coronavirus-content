@@ -64,9 +64,9 @@ content:
               url: /government/publications/coronavirus-covid-19-providing-unpaid-care
             - label: Support for victims of domestic violence
               url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
-        - title: Testing
+    - title: Testing for coronavirus (COVID-19)
           list: 
-            - label: Testing for frontline workers who are self-isolating
+            - label: Testing for key workers in England
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Health and wellbeing
       sub_sections:
