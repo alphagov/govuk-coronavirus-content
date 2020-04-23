@@ -24,9 +24,9 @@ content:
     - text: Tell the NHS about your current experience of coronavirus
       href: https://www.nhs.uk/coronavirus-status-checker
       published_text: Published 5 April 2020
-    - text: UK plan ensures personal protective equipment (PPE) is delivered to workers who need it most
-      href: /government/news/government-sets-out-plan-for-national-effort-on-ppe
-      published_text: Published 10 April 2020
+    - text: Guidance on testing for essential workers
+      href: /guidance/coronavirus-covid-19-getting-tested
+      published_text: Published 15 April 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/news-and-communications?topical_events%5B%5D=coronavirus-covid-19-uk-government-response"
@@ -69,7 +69,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Testing for frontline workers
+            - label: Guidance on testing for essential workers
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Health and wellbeing
       sub_sections:
