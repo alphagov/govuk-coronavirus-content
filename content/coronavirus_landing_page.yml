@@ -262,7 +262,7 @@ content:
       next_conference_text: The next live press conference will be shown here
     ask_a_question_visible: false
     ask_a_question_text: Ask a question at the next press conference
-    ask_a_question_link: https://www.gov.uk/ask
+    ask_a_question_link: /ask
     date_text: Live streamed
     date: 24th April 2020
     show_video: false
