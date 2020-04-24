@@ -15,36 +15,70 @@ content:
           list:
             - label: Supporting your children's education during coronavirus
               url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
+            - label: Online education resources
+              url: /government/publications/coronavirus-covid-19-online-education-resources
+            - label: Remote education during coronavirus
+              url: /guidance/remote-education-during-coronavirus-covid-19
     - title: Pupil wellbeing and safety
       sub_sections:
         - title:
           list:
             - label: Supporting children and young people’s mental health and wellbeing
               url: /government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing
+            - label: Free school meals
+              url: /government/publications/covid-19-free-school-meals-guidance
+            - label: Implementing social distancing in education and childcare settings
+              url: /government/publications/coronavirus-covid-19-implementing-social-distancing-in-education-and-childcare-settings
+            - label: Guidance on isolation for residential educational settings
+              url: /government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings
+            - label: Supporting vulnerable children
+              url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
+            - label: SEND risk assessment guidance
+              url: /government/publications/coronavirus-covid-19-send-risk-assessment-guidance
     - title: Closures, exams and managing a school or early years setting
       sub_sections:
         - title:
           list:
             - label: Schools opening for children of key workers and vulnerable children
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
+            - label: Guidance for schools and local authorities on closures
+              url: /government/publications/covid-19-school-closures
+            - label: Early years and childcare closures
+              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
+            - label: Guidance on early years education
+              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
+            - label: Exam cancellations, results and appeals
+              url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
+            - label: Changes to data collection
+              url: /government/publications/coronavirus-covid-19-reducing-burdens-on-educational-and-care-settings
     - title: Funding and support for schools and education providers
       sub_sections:
         - title:
           list:
             - label: Get help with technology for remote education during coronavirus
               url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19
+            - label: Financial support for education, early years and children’s social care
+              url: /government/publications/coronavirus-covid-19-financial-support-for-education-early-years-and-childrens-social-care
+            - label: Exceptional costs funding
+              url: /government/publications/coronavirus-covid-19-financial-support-for-schools
     - title: Student accommodation, travel and financial support
       sub_sections:
         - title:
           list:
             - label: "Student loans: current students"
               url: /guidance/guidance-for-current-students
+            - label: "Student loans: prospective students"
+              url: /guidance/guidance-for-prospective-students
+            - label: "Universities: teaching, exams, accommodation, fees, loans, visas"
+              url: https://dfemedia.blog.gov.uk/2020/04/09/university-students-covid19-faq/
     - title: Further and higher education, skills and vocational training
       sub_sections:
         - title:
           list:
             - label: Apprentices, employers and training providers
               url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
+            - label: College closures
+              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
   topic_section:
     header: "All coronavirus education and childcare information on GOV.UK"
     text: "Browse information related to coronavirus"
