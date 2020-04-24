@@ -176,7 +176,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: How to volunteer 
+            - label: How to volunteer
               url: /volunteering/coronavirus-volunteering
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
@@ -238,18 +238,22 @@ content:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
   live_stream:
-    title: Live press conference
+    title: Press conference
     video_url: https://www.youtube.com/embed/live_stream?channel=UC8o7mIMg3mmO9-dx3e2iFgw
     no_cookies:
       change_settings: "Change your cookie settings"
       change_settings_link: "/help/cookies"
-      to_watch: "to watch the live stream"
+      to_watch: "to watch the video"
       or: "or"
-      watch_link_text: "Watch the live stream on YouTube"
+      watch_link_text: "Watch on YouTube"
+      icon_text: "Video"
     previous_videos:
       url: https://www.youtube.com/user/Number10gov/videos
-      previous_videos_text: View past coronavirus press conferences on YouTube
+      previous_videos_text: Watch all press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
+    ask_a_question_text: Ask a question at the next press conference
+    ask_a_question_link: https://www.gov.uk
+    date_text: Live streamed
     date: 19th April 2020
     show_video: false
   live_stream_enabled: false
