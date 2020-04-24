@@ -248,7 +248,7 @@ content:
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
   live_stream:
     title: Press conference
-    video_url: https://www.youtube.com/watch?v=d3ieIwP4FKg&t=6s
+    video_url: https://www.youtube.com/watch?v=dm51XW3Pyio
     no_cookies:
       change_settings: "Change your cookie settings"
       change_settings_link: "/help/cookies"
@@ -263,7 +263,7 @@ content:
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: https://www.gov.uk
     date_text: Live streamed
-    date: 23rd April 2020
+    date: 24th April 2020
     show_video: false
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
