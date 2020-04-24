@@ -1,7 +1,7 @@
 content:
   title: "Coronavirus (COVID-19): Education and childcare"
-  meta_description: "Get coronavirus (COVID-19) support"
-  page_title: "Education and Childcare"
+  meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
+  page_title: "Education and childcare"
   header_section:
     pretext: How nurseries, schools, colleges and universities are working during coronavirus (COVID-19)
     list:
@@ -75,6 +75,8 @@ content:
       sub_sections:
         - title:
           list:
+            - label: University admissions
+              url: https://www.ucas.com/providers/coronavirus-update
             - label: Apprentices, employers and training providers
               url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
             - label: College closures
