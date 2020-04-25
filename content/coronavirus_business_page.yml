@@ -64,7 +64,7 @@ content:
               url: /guidance/coronavirus-support-for-business-from-outside-government
             - label: Additional government resources to support your business during coronavirus disruptions
               url: /guidance/additional-government-resources-to-support-your-business-during-coronavirus-disruptions
-            - label: Coronavirus support from Business Representative Organisations and Trade Associations
+            - label: Find out what support your business representative organisation (BRO) offers
               url: /guidance/coronavirus-support-from-business-representative-organisations-and-trade-associations
             - label: Case studies and blog posts about coronavirus business support
               url: https://businesssupport.blog.gov.uk/
@@ -92,6 +92,8 @@ content:
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19
             - label: Claim for wages through the Coronavirus Job Retention Scheme
               url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
+            - label: Social distancing at work: sector-specific guidance
+              url: /guidance/social-distancing-in-the-workplace-during-coronavirus-covid-19-sector-guidance
             - label: "Statutory Sick Pay (SSP): employer guide"
               url: /employers-sick-pay
             - label: Claim back Statutory Sick Pay (SSP)
