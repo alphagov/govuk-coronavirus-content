@@ -249,6 +249,8 @@ content:
   live_stream:
     title: Press conference
     video_url: https://www.youtube.com/watch?v=UF8mC-T0u6k
+    date: 26th April 2020
+    date_text: Live streamed
     no_cookies:
       change_settings: "Change your cookie settings"
       change_settings_link: "/help/cookies"
@@ -263,8 +265,6 @@ content:
     ask_a_question_visible: false
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: /ask
-    date_text: Live streamed
-    date: 26th April 2020
     show_video: false
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
