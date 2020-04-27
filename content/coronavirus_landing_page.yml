@@ -108,32 +108,11 @@ content:
               featured_link: true
     - title: Education and childcare
       sub_sections:
-        - title: Parents and carers
+        - title:
           list:
-            - label: What parents and carers need to know about closures
-              url: /government/publications/closure-of-educational-settings-information-for-parents-and-carers
-            - label: Schools opening for children of key workers and vulnerable children
-              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Supporting your children's education during coronavirus
-              url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
-        - title: Teachers
-          list:
-            - label: Remote education during coronavirus
-              url: /guidance/remote-education-during-coronavirus-covid-19
-        - title: Schools, colleges, and childcare providers
-          list:
-            - label: Guidance for schools and local authorities on closures
-              url: /government/publications/covid-19-school-closures
-            - label: Cancelled exams
-              url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-            - label: Supporting vulnerable children
-              url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
-            - label: Guidance on early years education
-              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
-            - label: Full guidance for schools and other educational settings
-              url: /government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings
-            - label: Get help with technology for remote education during coronavirus
-              url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19
+            - label: How nurseries, schools, colleges and universities are working
+              url: /coronavirus/education-and-childcare
+              featured_link: true
     - title: Housing and accommodation
       sub_sections:
         - title:
