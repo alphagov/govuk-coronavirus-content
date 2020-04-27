@@ -225,16 +225,6 @@ content:
         url: https://gov.wales/coronavirus
       - label: "Northern Ireland"
         url: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19
-  country_section:
-    header: "If you live in Scotland, Wales or Northern Ireland"
-    text: "Additional guidance is available"
-    links:
-      - label: "Scotland"
-        url: /guidance/coronavirus-covid-19-information-for-individuals-and-businesses-in-scotland
-      - label: "Wales"
-        url: https://gov.wales/coronavirus
-      - label: "Northern Ireland"
-        url: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19
   topic_section:
     header: "All coronavirus (COVID-19) information"
     text: "Browse information related to coronavirus"
