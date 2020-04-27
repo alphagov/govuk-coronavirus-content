@@ -3,7 +3,7 @@ content:
   meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
   page_title: "Education and childcare"
   header_section:
-    pretext: How nurseries, schools, colleges and universities are working during coronavirus (COVID-19)
+    pretext: How universities, nurseries, schools and colleges are working during coronavirus (COVID-19)
     list:
       - Schools and nurseries remain closed to all pupils except children of keyworkers and vulnerable children
       - Exams are cancelled and grades will be assessed differently
@@ -51,7 +51,7 @@ content:
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
             - label: Changes to data collection
               url: /government/publications/coronavirus-covid-19-reducing-burdens-on-educational-and-care-settings
-    - title: Funding and support for schools and education providers
+    - title: Funding and support for education providers
       sub_sections:
         - title:
           list:
@@ -71,7 +71,7 @@ content:
               url: /guidance/guidance-for-prospective-students
             - label: "Universities: teaching, exams, accommodation, fees, loans, visas"
               url: https://dfemedia.blog.gov.uk/2020/04/09/university-students-covid19-faq/
-    - title: Further and higher education, skills and vocational training
+    - title: Further and higher education and vocational training
       sub_sections:
         - title:
           list:
