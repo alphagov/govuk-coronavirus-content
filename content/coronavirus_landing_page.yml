@@ -75,6 +75,8 @@ content:
               url: https://self-referral.test-for-coronavirus.service.gov.uk/
             - label: Book a coronavirus (COVID-19) test if you have a verification code
               url: https://test-for-coronavirus.service.gov.uk/appointment
+            - label: Apply for a coronavirus (COVID-19) test if you have a clinical referral
+              url: https://self-referral.test-for-coronavirus.service.gov.uk/test-type
     - title: Health and wellbeing
       sub_sections:
         - title:
