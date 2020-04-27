@@ -83,12 +83,11 @@ content:
               url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
   topic_section:
     header: "All coronavirus education and childcare information on GOV.UK"
-    text: "Browse information related to coronavirus"
     links:
-      - label: "News"
-        url: /search/news-and-communications?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
       - label: "Guidance"
         url: /search/all?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
+      - label: "News"
+        url: /search/news-and-communications?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
