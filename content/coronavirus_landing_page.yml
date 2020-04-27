@@ -262,7 +262,7 @@ content:
       url: https://www.youtube.com/user/Number10gov/videos
       previous_videos_text: Watch all press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
-    ask_a_question_visible: false
+    ask_a_question_visible: true
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: /ask
     show_video: false
