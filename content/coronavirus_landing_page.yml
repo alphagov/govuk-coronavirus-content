@@ -17,15 +17,15 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
+   -  text: Coronavirus (COVID-19) testing extended to all essential workers in England who have symptoms
+      href: /government/news/coronavirus-testing-extended-to-all-essential-workers-in-england-who-have-symptoms
+      published_text: Published 23 April 2020
     - text: You can now claim for employee's wages through the Coronavirus Job Retention Scheme
       href: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
       published_text: Published 20 April 2020
     - text: Tell the NHS about your current experience of coronavirus
       href: https://www.nhs.uk/coronavirus-status-checker
       published_text: Published 5 April 2020
-    - text: Coronavirus (COVID-19) testing extended to all essential workers in England who have symptoms
-      href: /government/news/coronavirus-testing-extended-to-all-essential-workers-in-england-who-have-symptoms
-      published_text: Published 23 April 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/news-and-communications?topical_events%5B%5D=coronavirus-covid-19-uk-government-response"
