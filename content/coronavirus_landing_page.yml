@@ -69,7 +69,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Guidance on testing for essential workers
+            - label: Full guidance on coronavirus testing and eligibility
               url: /guidance/coronavirus-covid-19-getting-tested
             - label: Apply for a coronavirus test if you’re an essential worker
               url: https://self-referral.test-for-coronavirus.service.gov.uk/
