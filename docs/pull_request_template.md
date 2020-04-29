@@ -1,7 +1,7 @@
-### What
-<!-- eg _Changes to accordian links on the Coronavirus business page_ -->
+:warning: Only merge this pull request if you are happy for the changes to be made live :warning:
 
-### Why
-<!-- eg _Request from BEIS_ -->
+# What
+<!-- eg Changes to accordion links on the Coronavirus business page -->
 
-### :warning: Only merge this pull request if you are happy for the changes to be made live :warning:
+# Why
+<!-- eg Request from BEIS -->
