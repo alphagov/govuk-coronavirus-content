@@ -17,7 +17,7 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
-    - text: You can now claim for employee's wages through the Coronavirus Job Retention Scheme
+    - text: You can now claim back stuff for employee's wages through the Coronavirus Job Retention Scheme
       href: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
       published_text: Published 20 April 2020
     - text: Tell the NHS about your current experience of coronavirus
