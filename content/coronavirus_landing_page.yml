@@ -17,7 +17,7 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
-   -  text: Coronavirus (COVID-19) testing extended to all essential workers in England who have symptoms
+    - text: Coronavirus (COVID-19) testing extended to all essential workers in England who have symptoms
       href: /government/news/coronavirus-testing-extended-to-all-essential-workers-in-england-who-have-symptoms
       published_text: Published 23 April 2020
     - text: You can now claim for employee's wages through the Coronavirus Job Retention Scheme
