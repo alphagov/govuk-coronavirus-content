@@ -221,7 +221,7 @@ content:
   live_stream:
     title: Press conference
     video_url: https://www.youtube.com/watch?v=Tccer6BFKDw
-    date: 28th April 2020
+    date: 28 April 2020
     date_text: Live streamed
     no_cookies:
       change_settings: "Change your cookie settings"
