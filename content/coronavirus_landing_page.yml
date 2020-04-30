@@ -245,6 +245,8 @@ content:
     ask_a_question_visible: true
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: /ask
+    transcript_text: Read all press conference statements
+    transcript_link: /government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts
     show_video: false
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
