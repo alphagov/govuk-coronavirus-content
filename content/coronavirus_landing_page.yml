@@ -238,8 +238,6 @@ content:
       or: "or"
       watch_link_text: "Watch on YouTube"
       icon_text: "Video"
-    - label: "Read all press conference statements"
-      url: https://www.gov.uk/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts
     previous_videos:
       url: https://www.youtube.com/user/Number10gov/videos
       previous_videos_text: Watch all press conferences on YouTube
@@ -247,6 +245,8 @@ content:
     ask_a_question_visible: true
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: /ask
+    transcript_text: Read all press conference statements
+    transcript_link: /government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts
     show_video: false
   live_stream_enabled: false
   # https://schema.org/SpecialAnnouncement fields
