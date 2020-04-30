@@ -228,8 +228,6 @@ content:
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
   live_stream:
     title: Press conference
-    video_url: https://www.youtube.com/watch?v=69O-vVjErwQ
-    date: 29 April 2020
     date_text: Live streamed
     no_cookies:
       change_settings: "Change your cookie settings"
@@ -247,8 +245,9 @@ content:
     ask_a_question_link: /ask
     transcript_text: Read all press conference statements
     transcript_link: /government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts
-    show_video: false
-  live_stream_enabled: false
+    # video_url and date are set by https://collections-publisher.publishing.service.gov.uk/coronavirus/live_stream.
+    video_url:
+    date:
   # https://schema.org/SpecialAnnouncement fields
   special_announcement_schema:
     category: https://www.wikidata.org/wiki/Q81068910
