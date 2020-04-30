@@ -193,7 +193,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: What to do when someone dies: step-by-step
+            - label: "What to do when someone dies: step-by-step"
               url: https://www.gov.uk/when-someone-dies
             - label: Check if you can get Bereavement Support Payment
               url: https://www.gov.uk/bereavement-support-payment
