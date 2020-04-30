@@ -71,12 +71,10 @@ content:
           list:
             - label: Full guidance on coronavirus testing and eligibility
               url: /guidance/coronavirus-covid-19-getting-tested
-            - label: Apply for a coronavirus test if you’re an essential worker
-              url: https://self-referral.test-for-coronavirus.service.gov.uk/
+            - label: Apply for a coronavirus test if you’re eligible
+              url: https://www.gov.uk/apply-coronavirus-test
             - label: Book a coronavirus test if you have a verification code
               url: https://test-for-coronavirus.service.gov.uk/appointment
-            - label: Apply for a coronavirus test if you have a clinical referral, are aged 65 or over and have symptoms, or must currently travel to work and have symptoms
-              url: https://self-referral.test-for-coronavirus.service.gov.uk/test-type
     - title: Health and wellbeing
       sub_sections:
         - title:
