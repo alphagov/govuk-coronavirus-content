@@ -184,11 +184,21 @@ content:
             - label: Guidance for unpaid carers
               url: /government/collections/coronavirus-covid-19-social-care-guidance#guidance-for-unpaid-carers
             - label: Parking passes for healthcare workers and volunteers
-              url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
+              url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concession
         - title: Testing
           list:
             - label: Testing for frontline workers
               url: /guidance/coronavirus-covid-19-getting-tested
+    - title: Support if someone dies
+      sub_sections:
+        - title:
+          list:
+            - label: What to do when someone dies: step-by-step
+              url: https://www.gov.uk/when-someone-dies
+            - label: Check if you can get Bereavement Support Payment
+              url: https://www.gov.uk/bereavement-support-payment
+            - label: Check if you can get help with funeral costs
+              url: https://www.gov.uk/funeral-payments
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
