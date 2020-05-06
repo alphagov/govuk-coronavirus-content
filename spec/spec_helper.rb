@@ -1,4 +1,3 @@
-require "support/link_helpers.rb"
 require "support/config_helpers.rb"
 
 RSpec.configure do |config|
