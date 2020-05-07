@@ -23,25 +23,19 @@ content:
         - title:
           list:
             - label: Find financial support for your business
-              url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19
-            - label: Claim for wages through the Coronavirus Job Retention Scheme
-              url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
-            - label: Apply for the Coronavirus Business Interruption Loan Scheme
-              url: /guidance/apply-for-the-coronavirus-business-interruption-loan-scheme
-            - label: Defer your VAT payments
-              url: /guidance/deferral-of-vat-payments-due-to-coronavirus-covid-19
-            - label: Prevent your business from being evicted
-              url: /government/news/extra-protection-for-businesses-with-ban-on-evictions-for-commercial-tenants-who-miss-rent-payments
+              url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19     
             - label: Find out what support your business representative organisation (BRO) offers
               url: /guidance/coronavirus-support-from-business-representative-organisations-and-trade-associations
             - label: Coronavirus support for business from outside government
               url: /guidance/coronavirus-support-for-business-from-outside-government
             - label: Additional government resources to support your business during coronavirus disruptions
               url: /guidance/additional-government-resources-to-support-your-business-during-coronavirus-disruptions
-            - label: Case studies and blog posts about coronavirus business support
+            - label: Case studies and blog posts about coronavirus business support 
               url: https://businesssupport.blog.gov.uk/
             - label: Support for UK businesses trading internationally
               url: https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-for-uk-businesses/coronavirus-covid-19-guidance-for-uk-businesses-trading-internationally
+            - label: Rules that have been relaxed to help businesses during the coronavirus pandemic
+              url: /guidance/rules-that-have-been-relaxed-to-help-businesses-during-the-coronavirus-pandemic
     - title: Self-employed people and sole traders
       sub_sections:
         - title:
@@ -52,10 +46,6 @@ content:
               url: /self-employment-and-universal-credit
             - label: If you cannot pay your tax bill on time
               url: /difficulties-paying-hmrc
-            - label: Carry out work in people’s homes safely (tradespeople)
-              url: /guidance/social-distancing-in-the-workplace-during-coronavirus-covid-19-sector-guidance#tradespeople-and-working-in-peoples-homes
-            - label: Drivers’ hours rules relaxations
-              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations
             - label: Negotiate a mortgage payment holiday
               url: https://www.fca.org.uk/consumers/mortgages-coronavirus-consumers
     - title: Your responsibilities as an employer
@@ -64,12 +54,8 @@ content:
           list:
             - label: What you need to do and how to keep your employees safe
               url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19
-            - label: Claim for wages through the Coronavirus Job Retention Scheme
-              url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
             - label: "Social distancing at work: sector-specific guidance"
               url: /guidance/social-distancing-in-the-workplace-during-coronavirus-covid-19-sector-guidance
-            - label: "Statutory Sick Pay (SSP): employer guide"
-              url: /employers-sick-pay
             - label: Claim back Statutory Sick Pay (SSP)
               url: /guidance/claim-back-statutory-sick-pay-paid-to-employees-due-to-coronavirus-covid-19
             - label: Find out what to do if your employee needs time off to look after dependants
@@ -88,8 +74,6 @@ content:
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
             - label: Handwashing advice posters
               url: https://coronavirusresources.phe.gov.uk/hand-hygiene/resources/
-            - label: Rules that have been relaxed to help businesses during the coronavirus pandemic
-              url: /guidance/rules-that-have-been-relaxed-to-help-businesses-during-the-coronavirus-pandemic
             - label: Construction sites and safe working
               url: /guidance/remediation-and-covid-19-building-safety-update-27-march-2020
             - label: Farmers, landowners and rural businesses
@@ -114,18 +98,8 @@ content:
           list:
             - label: Businesses that must close
               url: /government/publications/further-businesses-and-premises-to-close/further-businesses-and-premises-to-close-guidance
-            - label: "If you’re staying open for business: safe working guidance"
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19
             - label: Closing holiday accommodation to temporary residents
               url: /guidance/covid-19-advice-for-accommodation-providers
-            - label: Claim for your employee’s wages through the Coronavirus Job Retention Scheme
-              url: /guidance/claim-for-wage-costs-through-the-coronavirus-job-retention-scheme
-    - title: How you can help
-      sub_sections:
-        - title:
-          list:
-            - label: Offer the help of your business
-              url: /coronavirus-support-from-business
   topic_section:
     header: "All coronavirus business support information on GOV.UK"
     links:
