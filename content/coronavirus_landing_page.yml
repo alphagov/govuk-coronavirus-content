@@ -72,7 +72,7 @@ content:
             - label: Full guidance on coronavirus testing and eligibility
               url: /guidance/coronavirus-covid-19-getting-tested
             - label: Apply for a coronavirus test if you’re eligible
-              url: https://www.gov.uk/apply-coronavirus-test
+              url: /apply-coronavirus-test
             - label: Book a coronavirus test if you have a verification code
               url: https://test-for-coronavirus.service.gov.uk/appointment
     - title: Health and wellbeing
@@ -140,7 +140,7 @@ content:
             - label: Vehicle approval tests suspended
               url: /guidance/coronavirus-covid-19-vehicle-approval-tests
             - label: Avoid travel to second homes, campsites and caravan parks
-              url: https://www.gov.uk/government/news/covid-19-essential-travel-guidance
+              url: /government/news/covid-19-essential-travel-guidance
     - title: International travel and immigration
       sub_sections:
         - title:
@@ -198,11 +198,11 @@ content:
         - title:
           list:
             - label: "What to do when someone dies: step-by-step"
-              url: https://www.gov.uk/when-someone-dies
+              url: /when-someone-dies
             - label: Check if you can get Bereavement Support Payment
-              url: https://www.gov.uk/bereavement-support-payment
+              url: /bereavement-support-payment
             - label: Check if you can get help with funeral costs
-              url: https://www.gov.uk/funeral-payments
+              url: /funeral-payments
     - title: Coronavirus (COVID-19) cases in the UK
       sub_sections:
         - title:
@@ -258,7 +258,7 @@ content:
     # date_posted: uses the content_item's public_updated_at property
     disease_prevention_info_url: https://www.nhs.uk/conditions/coronavirus-covid-19/
     disease_spread_statistics_url: https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases
-    # getting_tested_info_url: No appropriate URL available at present
+    getting_tested_info_url: https://www.gov.uk/apply-coronavirus-test
     news_updates_and_guidelines_url: https://www.gov.uk/coronavirus
     public_transport_closures_info_url: https://www.gov.uk/guidance/coronavirus-covid-19-uk-transport-and-travel-advice
     quarantine_guidelines_url: https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
