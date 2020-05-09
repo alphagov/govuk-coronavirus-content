@@ -1,7 +1,7 @@
 content:
-  title: "Coronavirus (COVID-19): what you need to do"
-  meta_description: "Find out about the government response to coronavirus (COVID-19) and what you need to do."
-  page_header: "Coronavirus (COVID-19): what you need to do"
+  title: "Coronavirus (COVID-19): guidance and support"
+  meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
+  page_header: "Coronavirus (COVID&#8209;19)"
   stay_at_home:
     pretext: Stay at home
     list:
@@ -231,7 +231,7 @@ content:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
   live_stream:
-    title: Press conference
+    title: Press conferences and speeches
     date_text: Live streamed
     no_cookies:
       change_settings: "Change your cookie settings"
