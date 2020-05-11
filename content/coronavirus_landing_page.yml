@@ -75,6 +75,8 @@ content:
               url: /apply-coronavirus-test
             - label: Book a coronavirus test if you have a verification code
               url: https://test-for-coronavirus.service.gov.uk/appointment
+            - label: Apply for tests for a care home
+              url: /apply-coronavirus-test-care-home
     - title: Health and wellbeing
       sub_sections:
         - title:
