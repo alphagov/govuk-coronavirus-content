@@ -93,7 +93,7 @@ content:
               url: /guidance/coronavirus-covid-19-accessing-food-and-essential-supplies
             - label: Support for victims of domestic violence
               url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
-    - title: Work, financial support and money
+    - title: Employment, financial support and money
       sub_sections:
         - title:
           list:
@@ -109,6 +109,12 @@ content:
               url: /guidance/coronavirus-covid-19-what-to-do-if-youre-already-getting-benefits
             - label: Improve your digital and numeracy skills with free online courses
               url: https://theskillstoolkit.campaign.gov.uk/
+    - title: Working safely
+      sub_sections:
+        - title:
+          list:
+            - label: Find out how to make your workplace COVID-secure
+              url: /workingsafely
     - title: Businesses and self-employed people
       sub_sections:
         - title:
