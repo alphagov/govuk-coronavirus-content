@@ -5,11 +5,11 @@ content:
   stay_at_home:
     pretext: Stay alert
     list:
-      - Stay at home as much as possible
-      - Work from home if you can
-      - Limit contact with other people
-      - Keep your distance if you go out (2 metres apart where possible)
-      - Wash your hands regularly
+      - stay at home as much as possible
+      - work from home if you can
+      - limit contact with other people
+      - keep your distance if you go out (2 metres apart where possible)
+      - wash your hands regularly
   guidance:
     pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
     pretext-2: Self-isolate if you or anyone in your household has symptoms.
