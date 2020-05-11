@@ -2,17 +2,16 @@ content:
   title: "Coronavirus (COVID-19): guidance and support"
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
-  stay_at_home:
-    pretext: Stay alert
+  header_section:
+    title: Stay alert
+    pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
+    pretext-2: Self-isolate if you or anyone in your household has symptoms.
     list:
       - stay at home as much as possible
       - work from home if you can
       - limit contact with other people
       - keep your distance if you go out (2 metres apart where possible)
       - wash your hands regularly
-  guidance:
-    pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Self-isolate if you or anyone in your household has symptoms.
     link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       link_text: "Read more about what you can and"
