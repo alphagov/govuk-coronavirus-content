@@ -52,47 +52,27 @@ content:
       sub_sections:
         - title:
           list:
-            - label: What you need to do and how to keep your employees safe
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19
-            - label: "Social distancing at work: sector-specific guidance"
-              url: /guidance/social-distancing-in-the-workplace-during-coronavirus-covid-19-sector-guidance
             - label: Claim back Statutory Sick Pay (SSP)
               url: /guidance/claim-back-statutory-sick-pay-paid-to-employees-due-to-coronavirus-covid-19
             - label: Find out what to do if your employee needs time off to look after dependants
-              url: /government/publications/guidance-to-employers-and-businesses-about-covid-19/guidance-for-employers-and-businesses-on-coronavirus-covid-19#what-to-do-if-an-employee-needs-time-off-work-to-look-after-someone
+              url: https://www.acas.org.uk/coronavirus/time-off-work-to-look-after-someone
             - label: Which expenses are taxable if your employees work from home
               url: /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
             - label: "Apprenticeships: how they can continue"
               url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
             - label: Guidance for Tier 2, 4 and 5 visa sponsors of people affected by coronavirus
               url: /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
-    - title: Managing your business during coronavirus
+    - title: How to run your business safely
       sub_sections:
         - title:
-          list:
+          list:              
+            - label: Find out how to make your workplace COVID-secure
+              url: /workingsafely
+            - label: How to carry out a COVID-19 risk asssessment
+              url: https://www.hse.gov.uk/risk/assessment.htm
             - label: Cleaning your workplace safely
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
-            - label: Handwashing advice posters
-              url: https://coronavirusresources.phe.gov.uk/hand-hygiene/resources/
-            - label: Construction sites and safe working
-              url: /guidance/remediation-and-covid-19-building-safety-update-27-march-2020
-            - label: Farmers, landowners and rural businesses
-              url: /guidance/coronavirus-covid-19-information-for-farmers-landowners-and-rural-businesses
-            - label: Food businesses
-              url: /government/publications/covid-19-guidance-for-food-businesses
-            - label: Freight transport businesses
-              url: /government/publications/covid-19-guidance-on-freight-transport
-            - label: Medical and healthcare industry
-              url: /government/collections/mhra-guidance-on-coronavirus-covid-19
-            - label: Shipping and sea ports businesses
-              url: /government/publications/covid-19-shipping-and-sea-ports-guidance
-            - label: Supported accommodation, residential care and home care
-              url: /government/publications/covid-19-residential-care-supported-living-and-home-care-guidance
-            - label: Transport businesses
-              url: /government/publications/covid-19-guidance-for-staff-in-the-transport-sector
-            - label: Avoid and report coronavirus scammers
-              url: /report-suspicious-emails-websites-phishing
-    - title: Business closures
+    - title: What businesses should be closed
       sub_sections:
         - title:
           list:
