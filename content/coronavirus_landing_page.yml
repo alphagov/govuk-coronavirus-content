@@ -13,10 +13,6 @@ content:
   guidance:
     pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
     pretext-2: Self-isolate if you or anyone in your household has symptoms.
-    pretext-3:
-      href: /government/speeches/pm-address-to-the-nation-on-coronavirus-10-may-2020
-      link-text: Read the Prime Minister's address
-      link_nowrap_text: for the latest information.
     link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       link_text: "Read more about what you can and"
