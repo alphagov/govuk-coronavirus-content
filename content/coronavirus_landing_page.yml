@@ -140,8 +140,10 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Information for people using transport or working in the transport sector
-              url: /government/collections/coronavirus-covid-19-transport-and-travel-guidance
+            - label: Safer travel guidance for passengers
+              url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
+            - label: Safer transport guidance for operators
+              url: /government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators
             - label: Car, motorcycle and van MOTs extended by 6 months
               url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
             - label: Driving tests and MOTs for heavy vehicles suspended
