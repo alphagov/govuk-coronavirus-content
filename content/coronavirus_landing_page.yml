@@ -13,8 +13,6 @@ content:
       - wash your hands regularly
   guidance:
     pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Do not leave home if you or anyone in your household has symptoms.
-    link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       link_text: "Read more about what you can and"
       link_nowrap_text: "cannot do"
@@ -22,7 +20,7 @@ content:
   header_section:
     title: Stay alert
     pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Self-isolate if you or anyone in your household has symptoms.
+    pretext-2: Do not leave home if you or anyone in your household has symptoms.
     list:
       - stay at home as much as possible
       - work from home if you can
