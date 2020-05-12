@@ -277,3 +277,6 @@ content:
     quarantine_guidelines_url: https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
     school_closures_info_url: https://www.gov.uk/check-school-closure
     travel_bans_url: https://www.gov.uk/guidance/travel-advice-novel-coronavirus
+  # The following sections are here temporarily to unblock publishing
+  stay_at_home: "DO NOT USE THIS"
+  guidance: "DO NOT USE THIS"
