@@ -2,27 +2,10 @@ content:
   title: "Coronavirus (COVID-19): guidance and support"
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
-  # ---- this section can be deleted once the pr for collections to read from header_section has been deployed ----#
-  stay_at_home:
-    pretext: Stay alert
-    list:
-      - stay at home as much as possible
-      - work from home if you can
-      - limit contact with other people
-      - keep your distance if you go out (2 metres apart where possible)
-      - wash your hands regularly
-  guidance:
-    pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Self-isolate if you or anyone in your household has symptoms.
-    link:
-      href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
-      link_text: "Read more about what you can and"
-      link_nowrap_text: "cannot do"
-  # ----- end ------- #
   header_section:
     title: Stay alert
     pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Self-isolate if you or anyone in your household has symptoms.
+    pretext-2: Do not leave home if you or anyone in your household has symptoms.
     list:
       - stay at home as much as possible
       - work from home if you can
@@ -219,6 +202,8 @@ content:
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
         - title: Testing
           list:
+            - label: Apply for tests for a care home
+              url: /apply-coronavirus-test-care-home
             - label: Testing for frontline workers
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Support if someone dies
