@@ -226,7 +226,7 @@ content:
       - label: "Northern Ireland"
         url: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19
   statistics_section:
-    header: "Statistics"
+    header: Statistics
     links:
       - label: Track coronavirus cases in the UK
         url: /government/publications/covid-19-track-coronavirus-cases
