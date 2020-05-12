@@ -13,7 +13,7 @@ content:
       - wash your hands regularly
   guidance:
     pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Self-isolate if you or anyone in your household has symptoms.
+    pretext-2: Do not leave home if you or anyone in your household has symptoms.
     link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       link_text: "Read more about what you can and"
@@ -219,6 +219,8 @@ content:
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
         - title: Testing
           list:
+            - label: Apply for tests for a care home
+              url: /apply-coronavirus-test-care-home
             - label: Testing for frontline workers
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Support if someone dies
