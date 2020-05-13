@@ -133,7 +133,9 @@ content:
         - title:
           list:
            - label: "Renting: guidance for landlords, tenants and local authorities"
-             url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities
+             url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities           
+           - label: "Moving homes during the coronavirus outbreak"
+             url: /guidance/government-advice-on-home-moving-during-the-coronavirus-covid-19-outbreak                
            - label: Planning inspections
              url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
     - title: Driving and transport in the UK
