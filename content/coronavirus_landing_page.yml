@@ -273,9 +273,14 @@ content:
       url: https://www.youtube.com/user/Number10gov/videos
       previous_videos_text: Watch all press conferences on YouTube
       next_conference_text: The next live press conference will be shown here
+    # set spaced_links to true to insert breaks in the list of links, for increased legibility
+    spaced_links: false
     ask_a_question_visible: true
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: /ask
+    popular_questions_link_visible: false
+    see_popular_questions_text: See the types of questions submitted by the public
+    see_popular_questions_link: /we-dont-know-this-yet
     transcript_text: Read all press conference statements
     transcript_link: /government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts
     # video_url and date are set by https://collections-publisher.publishing.service.gov.uk/coronavirus/live_stream.
