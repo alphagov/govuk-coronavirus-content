@@ -30,6 +30,17 @@ content:
   see_all_announcements_link:
     text: See all announcements
     href: "/search/news-and-communications?topical_events%5B%5D=coronavirus-covid-19-uk-government-response"
+  risk_level:
+    #set show_risk_level_section to true to display the risk/alert level section on the landing page
+    show_risk_level_section: true
+    heading: COVID-19 alert level
+    paragraph: Level X of 5 – there is something happening
+    # bold_text should be the portion of the paragraph you would like to make bold.
+    # for instance, if our paragraph is "Find information on coronavirus", and we want the word "coronavirus" to be bold, we would set bold_text: coronavirus
+    bold_text: Level X of 5
+    link:
+      href: /
+      text: Read more about COVID-19 alert levels
   nhs_banner:
     heading: "Do not leave home if you or someone you live with has either:"
     list:
