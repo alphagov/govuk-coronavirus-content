@@ -279,8 +279,8 @@ content:
     ask_a_question_text: Ask a question at the next press conference
     ask_a_question_link: /ask
     popular_questions_link_visible: true
-    see_popular_questions_text: See the types of questions submitted by the public
-    see_popular_questions_link: /we-dont-know-this-yet
+    see_popular_questions_text: See answers to the most common topics asked about by the public
+    see_popular_questions_link: /guidance/answers-to-the-most-common-topics-asked-about-by-the-public-for-the-coronavirus-press-conference
     transcript_text: Read all press conference statements
     transcript_link: /government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts
     # video_url and date are set by https://collections-publisher.publishing.service.gov.uk/coronavirus/live_stream.
