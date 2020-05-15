@@ -39,7 +39,7 @@ content:
     # for instance, if our paragraph is "Find information on coronavirus", and we want the word "coronavirus" to be bold, we would set bold_text: coronavirus
     bold_text: Level X of 5
     link:
-      href: /
+      href: /risk-level
       text: Read more about COVID-19 alert levels
   nhs_banner:
     heading: "Do not leave home if you or someone you live with has either:"
@@ -144,9 +144,9 @@ content:
         - title:
           list:
            - label: "Renting: guidance for landlords, tenants and local authorities"
-             url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities           
+             url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities
            - label: "Moving homes during the coronavirus outbreak"
-             url: /guidance/government-advice-on-home-moving-during-the-coronavirus-covid-19-outbreak                
+             url: /guidance/government-advice-on-home-moving-during-the-coronavirus-covid-19-outbreak
            - label: Planning inspections
              url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
     - title: Driving and transport in the UK
