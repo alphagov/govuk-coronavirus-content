@@ -132,6 +132,7 @@ content:
             - label: Getting financial help and keeping your business safe
               url: /coronavirus/business-support
               featured_link: true
+              description: "Get coronavirus (COVID-19) support for your business or if you’re self-employed, and find out how to keep your business and your employees safe."
     - title: School closures, education and childcare
       sub_sections:
         - title:
@@ -139,6 +140,7 @@ content:
             - label: How universities, nurseries, schools and colleges are working
               url: /coronavirus/education-and-childcare
               featured_link: true
+              description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
     - title: Housing and accommodation
       sub_sections:
         - title:
