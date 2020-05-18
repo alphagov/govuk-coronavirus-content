@@ -42,7 +42,7 @@ content:
       href: /risk-level
       text: Read more about COVID-19 alert levels
   nhs_banner:
-    heading: "Do not leave home if you or someone you live with has either:"
+    heading: "Do not leave home if you or someone you live with has any of the following:"
     list:
       - a high temperature
       - a new, continuous cough
