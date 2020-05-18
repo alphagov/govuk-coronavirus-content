@@ -46,6 +46,7 @@ content:
     list:
       - a high temperature
       - a new, continuous cough
+      - a loss of, or change to, your sense of smell or taste
     call_to_action:
       title: Check the NHS website if you have symptoms
       href: https://www.nhs.uk/conditions/coronavirus-covid-19/check-if-you-have-coronavirus-symptoms/
