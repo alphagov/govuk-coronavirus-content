@@ -89,9 +89,10 @@ content:
     header: "All coronavirus education and childcare information on GOV.UK"
     links:
       - label: "Guidance"
-        url: /search/all?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=272308f4-05c8-4d0d-abc7-b7c2e3ccd249&order=most-viewed"
       - label: "News"
-        url: /search/news-and-communications?level_one_taxon=c58fdadd-7743-46d6-9629-90bb3ccc4ef0&topical_events%5B%5D=coronavirus-covid-19-uk-government-response&order=updated-newest
+        url: "/search/news-and-communications?parent=/coronavirus-taxon/education-and-childcare&topic=272308f4-05c8-4d0d-abc7-b7c2e3ccd249&order=updated-newest"
   notifications:
     intro: "Stay up to date with GOV.UK"
-    email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
+    email_link: "Sign up to get emails when we add new coronavirus education and childcare information"
+    email_url: "/email-signup?topic=/coronavirus-taxon/education-and-childcare"
