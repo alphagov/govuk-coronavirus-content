@@ -18,7 +18,7 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
-    - text: "Chancellor extends furlough scheme until October"
+    - text: "Prime minister extends furlough scheme until October"
       href: /government/news/chancellor-extends-furlough-scheme-until-october
       published_text: Published 12 May 2020
     - text: "Our plan to rebuild: The UK Government’s COVID-19 recovery strategy"
