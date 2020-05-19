@@ -32,7 +32,7 @@ content:
     href: "/search/news-and-communications?parent=/coronavirus-taxon&topic=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&order=updated-newest"
   risk_level:
     #set show_risk_level_section to true to display the risk/alert level section on the landing page
-    show_risk_level_section: true
+    show_risk_level_section: false
     heading: COVID-19 alert level
     paragraph: Level X of 5 – there is something happening
     # bold_text should be the portion of the paragraph you would like to make bold.
