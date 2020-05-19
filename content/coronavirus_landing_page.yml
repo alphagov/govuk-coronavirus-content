@@ -236,6 +236,8 @@ content:
               url: /bereavement-support-payment
             - label: Check if you can get help with funeral costs
               url: /funeral-payments
+            - label: Guidance for managing a funeral
+              url: /government/publications/covid-19-guidance-for-managing-a-funeral-during-the-coronavirus-pandemic/covid-19-guidance-for-managing-a-funeral-during-the-coronavirus-pandemic
   additional_country_guidance:
     text: "Additional guidance for"
     links:
