@@ -17,20 +17,15 @@ content:
         url: /government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/actions-for-education-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020
   sections:
     - title: Support learning during coronavirus
-      sub_sections:
-        - title:
-          list:
-    - title: For parents
-      sub_sections:
-        - title:
+      sub_sections: 
+        - title: For parents
           list:
             - label: Guidance for parents and carers helping children learn from home
               url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
             - label: Find resources to support home learning
               url: /government/publications/coronavirus-covid-19-online-education-resources
-    - title: For teachers and leaders
-      sub_sections:
-        - title:
+      sub_sections:   
+        - title: For teachers and leaders
           list:
             - label: Guidance for teaching children online
               url: /guidance/remote-education-practice-for-schools-during-coronavirus-covid-19
