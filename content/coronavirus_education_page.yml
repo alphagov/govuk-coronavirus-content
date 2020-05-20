@@ -24,7 +24,6 @@ content:
               url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
             - label: Find resources to support home learning
               url: /government/publications/coronavirus-covid-19-online-education-resources
-      sub_sections:   
         - title: For teachers and leaders
           list:
             - label: Guidance for teaching children online
@@ -55,7 +54,6 @@ content:
           list:
             - label: Exam cancellations, results and appeals
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-      sub_sections:
         - title: School closures, reopenings, and data collection 
           list:       
             - label: Preparing for the wider opening of schools from 1 June 
