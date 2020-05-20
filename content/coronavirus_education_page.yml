@@ -11,9 +11,9 @@ content:
   guidance_section:
     header: What you can do now
     list:
-      - text: Protective measures: keep children and staff safe when schools reopen 
+      - text: "Protective measures: keep children and staff safe when schools reopen" 
         url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
-      - text: School reopenings: prepare to reopen your school
+      - text: "School reopenings: prepare to reopen your school"
         url: /government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/actions-for-education-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020
   sections:
     - title: Support learning during coronavirus
@@ -34,7 +34,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Protective measures: keep children and staff safe when schools reopen 
+            - label: "Protective measures: keep children and staff safe when schools reopen" 
               url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
             - label: Free school meals
               url: /government/publications/covid-19-free-school-meals-guidance
@@ -84,11 +84,11 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Student loans: current students
+            - label: "Student loans: current students"
               url: /guidance/guidance-for-current-students
-            - label: Student loans: prospective students
+            - label: "Student loans: prospective students"
               url: /guidance/guidance-for-prospective-students
-            - label: Universities: teaching, exams, accommodation, fees, loans, visas
+            - label: "Universities: teaching, exams, accommodation, fees, loans, visas"
               url: https://dfemedia.blog.gov.uk/2020/04/09/university-students-covid19-faq/
     - title: Further and higher education and vocational training
       sub_sections:
