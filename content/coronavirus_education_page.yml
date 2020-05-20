@@ -51,12 +51,11 @@ content:
               url: /government/publications/coronavirus-covid-19-keeping-children-safe-online/coronavirus-covid-19-support-for-parents-and-carers-to-keep-children-safe-online
     - title: School reopenings, exams and managing a school or early years setting
       sub_sections:
-        - title:
-          list:
         - title: Exams and assessments
           list:
             - label: Exam cancellations, results and appeals
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
+      sub_sections:
         - title: School closures, reopenings, and data collection 
           list:       
             - label: Preparing for the wider opening of schools from 1 June 
