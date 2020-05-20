@@ -27,9 +27,9 @@ content:
         - title: For teachers and leaders
           list:
             - label: Guidance for teaching children online
-              url: /guidance/remote-education-practice-for-schools-during-coronavirus-covid-19
+              url: /guidance/remote-education-during-coronavirus-covid-19
             - label: Shared practice for schools teaching remotely
-              url: /guidance/remote-education-during-coronavirus-covid-19 
+              url: /guidance/remote-education-practice-for-schools-during-coronavirus-covid-19
     - title: Pupil wellbeing and safety
       sub_sections:
         - title:
