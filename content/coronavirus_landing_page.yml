@@ -230,6 +230,8 @@ content:
           list:
             - label: "What to do when someone dies: step-by-step"
               url: /when-someone-dies
+            - label: Attending or arranging a funeral
+              url: /after-a-death/arrange-the-funeral
             - label: Check if you can get Bereavement Support Payment
               url: /bereavement-support-payment
             - label: Check if you can get help with funeral costs
