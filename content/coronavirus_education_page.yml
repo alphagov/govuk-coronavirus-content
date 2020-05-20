@@ -8,61 +8,78 @@ content:
       - Schools and nurseries remain closed to all pupils except children of keyworkers and vulnerable children
       - Exams are cancelled and grades will be assessed differently
       - Free school meals or food vouchers will be available for pupils not attending school
+  guidance_section:
+    header: What you can do now
+    list:
+      - text: "Protective measures: keep children and staff safe when schools reopen" 
+        url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
+      - text: "School reopenings: prepare to reopen your school"
+        url: /government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/actions-for-education-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020
   sections:
-    - title: School curriculum and teaching
-      sub_sections:
-        - title:
+    - title: Support learning during coronavirus
+      sub_sections: 
+        - title: For parents
           list:
-            - label: Supporting your children's education during coronavirus
+            - label: Guidance for parents and carers helping children learn from home
               url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
-            - label: Online education resources
+            - label: Find resources to support home learning
               url: /government/publications/coronavirus-covid-19-online-education-resources
-            - label: Remote education during coronavirus
-              url: /guidance/remote-education-during-coronavirus-covid-19
+        - title: For teachers and leaders
+          list:
+            - label: Guidance for teaching children online
+              url: /guidance/remote-education-practice-for-schools-during-coronavirus-covid-19
+            - label: Shared practice for schools teaching remotely
+              url: /guidance/remote-education-during-coronavirus-covid-19 
     - title: Pupil wellbeing and safety
       sub_sections:
         - title:
           list:
-            - label: Supporting children and young people’s mental health and wellbeing
-              url: /government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing
+            - label: "Protective measures: keep children and staff safe when schools reopen" 
+              url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
             - label: Free school meals
               url: /government/publications/covid-19-free-school-meals-guidance
-            - label: Implementing social distancing in education and childcare settings
-              url: /government/publications/coronavirus-covid-19-implementing-social-distancing-in-education-and-childcare-settings
-            - label: Guidance on isolation for residential educational settings
-              url: /government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings
+            - label: Supporting children and young people’s mental health and wellbeing
+              url: /government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing
             - label: Supporting vulnerable children
               url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
-            - label: Interim safeguarding guidance
-              url: /government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers/coronavirus-covid-19-safeguarding-in-schools-colleges-and-other-providers
-            - label: SEND risk assessment guidance
+            - label: SEND risk assessment
               url: /government/publications/coronavirus-covid-19-send-risk-assessment-guidance
-    - title: Closures, exams and managing a school or early years setting
+            - label: Safeguarding and remote education
+              url: /guidance/safeguarding-and-remote-education-during-coronavirus-covid-19
+            - label: Keep children safe online 
+              url: /government/publications/coronavirus-covid-19-keeping-children-safe-online/coronavirus-covid-19-support-for-parents-and-carers-to-keep-children-safe-online
+    - title: School reopenings, exams and managing a school or early years setting
       sub_sections:
-        - title:
+        - title: Exams and assessments
           list:
-            - label: Schools opening for children of key workers and vulnerable children
-              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Guidance for schools and local authorities on closures
-              url: /government/publications/covid-19-school-closures
-            - label: Early years and childcare closures
-              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
-            - label: Guidance on early years education
-              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
             - label: Exam cancellations, results and appeals
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-            - label: Changes to data collection
-              url: /government/publications/coronavirus-covid-19-reducing-burdens-on-educational-and-care-settings
-    - title: Funding and support for education providers
+        - title: School closures, reopenings, and data collection 
+          list:       
+            - label: Preparing for the wider opening of schools from 1 June 
+              url: /government/publications/preparing-for-the-wider-opening-of-schools-from-
+            - label: Schools opening for children of critical (key) workers and vulnerable children
+              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
+            - label: Closures guidance for schools and local authorities
+              url: /government/publications/covid-19-school-closures
+            - label: Closures guidance for early years and childcare
+              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
+            - label: Closures guidance for colleges and further education providers 
+              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
+            - label: Safe working in education, childcare and children’s social care 
+              url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
+    - title: Funding and support for education and childcare 
       sub_sections:
         - title:
           list:
-            - label: Get help with technology for remote education during coronavirus
+            - label: Get technology support for children and schools
               url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19
             - label: Financial support for education, early years and children’s social care
               url: /government/publications/coronavirus-covid-19-financial-support-for-education-early-years-and-childrens-social-care
-            - label: Exceptional costs funding
+            - label: Exceptional costs funding for schools
               url: /government/publications/coronavirus-covid-19-financial-support-for-schools
+            - label: Check if you can get Tax-Free Childcare and 30 hours free childcare during coronavirus (COVID-19) 
+              url: /guidance/check-if-you-can-get-tax-free-childcare-and-30-hours-free-childcare-during-coronavirus-covid-19  
     - title: Student accommodation, travel and financial support
       sub_sections:
         - title:
