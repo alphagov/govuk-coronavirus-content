@@ -18,15 +18,15 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
+    - text: "Everyone in the UK with symptoms now eligible for coronavirus tests"
+      href: /government/news/everyone-in-the-united-kingdom-with-symptoms-now-eligible-for-coronavirus-tests
+      published_text: Published 18 May 2020
     - text: "Chancellor extends furlough scheme until October"
       href: /government/news/chancellor-extends-furlough-scheme-until-october
       published_text: Published 12 May 2020
     - text: "Our plan to rebuild: The UK Government’s COVID-19 recovery strategy"
       href: /government/publications/our-plan-to-rebuild-the-uk-governments-covid-19-recovery-strategy
       published_text: Published 11 May 2020
-    - text: Prime Minister Boris Johnson address to the nation on coronavirus
-      href: /government/speeches/pm-address-to-the-nation-on-coronavirus-10-may-2020
-      published_text: Published 10 May 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/news-and-communications?parent=/coronavirus-taxon&topic=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&order=updated-newest"
