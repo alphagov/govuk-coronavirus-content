@@ -21,11 +21,17 @@ content:
         - title:
           list:
     - title: For parents
+      sub_sections:
+        - title:
+          list:
             - label: Guidance for parents and carers helping children learn from home
               url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
             - label: Find resources to support home learning
               url: /government/publications/coronavirus-covid-19-online-education-resources
     - title: For teachers and leaders
+      sub_sections:
+        - title:
+          list:
             - label: Guidance for teaching children online
               url: /guidance/remote-education-practice-for-schools-during-coronavirus-covid-19
             - label: Shared practice for schools teaching remotely
@@ -53,9 +59,11 @@ content:
         - title:
           list:
         - title: Exams and assessments
+          list:
             - label: Exam cancellations, results and appeals
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-        - title: School closures, reopenings, and data collection   
+        - title: School closures, reopenings, and data collection 
+          list:       
             - label: Preparing for the wider opening of schools from 1 June 
               url: /government/publications/preparing-for-the-wider-opening-of-schools-from-
             - label: Schools opening for children of critical (key) workers and vulnerable children
