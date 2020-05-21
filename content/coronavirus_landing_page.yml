@@ -248,6 +248,8 @@ content:
   statistics_section:
     header: Statistics
     links:
+      - label: Statistics on coronavirus funding for business
+        url: /government/collections/statistics-on-coronavirus-funding-for-business
       - label: Track coronavirus cases in the UK
         url: /government/publications/covid-19-track-coronavirus-cases
       - label: Latest number of coronavirus cases in the UK
