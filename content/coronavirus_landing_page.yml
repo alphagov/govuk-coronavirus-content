@@ -176,6 +176,8 @@ content:
       sub_sections:
         - title:
           list:
+            - label: What you need to do if you’re travelling to the UK
+              url: /uk-border-control
             - label: Guidance for British citizens travelling abroad
               url: /guidance/travel-advice-novel-coronavirus
             - label: Foreign travel advice for each country
