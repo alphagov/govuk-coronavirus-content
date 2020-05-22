@@ -84,9 +84,9 @@ content:
     header: "All coronavirus business support information on GOV.UK"
     links:
       - label: "Guidance"
-        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=65666cdf-b177-4d79-9687-b9c32805e450"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=65666cdf-b177-4d79-9687-b9c32805e450&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed"
       - label: "News"
-        url: "/search/news-and-communications?parent=/coronavirus-taxon/businesses-and-self-employed-people&topic=65666cdf-b177-4d79-9687-b9c32805e450&order=updated-newest"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=65666cdf-b177-4d79-9687-b9c32805e450&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we add new coronavirus business support information"
