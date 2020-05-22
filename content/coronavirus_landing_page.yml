@@ -87,7 +87,7 @@ content:
             - label: Apply for a test if you have coronavirus symptoms
               url: https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/
             - label: Apply for a test if you are an essential worker
-              url: /apply-coronavirus-test
+              url: /apply-coronavirus-test-essential-workers
             - label: Apply for tests for a care home
               url: /apply-coronavirus-test-care-home
             - label: Book a test if you have a verification code
