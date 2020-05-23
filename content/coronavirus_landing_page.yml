@@ -29,7 +29,7 @@ content:
       published_text: Published 11 May 2020
   see_all_announcements_link:
     text: See all announcements
-    href: "/search/news-and-communications?parent=/coronavirus-taxon&topic=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&order=updated-newest"
+    href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
   risk_level:
     #set show_risk_level_section to true to display the risk/alert level section on the landing page
     show_risk_level_section: false
@@ -262,9 +262,9 @@ content:
     header: "All coronavirus information on GOV.UK"
     links:
       - label: "Guidance"
-        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed"
       - label: "News"
-        url: "/search/news-and-communications?parent=/coronavirus-taxon&topic=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&order=updated-newest"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
