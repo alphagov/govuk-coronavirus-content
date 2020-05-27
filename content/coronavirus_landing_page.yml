@@ -82,6 +82,10 @@ content:
       sub_sections:
         - title:
           list:
+            - label: "NHS test and trace: how it works"
+              url: /guidance/nhs-test-and-trace-how-it-works    
+            - label: "NHS test and trace: workplace guidance"
+              url: /guidance/nhs-test-and-trace-workplace-guidance
             - label: Guidance on testing for essential workers and care homes
               url: /guidance/coronavirus-covid-19-getting-tested
             - label: Apply for a test if you have coronavirus symptoms
