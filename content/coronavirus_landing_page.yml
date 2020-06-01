@@ -242,6 +242,8 @@ content:
               url: /bereavement-support-payment
             - label: Check if you can get help with funeral costs
               url: /funeral-payments
+            - label: Get support if you are dealing with a bereavement
+              url: /after-a-death/bereavement-help-and-support?step-by-step-nav=4f1fe77d-f43b-4581-baf9-e2600e2a2b7a
   additional_country_guidance:
     text: "Additional guidance for"
     links:
