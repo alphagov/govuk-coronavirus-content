@@ -1,0 +1,89 @@
+content:
+  title: "Coronavirus (COVID-19): Work and financial support"
+  meta_description: ""
+  page_title: Work and financial support
+  header_section:
+    pretext: Coronavirus (COVID-19) support is available
+    list:
+      - some workplaces are starting to open - with social distancing
+      - plan your journey to avoid crowds
+      - financial support is available if you cannot work
+  sections_heading: "Guidance and support"
+  sections:
+    - title: Working safely
+      sub_sections:
+        - title:
+          list:
+            - label: How social distancing could work in your workplace
+              url: /guidance/working-safely-during-coronavirus-covid-19
+            - label: Which workplaces should be open
+              url: /government/publications/further-businesses-and-premises-to-close/further-businesses-and-premises-to-close-guidance
+            - label: Advice if you’re worried about working
+              url: https://www.citizensadvice.org.uk/work/coronavirus-if-youre-worried-about-working/
+            - label: Protecting extremely vulnerable people at home
+              url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
+            - label: Travel to work safely
+              url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
+        - title: If you get symptoms
+          list:
+            - label: What to do if you get symptoms
+              url: /government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection
+    - title: Working from home
+      sub_sections:
+        - title:
+          list:
+            - label: Reasonable adjustments for working from home
+              url: /reasonable-adjustments-for-disabled-workers
+            - label: Claim tax back on equipment
+              url: /tax-relief-for-employees/working-at-home
+            - label: How annual leave is worked out
+              url: /holiday-entitlement-rights
+    - title: Not working or working less - getting financial help
+      sub_sections:
+        - title:
+          list:
+            - label: On furlough – what happens if your employer has no work for you
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
+            - label: Unable to work – what to do if you or someone you live with is ill
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
+            - label: Unemployed – what to do if you’ve lost your job
+              url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
+            - label: Self-employed – what to do if you’re getting less or no work
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
+            - label: Discrimination at work - your rights
+              url: /discrimination-your-rights/discrimination-at-work
+        - title: Looking for work
+          list:
+            - label: Get support to find work
+              url: /moving-from-benefits-to-work
+            - label: Find a job
+              url: /find-a-job
+            - label: Improve your digital and numeracy skills with free online courses
+              url: https://theskillstoolkit.campaign.gov.uk/
+    - title: Childcare
+      sub_sections:
+        - title:
+          list:
+            - label: Childcare and education
+              url: /coronavirus/education-and-childcare
+            - label: Get help paying for childcare
+              url: /get-childcare
+    - title: Holiday and sick leave
+      sub_sections:
+        - title:
+          list:
+            - label: How annual leave is worked out
+              url: /holiday-entitlement-rights
+            - label: Get financial support whilst you're off sick
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work#if-someone-you-live-with-has-symptoms-of-coronavirus
+  topic_section:
+    header: All coronavirus work and financial support information on GOV.UK
+    links:
+      - label: Guidance
+        url: /search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=b7f57213-4b16-446d-8ded-81955d782680&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed
+      - label: News
+        url: /search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=b7f57213-4b16-446d-8ded-81955d782680&content_purpose_supergroup%5B%5D=news_and_communications&order=most-viewed
+  notifications:
+    intro: Stay up to date with GOV.UK
+    email_link: Sign up to get emails when we add new coronavirus worker support information
+    email_url: /email-signup?topic=/coronavirus-taxon/work-financial-support-and-money
