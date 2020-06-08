@@ -114,18 +114,10 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Unable to work – what to do if you or someone you live with is ill
-              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
-            - label: On furlough – what happens if your employer has no work for you
-              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
-            - label: Unemployed – what to do if you’ve lost your job
-              url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
-            - label: Self-employed – what to do if you’re getting less or no work
-              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
-            - label: Already getting benefits – how they’re affected
-              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-already-getting-benefits
-            - label: Improve your digital and numeracy skills with free online courses
-              url: https://theskillstoolkit.campaign.gov.uk/
+            - label: Getting financial help and staying safe at work
+              url: /coronavirus/worker-support
+              featured_link: true
+              description: "Get coronavirus (COVID-19) support if you’re working less or not working - and find out how to stay safe at work."
     - title: Working safely
       sub_sections:
         - title:
