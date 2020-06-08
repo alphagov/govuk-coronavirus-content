@@ -4,12 +4,20 @@ content:
   page_title: "Education and childcare"
   header_section:
     pretext: Guidance for teachers, school leaders, carers, parents and students
+    education-pretext:
+      text: Find out when schools are expected to reopen in
+      scotland: " Scotland, "
+      scotland-url: https://www.gov.scot/news/schools-to-re-open-in-august/
+      wales: "Wales"
+      wales-url: https://gov.wales/how-schools-will-work-during-coronavirus-pandemic#section-38402
+      and: " and "
+      ni: "Northern Ireland."
+      ni-url: https://www.nidirect.gov.uk/articles/coronavirus-covid-19-advice-schools-colleges-and-universities
+    list_heading: "In England:"
     list:
-      - Primary schools can reopen for children in reception, year 1 and year 6
-      - Nurseries and other early years settings, including childminders, can reopen
-      - Schools remain closed for other year groups, except for children of key workers and vulnerable children
-      - Exams are cancelled and grades will be assessed differently
-      - Free school meals or food vouchers will be available for pupils not attending school
+      - children in nursery, reception, year 1 and year 6 can return to school
+      - schools remain closed for other year groups, except for children of key workers and vulnerable children
+      - childminders can return to work
   guidance_section:
     header: What you can do now
     list:
