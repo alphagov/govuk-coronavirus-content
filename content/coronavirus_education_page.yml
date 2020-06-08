@@ -6,12 +6,11 @@ content:
     pretext: Guidance for teachers, school leaders, carers, parents and students
     education-pretext:
       text: Find out when schools are expected to reopen in
-      scotland: " Scotland, "
+      scotland: "Scotland"
       scotland-url: https://www.gov.scot/news/schools-to-re-open-in-august/
       wales: "Wales"
       wales-url: https://gov.wales/how-schools-will-work-during-coronavirus-pandemic#section-38402
-      and: " and "
-      ni: "Northern Ireland."
+      ni: "Northern Ireland"
       ni-url: https://www.nidirect.gov.uk/articles/coronavirus-covid-19-advice-schools-colleges-and-universities
     list_heading: "In England:"
     list:
