@@ -114,7 +114,7 @@ content:
       sub_sections:
         - title:
           list:
-             - label: Getting financial help and staying safe at work
+            - label: Getting financial help and staying safe at work
               url: /coronavirus/worker-support
               featured_link: true
               description: "Get coronavirus (COVID-19) support if you’re working less or not working - and find out how to stay safe at work."
