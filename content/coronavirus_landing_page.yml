@@ -18,15 +18,15 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
-    - text: Chancellor extends self-employment support scheme and confirms furlough next steps
+    - text: "Thousands of high street shops, department stores and shopping centres to reopen safely in England"
+      href: government/news/thousands-of-high-street-shops-department-stores-and-shopping-centres-to-reopen-safely-in-england
+      published_text: Published 9 June 2020
+    - text: "Chancellor extends self-employment support scheme and confirms furlough next steps"
       href: /government/news/chancellor-extends-self-employment-support-scheme-and-confirms-furlough-next-steps
       published_text: Published 29 May 2020
     - text: "Everyone in the UK with symptoms now eligible for coronavirus tests"
       href: /government/news/everyone-in-the-united-kingdom-with-symptoms-now-eligible-for-coronavirus-tests
       published_text: Published 18 May 2020
-    - text: "Our plan to rebuild: The UK Government’s COVID-19 recovery strategy"
-      href: /government/publications/our-plan-to-rebuild-the-uk-governments-covid-19-recovery-strategy
-      published_text: Published 11 May 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
