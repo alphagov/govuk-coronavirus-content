@@ -180,6 +180,8 @@ content:
               url: /uk-border-control
             - label: Foreign travel advice for each country
               url: /foreign-travel-advice
+            - label: Safer air travel guidance for passengers
+              url: /guidance/coronavirus-covid-19-safer-air-travel-guidance-for-passengers
             - label: Get support if you’re waiting to return to the UK
               url: /guidance/coronavirus-covid-19-staying-where-you-are-if-you-cannot-return-to-the-uk
             - label: Essential international travel guidance
