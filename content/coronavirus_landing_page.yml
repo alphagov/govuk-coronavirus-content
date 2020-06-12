@@ -87,7 +87,7 @@ content:
         - title:
           list:
             - label: "NHS test and trace: how it works"
-              url: /guidance/nhs-test-and-trace-how-it-works    
+              url: /guidance/nhs-test-and-trace-how-it-works
             - label: "NHS test and trace: workplace guidance"
               url: /guidance/nhs-test-and-trace-workplace-guidance
             - label: Guidance on testing for essential workers and care homes
@@ -197,7 +197,7 @@ content:
             - label: How to volunteer
               url: /volunteering/coronavirus-volunteering
             - label: Donate blood plasma if you have tested positive for coronavirus
-              url: https://www.nhsbt.nhs.uk/how-you-can-help/convalescent-plasma-clinical-trial/  
+              url: https://www.nhsbt.nhs.uk/how-you-can-help/convalescent-plasma-clinical-trial/ 
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
             - label: How to help others safely
