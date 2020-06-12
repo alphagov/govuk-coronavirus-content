@@ -192,6 +192,8 @@ content:
           list:
             - label: How to volunteer
               url: /volunteering/coronavirus-volunteering
+            - label: Donate blood plasma if you have tested positive for coronavirus
+              url: https://www.nhsbt.nhs.uk/how-you-can-help/convalescent-plasma-clinical-trial/  
             - label: Offer the help of your business
               url: /coronavirus-support-from-business
             - label: How to help others safely
