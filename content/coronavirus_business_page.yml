@@ -69,7 +69,7 @@ content:
           list:
             - label: Find out how to make your workplace COVID-secure
               url: /workingsafely
-            - label: How to carry out a COVID-19 risk asssessment
+            - label: How to carry out a COVID-19 risk assessment
               url: https://www.hse.gov.uk/risk/assessment.htm
             - label: Cleaning your workplace safely
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
