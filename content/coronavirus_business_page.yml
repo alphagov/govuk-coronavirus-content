@@ -67,6 +67,8 @@ content:
       sub_sections:
         - title:
           list:
+            - label: Reopen your business safely during coronavirus (COVID-19)
+              url: /coronavirus-business-reopening
             - label: Find out how to make your workplace COVID-secure
               url: /workingsafely
             - label: How to carry out a COVID-19 risk assessment
