@@ -11,10 +11,10 @@ content:
   guidance_section:
     header: What you can do now
     list:
+      - text: "Reopen your business safely during coronavirus (COVID-19)"
+        url: /coronavirus-business-reopening
       - text: Find out what financial support schemes you may be eligible for
         url: /business-coronavirus-support-finder
-      - text: "Job Retention Scheme: claim for wages by 31 July 2020"
-        url: /guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme
       - text: Find out how to apply for a grant if you’re self-employed
         url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
   sections_heading: "Guidance and support"
