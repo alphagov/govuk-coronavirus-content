@@ -18,7 +18,7 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
-  - text: "UK COVID-19 alert is lowered to risk level 3"
+    - text: "UK COVID-19 alert is lowered to risk level 3"
       href: /government/news/update-from-the-uk-chief-medical-officers-on-the-uk-alert-level
       published_text: Published 19 June 2020
     - text: Billion pound plan to help children catch up after lost teaching time
