@@ -130,6 +130,8 @@ content:
               url: /coronavirus-business-reopening
             - label: Find out how to make your workplace COVID-secure
               url: /workingsafely
+            - label: Check if you should go back into work
+              url: /coronavirus-employee-risk-assessment
     - title: Businesses and self-employed people
       sub_sections:
         - title:
