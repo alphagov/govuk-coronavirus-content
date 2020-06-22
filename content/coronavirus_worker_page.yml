@@ -14,6 +14,8 @@ content:
       sub_sections:
         - title:
           list:
+            - label: Check if you should go back into work
+              url: /coronavirus-employee-risk-assessment
             - label: How social distancing could work in your workplace
               url: /guidance/working-safely-during-coronavirus-covid-19
             - label: Which workplaces should be open
