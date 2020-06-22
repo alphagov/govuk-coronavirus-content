@@ -18,15 +18,15 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
+    - text: "Plans to ease guidance for over 2 million shielding"
+      href: /government/news/plans-to-ease-guidance-for-over-2-million-shielding
+      published_text: Published 22 June 2020
     - text: "UK COVID-19 alert is lowered to risk level 3"
       href: /government/news/update-from-the-uk-chief-medical-officers-on-the-uk-alert-level
       published_text: Published 19 June 2020
     - text: £1 billion plan to help children catch up after lost teaching time
       href: /government/news/billion-pound-covid-catch-up-plan-to-tackle-impact-of-lost-teaching-time
       published_text: Published 19 June 2020
-    - text: "Everyone in the UK with symptoms now eligible for coronavirus tests"
-      href: /government/news/everyone-in-the-united-kingdom-with-symptoms-now-eligible-for-coronavirus-tests
-      published_text: Published 18 May 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
