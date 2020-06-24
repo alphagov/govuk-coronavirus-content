@@ -99,7 +99,7 @@ content:
             - label: Apply for tests for a care home
               url: /apply-coronavirus-test-care-home
             - label: Book a test if you have a verification code
-              url: https://test-for-coronavirus.service.gov.uk/appointment
+              url: https://test-for-coronavirus.service.gov.uk/register/start
     - title: Health and wellbeing
       sub_sections:
         - title:
