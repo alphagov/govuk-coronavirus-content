@@ -8,6 +8,11 @@ content:
       - some workplaces are starting to open - with social distancing
       - plan your journey to avoid crowds
       - financial support is available if you cannot work
+  guidance_section:
+    header: What you can do now
+    list:
+      - text: Check if you should go back into work
+        url: /coronavirus-employee-risk-assessment
   sections_heading: "Guidance and support"
   sections:
     - title: Working safely
