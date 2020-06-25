@@ -84,7 +84,17 @@ content:
               url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
     - title: Testing for coronavirus
       sub_sections:
-        - title:
+        - title: Get tested
+          list:
+            - label: Get a test to check if you have coronavirus
+              url: https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/
+            - label: "Essential workers: get a test to check if you have coronavirus"
+              url: /apply-coronavirus-test-essential-workers
+            - label: Get coronavirus tests for a care home
+              url: /apply-coronavirus-test-care-home
+            - label: Book a test if you have a verification code
+              url: https://test-for-coronavirus.service.gov.uk/register/start
+        - title: Guidance on testing
           list:
             - label: "NHS test and trace: how it works"
               url: /guidance/nhs-test-and-trace-how-it-works
@@ -92,14 +102,6 @@ content:
               url: /guidance/nhs-test-and-trace-workplace-guidance
             - label: Guidance on testing for essential workers and care homes
               url: /guidance/coronavirus-covid-19-getting-tested
-            - label: Apply for a test if you have coronavirus symptoms
-              url: https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/
-            - label: Apply for a test if you are an essential worker
-              url: /apply-coronavirus-test-essential-workers
-            - label: Apply for tests for a care home
-              url: /apply-coronavirus-test-care-home
-            - label: Book a test if you have a verification code
-              url: https://test-for-coronavirus.service.gov.uk/register/start
     - title: Health and wellbeing
       sub_sections:
         - title:
