@@ -16,6 +16,13 @@ content:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       link_text: "Read more about what you can and"
       link_nowrap_text: "cannot do"
+    link2:
+      href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
+      link_text: "What you can and cannot do now"
+    link3:
+      href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do-after-4-july
+      link_text: "What you can and cannot do"
+      link_nowrap_text: "from 4 July"
   announcements_label: Announcements
   announcements:
     - text: "Lockdown restrictions to be eased from 4 July"
