@@ -239,9 +239,11 @@ content:
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
         - title: Testing
           list:
-            - label: Apply for tests for a care home
+            - label: Get coronavirus tests for a care home
               url: /apply-coronavirus-test-care-home
-            - label: Testing for frontline workers
+            - label: "Essential workers: get a test to check if you have coronavirus"
+              url: /apply-coronavirus-test-essential-workers
+            - label: Guidance on testing for essential workers and care homes
               url: /guidance/coronavirus-covid-19-getting-tested
     - title: Support if someone dies
       sub_sections:
