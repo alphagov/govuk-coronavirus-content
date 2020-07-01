@@ -115,20 +115,6 @@ content:
               url: /government/news/leicestershire-coronavirus-lockdown-areas-and-changes
             - label: Guidance from Leicester City Council
               url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/             
-    - title: Health and wellbeing
-      sub_sections:
-        - title:
-          list:
-            - label: Contact a GP and order repeat prescriptions online
-              url: https://www.nhs.uk/health-at-home/
-            - label: Guidance on pregnancy and coronavirus
-              url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
-            - label: Mental health and wellbeing
-              url: /government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing
-            - label: How to get food and other essential items
-              url: /guidance/coronavirus-covid-19-accessing-food-and-essential-supplies
-            - label: Support for victims of domestic violence
-              url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
     - title: Work and financial support
       sub_sections:
         - title:
@@ -163,34 +149,6 @@ content:
               url: /coronavirus/education-and-childcare
               featured_link: true
               description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
-    - title: Housing and accommodation
-      sub_sections:
-        - title:
-          list:
-           - label: "Renting: guidance for landlords, tenants and local authorities"
-             url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities
-           - label: "Moving homes during the coronavirus outbreak"
-             url: /guidance/government-advice-on-home-moving-during-the-coronavirus-covid-19-outbreak
-           - label: Planning inspections
-             url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
-    - title: Driving and transport in the UK
-      sub_sections:
-        - title:
-          list:
-            - label: Safer travel guidance for passengers
-              url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
-            - label: Safer transport guidance for operators
-              url: /government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators
-            - label: Car, motorcycle and van MOTs extended by 6 months
-              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
-            - label: Driving tests and MOTs for heavy vehicles suspended
-              url: /government/news/driving-tests-and-mots-for-heavy-vehicles-suspended-for-up-to-3-months-to-help-tackle-spread-of-coronavirus
-            - label: Renewals of lorry and bus driving licences for over 45s
-              url: /government/publications/applications-for-renewing-lorry-and-bus-driving-licences-at-age-45-and-over-during-the-coronavirus-covid-19-pandemic  
-            - label: Relaxation of drivers’ hours rules
-              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations
-            - label: Vehicle approval tests suspended
-              url: /guidance/coronavirus-covid-19-vehicle-approval-tests
     - title: International travel and immigration
       sub_sections:
         - title:
@@ -209,22 +167,24 @@ content:
               url: /guidance/coronavirus-covid-19-essential-international-travel-guidance
             - label: Guidance for visa applicants in the UK and abroad
               url: /guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents
-    - title: Volunteering and offering help
+    - title: Driving and transport in the UK
       sub_sections:
         - title:
           list:
-            - label: How to volunteer
-              url: /volunteering/coronavirus-volunteering
-            - label: Donate blood plasma if you have tested positive for coronavirus
-              url: https://www.nhsbt.nhs.uk/how-you-can-help/convalescent-plasma-clinical-trial/
-            - label: How to help others safely
-              url: /government/publications/coronavirus-how-to-help-safely--2
-            - label: Guidance for unpaid carers
-              url: /government/collections/coronavirus-covid-19-social-care-guidance#guidance-for-unpaid-carers
-            - label: Help to increase coronavirus testing capacity
-              url: /guidance/help-the-government-increase-coronavirus-covid-19-testing-capacity
-            - label: Help tackle false information spreading online
-              url: https://sharechecklist.gov.uk/
+            - label: Safer travel guidance for passengers
+              url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
+            - label: Safer transport guidance for operators
+              url: /government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators
+            - label: Car, motorcycle and van MOTs extended by 6 months
+              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
+            - label: Driving tests and MOTs for heavy vehicles suspended
+              url: /government/news/driving-tests-and-mots-for-heavy-vehicles-suspended-for-up-to-3-months-to-help-tackle-spread-of-coronavirus
+            - label: Renewals of lorry and bus driving licences for over 45s
+              url: /government/publications/applications-for-renewing-lorry-and-bus-driving-licences-at-age-45-and-over-during-the-coronavirus-covid-19-pandemic  
+            - label: Relaxation of drivers’ hours rules
+              url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations
+            - label: Vehicle approval tests suspended
+              url: /guidance/coronavirus-covid-19-vehicle-approval-tests 
     - title: Healthcare workers, carers and care settings
       sub_sections:
         - title:
@@ -249,6 +209,46 @@ content:
               url: /apply-coronavirus-test-essential-workers
             - label: Guidance on testing for essential workers and care homes
               url: /guidance/coronavirus-covid-19-getting-tested
+    - title: Health and wellbeing
+      sub_sections:
+        - title:
+          list:
+            - label: Contact a GP and order repeat prescriptions online
+              url: https://www.nhs.uk/health-at-home/
+            - label: Guidance on pregnancy and coronavirus
+              url: https://www.rcog.org.uk/en/guidelines-research-services/guidelines/coronavirus-pregnancy/covid-19-virus-infection-and-pregnancy/
+            - label: Mental health and wellbeing
+              url: /government/publications/covid-19-guidance-for-the-public-on-mental-health-and-wellbeing
+            - label: How to get food and other essential items
+              url: /guidance/coronavirus-covid-19-accessing-food-and-essential-supplies
+            - label: Support for victims of domestic violence
+              url: /government/publications/coronavirus-covid-19-and-domestic-abuse/coronavirus-covid-19-support-for-victims-of-domestic-abuse
+    - title: Housing and accommodation
+      sub_sections:
+        - title:
+          list:
+           - label: "Renting: guidance for landlords, tenants and local authorities"
+             url: /government/publications/covid-19-and-renting-guidance-for-landlords-tenants-and-local-authorities
+           - label: "Moving homes during the coronavirus outbreak"
+             url: /guidance/government-advice-on-home-moving-during-the-coronavirus-covid-19-outbreak
+           - label: Planning inspections
+             url: /guidance/coronavirus-covid-19-planning-inspectorate-guidance
+    - title: Volunteering and offering help
+      sub_sections:
+        - title:
+          list:
+            - label: How to volunteer
+              url: /volunteering/coronavirus-volunteering
+            - label: Donate blood plasma if you have tested positive for coronavirus
+              url: https://www.nhsbt.nhs.uk/how-you-can-help/convalescent-plasma-clinical-trial/
+            - label: How to help others safely
+              url: /government/publications/coronavirus-how-to-help-safely--2
+            - label: Guidance for unpaid carers
+              url: /government/collections/coronavirus-covid-19-social-care-guidance#guidance-for-unpaid-carers
+            - label: Help to increase coronavirus testing capacity
+              url: /guidance/help-the-government-increase-coronavirus-covid-19-testing-capacity
+            - label: Help tackle false information spreading online
+              url: https://sharechecklist.gov.uk/
     - title: Support if someone dies
       sub_sections:
         - title:
