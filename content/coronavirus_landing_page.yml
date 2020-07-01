@@ -109,6 +109,14 @@ content:
               url: /guidance/nhs-test-and-trace-workplace-guidance
             - label: Guidance on testing for essential workers and care homes
               url: /guidance/coronavirus-covid-19-getting-tested
+    - title: Local lockdown 
+      sub_sections:
+        - title:
+          list:
+            - label: "Leicester coronavirus lockdown: areas and changes"
+              url: /government/news/leicestershire-coronavirus-lockdown-areas-and-changes
+            - label: Guidance from Leicester City Council
+              url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/             
     - title: Health and wellbeing
       sub_sections:
         - title:
