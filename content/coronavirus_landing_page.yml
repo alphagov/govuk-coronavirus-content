@@ -87,16 +87,14 @@ content:
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
             - label: Guidance for unpaid carers
               url: /government/collections/coronavirus-covid-19-social-care-guidance#guidance-for-unpaid-carers
-            - label: Safer travel
-              url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
     - title: Testing for coronavirus
       sub_sections:
         - title: Get tested
           list:
-            - label: Get a test to check if you have coronavirus
-              url: https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/
             - label: "Essential workers: get a test to check if you have coronavirus"
               url: /apply-coronavirus-test-essential-workers
+            - label: Get a test to check if you have coronavirus
+              url: https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/
             - label: Get coronavirus tests for a care home
               url: /apply-coronavirus-test-care-home
             - label: Book a test if you have a verification code
@@ -193,8 +191,6 @@ content:
               url: /government/publications/covid-19-guidance-on-drivers-hours-relaxations/coronavirus-covid-19-guidance-on-drivers-hours-relaxations
             - label: Vehicle approval tests suspended
               url: /guidance/coronavirus-covid-19-vehicle-approval-tests
-            - label: Avoid travel to second homes, campsites and caravan parks
-              url: /government/news/covid-19-essential-travel-guidance
     - title: International travel and immigration
       sub_sections:
         - title:
@@ -221,8 +217,6 @@ content:
               url: /volunteering/coronavirus-volunteering
             - label: Donate blood plasma if you have tested positive for coronavirus
               url: https://www.nhsbt.nhs.uk/how-you-can-help/convalescent-plasma-clinical-trial/
-            - label: Offer the help of your business
-              url: /coronavirus-support-from-business
             - label: How to help others safely
               url: /government/publications/coronavirus-how-to-help-safely--2
             - label: Guidance for unpaid carers
