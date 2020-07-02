@@ -28,8 +28,6 @@ content:
         url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
       - text: Check how childminders, holiday clubs and after school clubs can operate 
         url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
-      - text: Prepare a school for opening to all students 
-        url: /government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings
   sections_heading: "Guidance and support"
   sections:
     - title: Support learning during coronavirus
@@ -72,22 +70,20 @@ content:
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
         - title: Managing a school or early years setting
           list:
-            - label: Running an education setting 
+            - label: Schools opening for children of critical (key) workers and vulnerable children 
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Schools opening for children of critical (key) workers and vulnerable children
-              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Running an early years setting during coronavirus 
+            - label: Running an early-years setting during coronavirus 
               url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
             - label: Running a school during coronavirus 
               url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak
-            - label: Running a further education setting during coronavirus 
-              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision     
-            - label: Support for children and young people with SEND during coronavirus 
+            - label: Running a further education setting during coronavirus
+              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
+            - label: Supporting children and young people with SEND in schools and colleges 
               url: /government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings
-            - label: Check how childminders, holiday clubs and after school clubs can operate 
-              url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
-            - label: Prepare a school for opening to all students 
-              url: /government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings
+        - title: Childcare, holiday clubs, and after school care
+          list:             
+            - label: How childminders, holiday clubs and after school clubs can operate during coronavirus 
+              url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
         - title: Working safely
           list:              
             - label: Safe working in education, childcare and children’s social care 
