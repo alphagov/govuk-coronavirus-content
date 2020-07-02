@@ -114,7 +114,9 @@ content:
             - label: "Leicester coronavirus lockdown: areas and changes"
               url: /government/news/leicestershire-coronavirus-lockdown-areas-and-changes
             - label: Guidance from Leicester City Council
-              url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/             
+              url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/   
+            - label: "Local lockdowns: guidance for education and childcare settings" 
+              url: /government/publications/local-lockdowns-guidance-for-education-and-childcare-settings          
     - title: Work and financial support
       sub_sections:
         - title:
