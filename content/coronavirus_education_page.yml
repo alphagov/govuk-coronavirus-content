@@ -25,9 +25,15 @@ content:
       - text: "Protective measures: keep children and staff safe when schools reopen"
         url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
       - text: "School reopenings: prepare to reopen your school"
-        url: /government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/actions-for-education-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020
+        url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools
       - text: Safe working in education, childcare and children’s social care 
         url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
+      - text: Check how childminders, holiday clubs and after school clubs can operate 
+        url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
+      - text: Prepare a school for opening to all students 
+        url: /government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings
+      - text: Check how to keep children safe when schools reopen 
+        url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
   sections_heading: "Guidance and support"
   sections:
     - title: Support learning during coronavirus
