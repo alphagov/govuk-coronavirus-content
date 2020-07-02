@@ -18,6 +18,7 @@ content:
       - children in nursery, reception, year 1 and year 6 can return to school
       - schools remain closed for other year groups, except for children of key workers and vulnerable children
       - childminders can return to work
+      - schools will reopen to all age groups from September
   guidance_section:
     header: What you can do now
     list:
@@ -25,6 +26,8 @@ content:
         url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
       - text: "School reopenings: prepare to reopen your school"
         url: /government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/actions-for-education-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020
+       - text: Safe working in education, childcare and children’s social care 
+        url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
   sections_heading: "Guidance and support"
   sections:
     - title: Support learning during coronavirus
@@ -65,22 +68,24 @@ content:
           list:
             - label: Exam cancellations, results and appeals
               url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-        - title: School closures, reopenings, and working safely
+        - title: Managing a school or early years setting
           list:
-            - label: Preparing for the wider opening of schools from 1 June
-              url: /government/publications/preparing-for-the-wider-opening-of-schools-from-1-june
+            - label: Running an education setting 
+              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
             - label: Schools opening for children of critical (key) workers and vulnerable children
               url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Closures guidance for schools and local authorities
-              url: /government/publications/covid-19-school-closures
-            - label: Closures guidance for early years and childcare
+            - label: Running an early years setting during coronavirus 
               url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
-            - label: Closures guidance for colleges and further education providers
-              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
-            - label: Safe working in education, childcare and children’s social care
+            - label: Running a school during coronavirus 
+              url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak
+            - label: Running a further education setting during coronavirus 
+              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision     
+            - label: Support for children and young people with SEND during coronavirus 
+              url: /government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings
+        - title: Working safely
+          list:              
+            - label: Safe working in education, childcare and children’s social care 
               url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
-            - label: Supporting children and young people with SEND as schools and colleges prepare for wider opening
-              url: /government/publications/coronavirus-covid-19-send-risk-assessment-guidance
     - title: Funding and support for education and childcare
       sub_sections:
         - title:
