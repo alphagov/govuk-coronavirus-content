@@ -59,7 +59,7 @@ content:
       href: https://www.nhs.uk/conditions/coronavirus-covid-19/check-if-you-have-coronavirus-symptoms/
   find_help:
     heading: "Find out what support you can get"
-    paragraph: "For example, if you're out of work, need to get food, or want to take care of your mental health."
+    paragraph: "For example, if you’re out of work, need to get food, or want to take care of your mental health."
     link:
       href: "/find-coronavirus-support"
       text: "Find support"
