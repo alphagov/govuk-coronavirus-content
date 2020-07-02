@@ -291,6 +291,7 @@ content:
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
     email_url: "/email-signup?topic=/coronavirus-taxon"
   live_stream:
+    show_live_stream: true
     title: Press conferences and speeches
     date_text: Broadcast
     no_cookies:
@@ -306,8 +307,8 @@ content:
       next_conference_text: The next live press conference will be shown here
     # set spaced_links to true to insert breaks in the list of links, for increased legibility
     spaced_links: true
-    ask_a_question_visible: false
-    ask_a_question_text: Ask a question at the next press conference
+    ask_a_question_visible: true
+    ask_a_question_text: Ask a question at a press conference
     ask_a_question_link: /ask
     popular_questions_link_visible: false
     see_popular_questions_text: See answers to the most common topics asked about by the public
