@@ -41,8 +41,10 @@ content:
               url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
         - title: Finding work
           list: 
-            - label: Find a job
+            - label: Find and apply for jobs
               url: /find-a-job
+            - label: Get help moving from benefits to work
+              url: /moving-from-benefits-to-work
     - title: Working safely
       sub_sections:
         - title:
