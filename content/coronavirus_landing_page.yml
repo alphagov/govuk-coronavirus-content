@@ -187,7 +187,8 @@ content:
               url: /guidance/coronavirus-covid-19-mots-for-lorries-buses-and-trailers               
             - label: Vehicle approval tests suspended 
               url: /guidance/coronavirus-covid-19-vehicle-approval-tests 
-        - title: Until 1 August 2020              
+        - title: Until 1 August 2020  
+          list:  
             - label: Car, motorcycle and van MOTs extended by 6 months  
               url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
     - title: Healthcare workers, carers and care settings
