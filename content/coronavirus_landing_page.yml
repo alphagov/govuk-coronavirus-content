@@ -309,7 +309,7 @@ content:
       next_conference_text: The next live press conference will be shown here
     # set spaced_links to true to insert breaks in the list of links, for increased legibility
     spaced_links: true
-    ask_a_question_visible: true
+    ask_a_question_visible: false
     ask_a_question_text: Ask a question at a press conference
     ask_a_question_link: /ask
     popular_questions_link_visible: false
