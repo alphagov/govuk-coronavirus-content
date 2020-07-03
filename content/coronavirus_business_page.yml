@@ -75,6 +75,8 @@ content:
               url: https://www.hse.gov.uk/risk/assessment.htm
             - label: Cleaning your workplace safely
               url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
+            - label: Keep records of staff, customers and visitors to support NHS Test and Trace
+              url: /guidance/maintaining-records-of-staff-customers-and-visitors-to-support-nhs-test-and-trace       
     - title: What businesses should be closed
       sub_sections:
         - title:
