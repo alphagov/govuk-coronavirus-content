@@ -157,6 +157,8 @@ content:
           list:
             - label: Guidance for British citizens travelling abroad
               url: /guidance/travel-advice-novel-coronavirus
+            - label: Countries exempt from advice against non-essential international travel
+              url: /guidance/coronavirus-covid-19-countries-and-territories-exempt-from-advice-against-all-but-essential-international-travel
             - label: What you need to do if you’re travelling to the UK
               url: /uk-border-control
             - label: Foreign travel advice for each country
@@ -165,8 +167,6 @@ content:
               url: /guidance/coronavirus-covid-19-safer-air-travel-guidance-for-passengers
             - label: Get support if you’re waiting to return to the UK
               url: /guidance/coronavirus-covid-19-staying-where-you-are-if-you-cannot-return-to-the-uk
-            - label: Essential international travel guidance
-              url: /guidance/coronavirus-covid-19-essential-international-travel-guidance
             - label: Guidance for visa applicants in the UK and abroad
               url: /guidance/coronavirus-covid-19-advice-for-uk-visa-applicants-and-temporary-uk-residents
     - title: Driving and transport in the UK
