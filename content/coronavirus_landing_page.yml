@@ -177,16 +177,19 @@ content:
               url: /guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers
             - label: Safer transport guidance for operators
               url: /government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators
-            - label: Car, motorcycle and van MOTs extended by 6 months (until 1 August 2020) 
-              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
-            - label: Driving lessons, theory tests and driving tests suspended in England (until 4 July 2020)  
-              url: /government/news/driving-lessons-theory-tests-and-driving-tests-to-restart-in-england
-            - label: MOTs for HGVs, buses and trailers suspended (until 4 July 2020)  
-              url: /guidance/coronavirus-covid-19-mots-for-lorries-buses-and-trailers        
-            - label: Renewals of lorry and bus driving licences for over 45s
+            - label: Renewals of lorry and bus driving licences for people over 45
               url: /government/publications/applications-for-renewing-lorry-and-bus-driving-licences-at-age-45-and-over-during-the-coronavirus-covid-19-pandemic 
-            - label: Vehicle approval tests suspended (until 4 July 2020) 
+        - title: Until 4 July 2020
+          list:            
+            - label: Driving lessons, theory tests and driving tests suspended in England  
+              url: /government/news/driving-lessons-theory-tests-and-driving-tests-to-restart-in-england
+            - label: MOTs for HGVs, buses and trailers suspended 
+              url: /guidance/coronavirus-covid-19-mots-for-lorries-buses-and-trailers               
+            - label: Vehicle approval tests suspended 
               url: /guidance/coronavirus-covid-19-vehicle-approval-tests 
+        - title: Until 1 August 2020              
+            - label: Car, motorcycle and van MOTs extended by 6 months  
+              url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
     - title: Healthcare workers, carers and care settings
       sub_sections:
         - title:
