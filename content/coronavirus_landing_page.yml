@@ -224,7 +224,7 @@ content:
             - label: How to get food and other essential items
               url: /guidance/coronavirus-covid-19-accessing-food-and-essential-supplies
             - label: Support for victims of domestic violence
-              url: https://www.gov.uk/guidance/domestic-abuse-how-to-get-help
+              url: /guidance/domestic-abuse-how-to-get-help
     - title: Housing and accommodation
       sub_sections:
         - title:
