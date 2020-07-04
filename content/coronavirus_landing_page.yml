@@ -78,7 +78,7 @@ content:
             - label: "Stay alert: what you can and cannot do"
               url: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
             - label: Meeting people from outside your household
-              url: /guidance/meeting-people-from-outside-your-household
+              url: /guidance/meeting-people-from-outside-your-household-from-4-july
             - label: How to stay safe outside your home
               url: /government/publications/staying-safe-outside-your-home
             - label: "Our plan to rebuild: the UK Government's COVID-19 recovery strategy"
@@ -115,6 +115,8 @@ content:
               url: /government/news/leicestershire-coronavirus-lockdown-areas-and-changes
             - label: Guidance from Leicester City Council
               url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/   
+            - label: Local lockdowns: guidance for social distancing
+              url: /government/publications/local-lockdown-guidance-for-social-distancing 
             - label: "Local lockdowns: guidance for education and childcare settings" 
               url: /government/publications/local-lockdowns-guidance-for-education-and-childcare-settings          
     - title: Work and financial support
