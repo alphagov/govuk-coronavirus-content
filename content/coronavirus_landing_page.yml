@@ -113,12 +113,14 @@ content:
           list:
             - label: "Leicester coronavirus lockdown: areas and changes"
               url: /government/news/leicestershire-coronavirus-lockdown-areas-and-changes
-            - label: Guidance from Leicester City Council
-              url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/   
             - label: "Local lockdowns: guidance for social distancing"
               url: /government/publications/local-lockdown-guidance-for-social-distancing 
             - label: "Local lockdowns: guidance for education and childcare settings" 
-              url: /government/publications/local-lockdowns-guidance-for-education-and-childcare-settings          
+              url: /government/publications/local-lockdowns-guidance-for-education-and-childcare-settings       
+            - label: "Closing certain businesses and venues in Leicester" 
+              url: /guidance/closing-certain-businesses-and-venues-in-leicester
+            - label: Guidance from Leicester City Council
+              url: https://www.leicester.gov.uk/your-council/coronavirus/coronavirus-in-leicester/   
     - title: Work and financial support
       sub_sections:
         - title:
