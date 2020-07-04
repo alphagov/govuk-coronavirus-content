@@ -1,10 +1,15 @@
 # govuk-coronavirus-content
 
-Stores the content for the www.gov.uk/coronavirus page and www.gov.uk/coronavirus/business-support
+Stores the content for the following pages:
+
+* www.gov.uk/coronavirus
+* www.gov.uk/coronavirus/business-support
+* www.gov.uk/coronavirus/education-and-childcare
+* www.gov.uk/coronavirus/worker-support
 
 ## Live examples
 
-https://www.gov.uk/coronavirus
+See the four links above.
 
 ## Editing the content as a content designer
 
