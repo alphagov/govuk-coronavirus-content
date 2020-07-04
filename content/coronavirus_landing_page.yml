@@ -157,6 +157,8 @@ content:
           list:
             - label: Guidance for British citizens travelling abroad
               url: /guidance/travel-advice-novel-coronavirus
+            - label: "Travel to the UK: countries with a quarantine exemption"
+              url: /guidance/coronavirus-covid-19-travel-corridors      
             - label: Countries exempt from advice against non-essential international travel
               url: /guidance/coronavirus-covid-19-countries-and-territories-exempt-from-advice-against-all-but-essential-international-travel
             - label: What you need to do if you’re travelling to the UK
