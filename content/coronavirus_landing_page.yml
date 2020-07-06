@@ -66,16 +66,8 @@ content:
           list:
             - label: Stay at home if you think you have coronavirus (self-isolating)
               url: /government/publications/covid-19-stay-at-home-guidance
-            - label: "Stay alert and safe: social distancing guidance for everyone"
-              url: /government/publications/staying-alert-and-safe-social-distancing
             - label: "Stay alert: what you can and cannot do"
               url: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
-            - label: Meeting people from outside your household
-              url: /guidance/meeting-people-from-outside-your-household-from-4-july
-            - label: How to stay safe outside your home
-              url: /government/publications/staying-safe-outside-your-home
-            - label: "Our plan to rebuild: the UK Government's COVID-19 recovery strategy"
-              url: /government/publications/our-plan-to-rebuild-the-uk-governments-covid-19-recovery-strategy
             - label: How to protect clinically extremely vulnerable people (shielding)
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
             - label: Guidance for unpaid carers
