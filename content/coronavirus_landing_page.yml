@@ -196,13 +196,17 @@ content:
           list:
             - label: NHS guidance for people working in healthcare
               url: https://www.england.nhs.uk/coronavirus/
-            - label: Guidance on using appropriate personal protective equipment (PPE)
+            - label: Using PPE (personal protective equipment)
               url: /government/collections/coronavirus-covid-19-personal-protective-equipment-ppe
-            - label: Guidance on adult social care
+            - label: Managing possible or confirmed cases
+              url: /government/collections/wuhan-novel-coronavirus
+            - label: Handling and processing specimens for lab diagnosis
+              url: /government/publications/wuhan-novel-coronavirus-guidance-for-clinical-diagnostic-laboratories
+            - label: Adult social care
               url: /government/collections/coronavirus-covid-19-social-care-guidance
             - label: How to protect extremely vulnerable people (shielding)
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
-            - label: Guidance for unpaid carers
+            - label: Unpaid carers
               url: /government/collections/coronavirus-covid-19-social-care-guidance#guidance-for-unpaid-carers
             - label: Parking passes for healthcare workers and volunteers
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
