@@ -172,14 +172,12 @@ content:
               url: /government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators
             - label: Renewals of lorry and bus driving licences for people over 45
               url: /government/publications/applications-for-renewing-lorry-and-bus-driving-licences-at-age-45-and-over-during-the-coronavirus-covid-19-pandemic 
-        - title: Until 4 July 2020
+        - title: In Scotland and Wales
           list:            
-            - label: Driving lessons, theory tests and driving tests suspended in England  
-              url: /government/news/driving-lessons-theory-tests-and-driving-tests-to-restart-in-england
-            - label: MOTs for HGVs, buses and trailers suspended 
-              url: /guidance/coronavirus-covid-19-mots-for-lorries-buses-and-trailers               
-            - label: Vehicle approval tests suspended 
-              url: /guidance/coronavirus-covid-19-vehicle-approval-tests 
+            - label: Theory tests suspended 
+              url: /guidance/coronavirus-theory-tests-scotland-and-wales 
+            - label: Driving tests suspended
+              url: /guidance/coronavirus-driving-tests-scotland-and-wales
         - title: Until 1 August 2020  
           list:  
             - label: Car, motorcycle and van MOTs extended by 6 months  
