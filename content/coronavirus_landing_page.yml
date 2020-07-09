@@ -252,7 +252,7 @@ content:
               url: /guidance/help-the-government-increase-coronavirus-covid-19-testing-capacity
             - label: Help tackle false information spreading online
               url: https://sharechecklist.gov.uk/
-    - title: Support if someone dies
+    - title: When someone dies
       sub_sections:
         - title:
           list:
@@ -264,6 +264,10 @@ content:
               url: /bereavement-support-payment
             - label: Check if you can get help with funeral costs
               url: /funeral-payments
+        - title: Guidance for professionals  
+          list: 
+            - label: "Guidance for professionals working with the deceased"
+              url: /government/publications/guidance-for-those-involved-in-managing-covid-19-deaths/guidance-for-those-involved-in-managing-covid-19-deaths        
   additional_country_guidance:
     text: "See specific guidance for"
     links:
