@@ -184,34 +184,34 @@ content:
               url: /guidance/coronavirus-covid-19-mots-for-cars-vans-and-motorcycles-due-from-30-march-2020
     - title: Healthcare workers, carers and care settings
       sub_sections:
-        - title:
-          list:
-            - label: NHS guidance for people working in healthcare
-              url: https://www.england.nhs.uk/coronavirus/
-            - label: Using PPE (personal protective equipment)
-              url: /government/collections/coronavirus-covid-19-personal-protective-equipment-ppe
-            - label: Managing possible or confirmed cases
-              url: /government/collections/wuhan-novel-coronavirus
-            - label: Handling and processing specimens for lab diagnosis
-              url: /government/publications/wuhan-novel-coronavirus-guidance-for-clinical-diagnostic-laboratories
-            - label: Adult social care
-              url: /government/collections/coronavirus-covid-19-social-care-guidance
-            - label: How to protect extremely vulnerable people (shielding)
-              url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
-            - label: Unpaid carers
-              url: /government/collections/coronavirus-covid-19-social-care-guidance#unpaid-carers
-            - label: Guidance on managing COVID-19 deaths
-              url: /government/publications/guidance-for-those-involved-in-managing-covid-19-deaths/guidance-for-those-involved-in-managing-covid-19-deaths
-            - label: Parking passes for healthcare workers and volunteers
-              url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
         - title: Testing
           list:
-            - label: Get coronavirus tests for a care home
-              url: /apply-coronavirus-test-care-home
-            - label: "Essential workers: get a test to check if you have coronavirus"
+            - label: "Essential workers: book your test"
               url: /apply-coronavirus-test-essential-workers
-            - label: Guidance on testing for essential workers and care homes
-              url: /guidance/coronavirus-covid-19-getting-tested
+            - label: "Care home workers: book your test"
+              url: /apply-coronavirus-test-care-home
+            - label: How to take a swab test and where to send samples
+              url: /government/publications/wuhan-novel-coronavirus-guidance-for-clinical-diagnostic-laboratories
+        - title: Guidance for managers
+          list:              
+            - label: Adult social care
+              url: /government/collections/coronavirus-covid-19-social-care-guidance
+            - label: NHS guidance for managers working in healthcare
+              url: https://www.england.nhs.uk/coronavirus/
+        - title: Managing patients with coronavirus (COVID-19)
+          list:                           
+            - label: How to protect extremely vulnerable people (shielding)
+              url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
+            - label: Using PPE (personal protective equipment)
+              url: /government/collections/coronavirus-covid-19-personal-protective-equipment-ppe
+            - label: If you think a patient has coronavirus (COVID-19)
+              url: /government/collections/wuhan-novel-coronavirus
+            - label: Managing coronavirus (COVID-19) deaths
+              url: /government/publications/guidance-for-those-involved-in-managing-covid-19-deaths/guidance-for-those-involved-in-managing-covid-19-deaths       
+        - title: Support for healthcare workers and volunteers   
+          list:   
+            - label: Parking passes 
+              url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
     - title: Health and wellbeing
       sub_sections:
         - title:
