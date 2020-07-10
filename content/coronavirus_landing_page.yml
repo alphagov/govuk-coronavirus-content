@@ -208,6 +208,7 @@ content:
               url: /government/collections/wuhan-novel-coronavirus
             - label: Managing coronavirus (COVID-19) deaths
               url: /government/publications/guidance-for-those-involved-in-managing-covid-19-deaths/guidance-for-those-involved-in-managing-covid-19-deaths               - title: Support for healthcare workers and volunteers
+        - title: Support for healthcare workers and volunteers   
           list:   
             - label: Parking passes 
               url: /government/publications/covid-19-health-care-and-volunteer-workers-parking-pass-and-concessions
