@@ -207,7 +207,7 @@ content:
             - label: If you think a patient has coronavirus (COVID-19)
               url: /government/collections/wuhan-novel-coronavirus
             - label: Managing coronavirus (COVID-19) deaths
-              url: /government/publications/guidance-for-those-involved-in-managing-covid-19-deaths/guidance-for-those-involved-in-managing-covid-19-deaths               - title: Support for healthcare workers and volunteers
+              url: /government/publications/guidance-for-those-involved-in-managing-covid-19-deaths/guidance-for-those-involved-in-managing-covid-19-deaths       
         - title: Support for healthcare workers and volunteers   
           list:   
             - label: Parking passes 
