@@ -124,10 +124,12 @@ content:
           list:
             - label: Reopen your business safely during coronavirus (COVID-19)
               url: /coronavirus-business-reopening
-            - label: Find out how to make your workplace COVID-secure
+            - label: Make your workplace COVID-secure
               url: /workingsafely
             - label: Check if you should go back into work
               url: /coronavirus-employee-risk-assessment
+            - label: Safe working in education, childcare and children’s social care
+              url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
     - title: Businesses and self-employed people
       sub_sections:
         - title:
