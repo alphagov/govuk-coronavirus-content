@@ -64,7 +64,7 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Self-isolating: stay at home if you think you have coronavirus 
+            - label: "Self-isolating: stay at home if you think you have coronavirus" 
               url: /government/publications/covid-19-stay-at-home-guidance
             - label: "Stay alert: what you can and cannot do"
               url: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do-after-4-july
