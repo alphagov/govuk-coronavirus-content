@@ -18,12 +18,12 @@ content:
       link_nowrap_text: "cannot do"
   announcements_label: Announcements
   announcements:
-    - text: "Chancellor's Plan for Jobs to help the UK's recovery"
-      href: /government/news/rishis-plan-for-jobs-will-help-britain-bounce-back
-      published_text: Published 8 July 2020
-    - text: "Lockdown restrictions to be eased from 4 July"
-      href: /government/news/pm-announces-easing-of-lockdown-restrictions-23-june-2020
-      published_text: Published 23 June 2020
+    - text: "Performing Arts given green light to resume outdoors on July 11"
+      href: /government/news/performing-arts-given-green-light-to-resume-outdoors-on-july-11
+      published_text: Published 9 July 2020
+    - text: "Government announces gyms and pools to reopen safely"
+      href: /government/news/government-announces-gyms-and-pools-to-reopen-safely
+      published_text: Published 9 July 2020
     - text: "Plans to ease guidance for over 2 million shielding"
       href: /government/news/plans-to-ease-guidance-for-over-2-million-shielding
       published_text: Published 22 June 2020
@@ -64,15 +64,17 @@ content:
       sub_sections:
         - title:
           list:
-            - label: Stay at home if you think you have coronavirus (self-isolating)
+            - label: "Self-isolating: stay at home if you think you have coronavirus" 
               url: /government/publications/covid-19-stay-at-home-guidance
             - label: "Stay alert: what you can and cannot do"
               url: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do-after-4-july
             - label: Staying safe outside your home
               url: /government/publications/staying-safe-outside-your-home/staying-safe-outside-your-home
-            - label: How to protect clinically extremely vulnerable people (shielding)
+            - label: "Face coverings: when to wear one and how to make your own"
+              url: /government/publications/face-coverings-when-to-wear-one-and-how-to-make-your-own
+            - label: "Shielding: protecting yourself if you're clinically extremely vulnerable"
               url: /government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19
-            - label: Guidance for unpaid carers
+            - label: "Unpaid carers: supporting friends and family"
               url: /government/collections/coronavirus-covid-19-social-care-guidance#guidance-for-unpaid-carers
     - title: Testing for coronavirus
       sub_sections:
