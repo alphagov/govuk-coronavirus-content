@@ -110,6 +110,14 @@ content:
               url: /coronavirus/worker-support
               featured_link: true
               description: "Get coronavirus (COVID-19) support if you’re working less or not working - and find out how to stay safe at work."
+        - title: Popular content
+          list:            
+            - label: Redundancy: your rights 
+              url: /redundancy-your-rights
+            - label: Get financial support if you’re off sick 
+              url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work#if-someone-you-live-with-has-symptoms-of-coronavirus
+            - label: Check if you should go back to work 
+              url: /coronavirus-employee-risk-assessment
     - title: Working safely
       sub_sections:
         - title:
@@ -130,6 +138,14 @@ content:
               url: /coronavirus/business-support
               featured_link: true
               description: "Get coronavirus (COVID-19) support for your business or if you’re self-employed, and find out how to keep your business and your employees safe."
+        - title: Popular content
+          list: 
+            - label: Reopen your business safely 
+              url: /coronavirus-business-reopening
+            - label: Find out about financial support 
+              url: /business-coronavirus-support-finder
+            - label: Apply for a grant if you’re self-employed 
+              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
     - title: School openings, education and childcare
       sub_sections:
         - title:
@@ -138,6 +154,14 @@ content:
               url: /coronavirus/education-and-childcare
               featured_link: true
               description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
+        - title: Popular content
+          list:            
+            - label: Keep children and staff safe when schools reopen 
+              url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
+            - label: Check how holiday clubs, childminders and after-school clubs can operate 
+              url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
+            - label: Running an early years setting during coronavirus 
+              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
     - title: International travel and immigration
       sub_sections:
         - title:
