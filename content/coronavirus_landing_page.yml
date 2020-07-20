@@ -21,8 +21,8 @@ content:
     - text: "Face coverings to be mandatory in shops and supermarkets from 24 July"
       href: /government/speeches/face-coverings-to-be-mandatory-in-shops-and-supermarkets-from-24-july
       published_text: Published 14 July 2020
-    - text: "Government announces gyms and pools to reopen safely"
-      href: /government/news/government-announces-gyms-and-pools-to-reopen-safely
+    - text: "Millions could be vaccinated against Covid-19 as UK secures strong portfolio of promising vaccines"
+      href: /government/news/millions-could-be-vaccinated-against-covid-19-as-uk-secures-strong-portfolio-of-promising-vaccines
       published_text: Published 9 July 2020
     - text: "Plans to ease guidance for over 2 million shielding"
       href: /government/news/plans-to-ease-guidance-for-over-2-million-shielding
@@ -262,6 +262,8 @@ content:
           list:
             - label: How to volunteer
               url: /volunteering/coronavirus-volunteering
+            - label: Volunteer for vaccine research
+              url: https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/
             - label: Donate blood plasma if you have tested positive for coronavirus
               url: https://www.nhsbt.nhs.uk/covid-19-research/donating-convalescent-plasma-around-the-uk/
             - label: How to help others safely
