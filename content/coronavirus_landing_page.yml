@@ -264,6 +264,8 @@ content:
               url: /volunteering/coronavirus-volunteering
             - label: Volunteer for vaccine research
               url: https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/
+            - label: Join a genetic study if you tested positive for coronavirus
+              url: http://www.genomicsengland.co.uk/covid-19 (https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.genomicsengland.co.uk%2Fcovid-19&data=02%7C01%7CMartin.Shanahan%40beis.gov.uk%7Ccdb1a2cdb5d54bf278b408d829907498%7Ccbac700502c143ebb497e6492d1b2dd8%7C0%7C0%7C637305047694783641&sdata=OZMPMMbnPnj6kU8ENYSOHB8je78xBeRM15ANphHlMDQ%3D&reserved=0
             - label: Donate blood plasma if you have tested positive for coronavirus
               url: https://www.nhsbt.nhs.uk/covid-19-research/donating-convalescent-plasma-around-the-uk/
             - label: How to help others safely
