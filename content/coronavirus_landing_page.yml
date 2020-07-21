@@ -262,7 +262,7 @@ content:
           list:
             - label: How to volunteer
               url: /volunteering/coronavirus-volunteering
-            - label: Volunteer for vaccine research
+            - label: Join a vaccine research study
               url: https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/
             - label: Join a genetic study if you tested positive for coronavirus
               url: https://www.genomicsengland.co.uk/covid-19/
