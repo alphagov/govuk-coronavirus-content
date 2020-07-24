@@ -80,14 +80,12 @@ content:
       sub_sections:
         - title: Get tested
           list:
-            - label: "Essential workers: get a test to check if you have coronavirus"
-              url: /apply-coronavirus-test-essential-workers
             - label: Get a test to check if you have coronavirus
-              url: https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/
+              url: /apply-coronavirus-test-essential-workers
             - label: Get coronavirus tests for a care home
               url: /apply-coronavirus-test-care-home
             - label: Book a test if you have a verification code
-              url: https://test-for-coronavirus.service.gov.uk/register/start
+              url: https://test-for-coronavirus.service.gov.uk/register/validate-code
         - title: Guidance on testing
           list:
             - label: "NHS test and trace: how it works"
