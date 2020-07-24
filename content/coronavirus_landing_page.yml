@@ -81,7 +81,7 @@ content:
         - title: Get tested
           list:
             - label: Get a test to check if you have coronavirus
-              url: /apply-coronavirus-test-essential-workers
+              url: /get-coronavirus-test
             - label: Get coronavirus tests for a care home
               url: /apply-coronavirus-test-care-home
             - label: Book a test if you have a verification code
