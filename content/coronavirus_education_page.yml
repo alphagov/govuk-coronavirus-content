@@ -24,104 +24,13 @@ content:
     list:
       - text: "Protective measures: keep children and staff safe when schools reopen"
         url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
-      - text: Safe working in education, childcare and children’s social care 
+      - text: Safe working in education, childcare and children’s social care
         url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
-      - text: Check how childminders, holiday clubs and after school clubs can operate 
+      - text: Check how childminders, holiday clubs and after school clubs can operate
         url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
   sections_heading: "Guidance and support"
+  # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
-    - title: Support learning during coronavirus
-      sub_sections:
-        - title: For parents
-          list:
-            - label: Guidance for parents and carers helping children learn from home
-              url: /guidance/supporting-your-childrens-education-during-coronavirus-covid-19
-            - label: Find resources to support home learning
-              url: /government/publications/coronavirus-covid-19-online-education-resources
-        - title: For teachers and leaders
-          list:
-            - label: Guidance for teaching children online
-              url: /guidance/remote-education-during-coronavirus-covid-19
-            - label: Shared practice for schools teaching remotely
-              url: /guidance/remote-education-practice-for-schools-during-coronavirus-covid-19
-    - title: Pupil wellbeing and safety
-      sub_sections:
-        - title:
-          list:
-            - label: "Protective measures: keep children and staff safe when schools reopen"
-              url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
-            - label: Free school meals
-              url: /government/publications/covid-19-free-school-meals-guidance
-            - label: Supporting children and young people’s mental health and wellbeing
-              url: /government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing
-            - label: Supporting vulnerable children
-              url: /government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people
-            - label: SEND risk assessment
-              url: /government/publications/coronavirus-covid-19-send-risk-assessment-guidance
-            - label: Safeguarding and remote education
-              url: /guidance/safeguarding-and-remote-education-during-coronavirus-covid-19
-            - label: Keep children safe online
-              url: /government/publications/coronavirus-covid-19-keeping-children-safe-online/coronavirus-covid-19-support-for-parents-and-carers-to-keep-children-safe-online
-    - title: School reopenings, exams and managing a school or early years setting
-      sub_sections:
-        - title: Exams and assessments
-          list:
-            - label: Exam cancellations, results and appeals
-              url: /government/publications/coronavirus-covid-19-cancellation-of-gcses-as-and-a-levels-in-2020
-        - title: Managing a school or early years setting
-          list:
-            - label: Schools opening for children of critical (key) workers and vulnerable children 
-              url: /government/publications/coronavirus-covid-19-maintaining-educational-provision
-            - label: Running an early years setting during coronavirus 
-              url: /government/publications/coronavirus-covid-19-early-years-and-childcare-closures
-            - label: Running a school during coronavirus 
-              url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak
-            - label: Running a further education setting during coronavirus
-              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
-            - label: Supporting children and young people with SEND in schools and colleges 
-              url: /government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings
-        - title: Childcare, holiday clubs, and after school care
-          list:             
-            - label: How childminders, holiday clubs and after school clubs can operate during coronavirus 
-              url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
-        - title: Working safely
-          list:              
-            - label: Safe working in education, childcare and children’s social care 
-              url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
-    - title: Funding and support for education and childcare
-      sub_sections:
-        - title:
-          list:
-            - label: Get technology support for children and schools
-              url: /guidance/get-help-with-technology-for-remote-education-during-coronavirus-covid-19
-            - label: Financial support for education, early years and children’s social care
-              url: /government/publications/coronavirus-covid-19-financial-support-for-education-early-years-and-childrens-social-care
-            - label: Exceptional costs funding for schools
-              url: /government/publications/coronavirus-covid-19-financial-support-for-schools
-            - label: Check if you can get Tax-Free Childcare and 30 hours free childcare during coronavirus (COVID-19)
-              url: /guidance/check-if-you-can-get-tax-free-childcare-and-30-hours-free-childcare-during-coronavirus-covid-19
-    - title: Student accommodation, travel and financial support
-      sub_sections:
-        - title:
-          list:
-            - label: "Student loans: current students"
-              url: /guidance/guidance-for-current-students
-            - label: "Student loans: prospective students"
-              url: /guidance/guidance-for-prospective-students
-            - label: "Universities: teaching, exams, accommodation, fees, loans, visas"
-              url: https://dfemedia.blog.gov.uk/2020/04/09/university-students-covid19-faq/
-    - title: Further and higher education and vocational training
-      sub_sections:
-        - title:
-          list:
-            - label: University admissions
-              url: https://www.ucas.com/providers/coronavirus-update
-            - label: Apprentices, employers and training providers
-              url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
-            - label: College closures
-              url: /government/publications/coronavirus-covid-19-maintaining-further-education-provision
-            - label: Improve your digital and numeracy skills with free online courses
-              url: https://theskillstoolkit.campaign.gov.uk/
   topic_section:
     header: "All coronavirus education and childcare information on GOV.UK"
     links:
