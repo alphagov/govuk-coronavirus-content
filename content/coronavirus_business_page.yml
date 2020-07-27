@@ -18,75 +18,8 @@ content:
       - text: Find out how to apply for a grant if you’re self-employed
         url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
   sections_heading: "Guidance and support"
+  # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/business
   sections:
-    - title: Funding and support
-      sub_sections:
-        - title:
-          list:
-            - label: Find financial support for your business
-              url: /government/collections/financial-support-for-businesses-during-coronavirus-covid-19
-            - label: Find out what support your business representative organisation (BRO) offers
-              url: /guidance/coronavirus-support-from-business-representative-organisations-and-trade-associations
-            - label: Coronavirus support for business from outside government
-              url: /guidance/coronavirus-support-for-business-from-outside-government
-            - label: Additional government resources to support your business during coronavirus disruptions
-              url: /guidance/additional-government-resources-to-support-your-business-during-coronavirus-disruptions
-            - label: Find out how other businesses have used government support and are reopening safely
-              url: https://businesssupport.blog.gov.uk/
-            - label: Support for UK businesses trading internationally
-              url: https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-for-uk-businesses/coronavirus-covid-19-guidance-for-uk-businesses-trading-internationally
-            - label: Rules that have been relaxed to help businesses during the coronavirus pandemic
-              url: /guidance/rules-that-have-been-relaxed-to-help-businesses-during-the-coronavirus-pandemic
-            - label: Register your business for the Eat Out to Help Out scheme
-              url: /guidance/register-your-establishment-for-the-eat-out-to-help-out-scheme   
-    - title: Self-employed people and sole traders
-      sub_sections:
-        - title:
-          list:
-            - label: Claim a grant through the Self-employment Income Support Scheme
-              url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
-            - label: Self-employment and Universal Credit
-              url: /self-employment-and-universal-credit
-            - label: If you cannot pay your tax bill on time
-              url: /difficulties-paying-hmrc
-            - label: Negotiate a mortgage payment holiday
-              url: https://www.fca.org.uk/consumers/mortgages-coronavirus-consumers
-    - title: Your responsibilities as an employer
-      sub_sections:
-        - title:
-          list:
-            - label: Claim back Statutory Sick Pay (SSP)
-              url: /guidance/claim-back-statutory-sick-pay-paid-to-employees-due-to-coronavirus-covid-19
-            - label: Find out what to do if your employee needs time off to look after dependants
-              url: https://www.acas.org.uk/coronavirus/time-off-work-to-look-after-someone
-            - label: Which expenses are taxable if your employees work from home
-              url: /guidance/check-which-expenses-are-taxable-if-your-employee-works-from-home-due-to-coronavirus-covid-19
-            - label: "Apprenticeships: how they can continue"
-              url: /government/publications/coronavirus-covid-19-apprenticeship-programme-response
-            - label: Guidance for Tier 2, 4 and 5 visa sponsors of people affected by coronavirus
-              url: /guidance/coronavirus-covid-19-advice-for-tier-2-4-and-5-sponsors
-    - title: How to run your business safely
-      sub_sections:
-        - title:
-          list:
-            - label: Reopen your business safely during coronavirus (COVID-19)
-              url: /coronavirus-business-reopening
-            - label: Find out how to make your workplace COVID-secure
-              url: /workingsafely
-            - label: How to carry out a COVID-19 risk assessment
-              url: https://www.hse.gov.uk/risk/assessment.htm
-            - label: Cleaning your workplace safely
-              url: /government/publications/covid-19-decontamination-in-non-healthcare-settings
-            - label: Keep records of staff, customers and visitors to support NHS Test and Trace
-              url: /guidance/maintaining-records-of-staff-customers-and-visitors-to-support-nhs-test-and-trace       
-    - title: What businesses should be closed
-      sub_sections:
-        - title:
-          list:
-            - label: Businesses that must close
-              url: /government/publications/further-businesses-and-premises-to-close/further-businesses-and-premises-to-close-guidance
-            - label: Closing holiday accommodation to temporary residents
-              url: /guidance/covid-19-advice-for-accommodation-providers
   topic_section:
     header: "All coronavirus business support information on GOV.UK"
     links:
