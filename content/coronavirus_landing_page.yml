@@ -3,15 +3,16 @@ content:
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
   header_section:
-    title: Stay alert
-    pretext-1: "We can all help control the virus if we all stay alert. This means you must:"
-    pretext-2: Do not leave home if you or anyone in your household has symptoms.
+    title: Help control the virus
+    pretext-1: "To protect yourself and others, when you leave home you must:"
+    pretext-2: If you are feeling unwell, get a test and do not leave home for at least 10 days.
     list:
-      - stay at home as much as possible
-      - work from home if you can
-      - limit contact with other people
-      - keep your distance from people not in your household (2 metres apart where possible)
-      - wash your hands regularly
+      - instruction: wash hands
+        detail: keep washing your hands regularly
+      - instruction: cover face
+        detail: wear a face covering over your nose and mouth in enclosed spaces
+      - instruction: make space
+        detail: stay at least a metre away from people not in your household
     link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
       link_text: "Read more about what you can and"
@@ -42,13 +43,13 @@ content:
       href: /risk-level
       text: Read more about COVID-19 alert levels
   nhs_banner:
-    heading: "Do not leave home if you or someone you live with has any of the following:"
+    heading: "If you have coronavirus symptoms:"
     list:
       - a high temperature
       - a new, continuous cough
       - a loss of, or change to, your sense of smell or taste
     call_to_action:
-      title: Check the NHS website if you have symptoms
+      title: Get a test now. Do not leave home for at least 10 days
       href: https://www.nhs.uk/conditions/coronavirus-covid-19/check-if-you-have-coronavirus-symptoms/
   find_help:
     heading: "Find out what support you can get"
