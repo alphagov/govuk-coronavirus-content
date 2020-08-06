@@ -15,17 +15,15 @@ content:
           url: https://www.nidirect.gov.uk/articles/coronavirus-covid-19-advice-schools-colleges-and-universities
     list_heading: "In England:"
     list:
-      - children in nursery, reception, year 1 and year 6 can return to school
-      - schools remain closed for other year groups, except for children of key workers and vulnerable children
       - childminders can return to work
       - schools will reopen to all age groups from September
   guidance_section:
     header: What you can do now
     list:
-      - text: "Protective measures: keep children and staff safe when schools reopen"
-        url: /government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings
       - text: Safe working in education, childcare and children’s social care
         url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
+      - text: Guidance for parents and carers on how schools, early years providers and colleges will be safely open in the autumn 
+        url: /government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-in-the-autumn-term
       - text: Check how childminders, holiday clubs and after school clubs can operate
         url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
   sections_heading: "Guidance and support"
