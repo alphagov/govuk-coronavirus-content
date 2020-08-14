@@ -11,8 +11,8 @@ content:
   guidance_section:
     header: What you can do now
     list:
-      - text: Check if you should go back into work
-        url: /coronavirus-employee-risk-assessment
+      - text: Check how to return to work safely
+        url: /check-how-to-return-to-work-safely
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/workers
   sections:
