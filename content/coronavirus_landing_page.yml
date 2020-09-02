@@ -90,12 +90,18 @@ content:
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed"
       - label: "News"
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
+      - label: "Legislation (legislation.gov.uk)"
+        url: "https://www.legislation.gov.uk/coronavirus"
+      - label: "Press conferences (YouTube)"
+        url: "https://www.youtube.com/user/Number10gov/videos"    
+      - label: "Press conference statements"
+        url: "/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts"    
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
     email_url: "/email-signup?topic=/coronavirus-taxon"
   live_stream:
-    show_live_stream: true
+    show_live_stream: false
     title: Press conferences and speeches
     date_text: Broadcast
     no_cookies:
