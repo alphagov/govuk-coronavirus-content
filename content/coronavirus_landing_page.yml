@@ -95,20 +95,7 @@ content:
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
     email_url: "/email-signup?topic=/coronavirus-taxon"
   live_stream:
-    show_live_stream: true
-    title: Press conferences and speeches
-    date_text: Broadcast
-    no_cookies:
-      change_settings: "Change your cookie settings"
-      change_settings_link: "/help/cookies"
-      to_watch: "to watch the video"
-      or: "or"
-      watch_link_text: "Watch on YouTube"
-      icon_text: "Video"
-    previous_videos:
-      url: https://www.youtube.com/user/Number10gov/videos
-      previous_videos_text: Watch all press conferences on YouTube
-      next_conference_text: The next live press conference will be shown here
+    show_live_stream: false
     # set spaced_links to true to insert breaks in the list of links, for increased legibility
     spaced_links: true
     ask_a_question_visible: false
