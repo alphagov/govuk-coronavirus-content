@@ -95,7 +95,7 @@ content:
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
     email_url: "/email-signup?topic=/coronavirus-taxon"
   live_stream:
-    show_live_stream: true
+    show_live_stream: false
     title: Press conferences and speeches
     date_text: Broadcast
     no_cookies:
