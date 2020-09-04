@@ -7,10 +7,12 @@ content:
     list:
       - Schools have reopened to all age groups in England, Scotland and Northern Ireland
       - Schools in Wales have begun reopening and will all reopen by 14 September
-      - There's new guidance on [face coverings in England](/face-coverings-in-education)
+      - There's new guidance on face coverings in England
   guidance_section:
     header: What you can do now
     list:
+      - text: Read guidance on face coverings in England
+        url: /government/publications/face-coverings-in-education
       - text: Check how to work safely in education and childcare
         url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
       - text: Find out how your child's start or return to education should be managed
