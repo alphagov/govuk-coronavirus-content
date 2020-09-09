@@ -3,20 +3,18 @@ content:
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
   header_section:
-    title: Help control the virus
-    pretext-1: "To protect yourself and others, when you leave home you must:"
-    pretext-2: If you are feeling unwell, get a test and do not leave home for at least 10 days.
+    title: We must keep on protecting each other
     list:
       - instruction: wash hands
         detail: keep washing your hands regularly
       - instruction: cover face
-        detail: wear a face covering over your nose and mouth in enclosed spaces
+        detail: wear a face covering in enclosed spaces
       - instruction: make space
-        detail: stay at least a metre away from people not in your household
+        detail: stay at least a metre apart
     link:
       href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
-      link_text: "Read more about what you can and"
-      link_nowrap_text: "cannot do"
+      link_text: "Find out what you need to do"
+      link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
     - text: "Self-isolating people in areas with a high number of cases will get payments"
@@ -95,7 +93,7 @@ content:
       - label: "Press conferences (YouTube)"
         url: "https://www.youtube.com/user/Number10gov/videos"
       - label: "Press conference statements"
-        url: "/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts"                
+        url: "/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts"
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
