@@ -49,7 +49,6 @@ content:
     call_to_action:
       title: Get a test now
       href: https://www.gov.uk/get-coronavirus-test
-      description: Do not leave home for at least 10 days after your test
   find_help:
     heading: "Find out what support you can get"
     paragraph: "For example, if you’re out of work, need to get food, or want to take care of your mental health."
