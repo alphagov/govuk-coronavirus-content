@@ -47,9 +47,8 @@ content:
       - a new, continuous cough
       - a loss of, or change to, your sense of smell or taste
     call_to_action:
-      title: Get a test now
+      title: Get a test
       href: https://www.gov.uk/get-coronavirus-test
-      description: Do not leave home for at least 10 days after your test
   find_help:
     heading: "Find out what support you can get"
     paragraph: "For example, if you’re out of work, need to get food, or want to take care of your mental health."
