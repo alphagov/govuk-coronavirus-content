@@ -5,9 +5,7 @@ content:
   header_section:
     pretext: Guidance for teachers, school leaders, carers, parents and students
     list:
-      - Schools have reopened to all age groups in England, Scotland and Northern Ireland
-      - Schools in Wales have begun reopening and will all reopen by 14 September
-      - There's new guidance on face coverings in England
+      - Schools have reopened to all age groups in England, Scotland, Wales and Northern Ireland
   guidance_section:
     header: What you can do now
     list:
