@@ -18,12 +18,12 @@ content:
       subtext: "You must not meet in groups larger than 6 (with some limited exceptions)"
   announcements_label: Announcements
   announcements:
+    - text: "North East England local restrictions"
+      href: /government/news/stronger-measures-introduced-in-parts-of-the-north-east-to-tackle-rising-infection-rates
+      published_text: Published 17 September 2020
     - text: "Prime Minister announces new coronavirus (COVID-19) safety rules"
       href: /government/news/coronavirus-covid-19-what-has-changed-9-september
       published_text: Published 9 September 2020
-    - text: "Wearing face coverings in schools in England"
-      href: /government/publications/face-coverings-in-education
-      published_text: Published 26 August 2020
     - text: "Millions of self employed to benefit from second stage of support scheme"
       href: /government/news/million-of-self-employed-to-benefit-from-second-stage-of-support-scheme
       published_text: Published 17 August 2020
