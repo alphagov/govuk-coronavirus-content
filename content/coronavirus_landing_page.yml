@@ -60,6 +60,18 @@ content:
       text: "Find support"
   explainer_title:
   explainer_text:
+  timeline:
+    heading: Recent and upcoming changes
+    list:
+      - heading: 1 October
+        paragraph: |
+          Content goes here [This is a link](/)
+      - heading: 1 September
+        paragraph: |
+          Content goes here [This is a link](/)
+      - heading: 1 August
+        paragraph: |
+          Content goes here [This is a link](/)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
