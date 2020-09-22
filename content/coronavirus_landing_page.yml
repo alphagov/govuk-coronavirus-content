@@ -63,15 +63,18 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
-      - heading: 1 October
+      - heading: 18 September
         paragraph: |
-          Content goes here [This is a link](/)
-      - heading: 1 September
+          If you live, work or travel in the North East, you need to [follow different covid rules](/guidance/north-east-of-england-local-restrictions)
+      - heading: 15 September
         paragraph: |
-          Content goes here [This is a link](/)
-      - heading: 1 August
+          If you live, work or visit Bolton, you need to [follow different covid rules](/guidance/bolton-local-restrictions)
+      - heading: 14 September
         paragraph: |
-          Content goes here [This is a link](/)
+          People must not meet in groups larger than 6 in England. There are pexceptions to this 'rule of 6'](/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing#seeing-friends-and-family)
+      - heading: 24 July
+        paragraph: |
+          [Face coverings are mandatory in shops](/government/publications/face-coverings-when-to-wear-one-and-how-to-make-your-own/face-coverings-when-to-wear-one-and-how-to-make-your-own)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
