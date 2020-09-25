@@ -82,7 +82,7 @@ content:
     text: "See specific guidance for"
     links:
       - label: "Scotland"
-        url: /guidance/coronavirus-covid-19-information-for-individuals-and-businesses-in-scotland
+        url: https://www.gov.scot/coronavirus-covid-19/
       - label: "Wales"
         url: https://gov.wales/coronavirus
       - label: "Northern Ireland"
