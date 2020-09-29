@@ -18,15 +18,15 @@ content:
       subtext: "You must not meet in groups larger than 6 (with some limited exceptions)"
   announcements_label: Announcements
   announcements:
+    - text: "Indoor mixing between households restricted in parts of the North East"
+      href: /government/news/indoor-inter-household-mixing-restricted-in-parts-of-the-north-east
+      published_text: Published 28 September 2020
     - text: "Chancellor announces Job Support Scheme as part of Winter Economy Plan"
       href: /government/news/chancellor-outlines-winter-economy-plan
       published_text: Published 24 September 2020
     - text: "What has changed – 22 September"
       href: /government/news/coronavirus-covid-19-what-has-changed-22-september
       published_text: Published 22 September 2020
-    - text: "North East England local restrictions"
-      href: /government/news/stronger-measures-introduced-in-parts-of-the-north-east-to-tackle-rising-infection-rates
-      published_text: Published 17 September 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
