@@ -11,7 +11,13 @@ content:
   guidance_section:
     header: What you can do now
     list:
-      - text: Check how to return to work safely
+      - text: Financial support if you’re off work because of coronavirus
+        url: guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work 
+      - text: Help if you’ve lost your job 
+        url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
+      - text: Financial support if you’re self employed and getting less work or no work 
+        url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
+      - text: How to return to work safely if you cannot work from home
         url: /check-how-to-return-to-work-safely
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/workers
