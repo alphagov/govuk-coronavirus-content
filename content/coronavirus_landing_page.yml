@@ -17,11 +17,11 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Job Support Scheme expanded to firms required to close due to Covid Restrictions"
+      href: /government/news/job-support-scheme-expanded-to-firms-required-to-close-due-to-covid-restrictions
+      published_text: Published 9 October 2020
     - text: "Indoor mixing between households restricted in parts of the North East"
       href: /government/news/indoor-inter-household-mixing-restricted-in-parts-of-the-north-east
-      published_text: Published 28 September 2020
-    - text: "Chancellor announces Job Support Scheme as part of Winter Economy Plan"
-      href: /government/news/chancellor-outlines-winter-economy-plan
       published_text: Published 24 September 2020
     - text: "What has changed – 22 September"
       href: /government/news/coronavirus-covid-19-what-has-changed-22-september
@@ -62,18 +62,15 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 2 October
+        paragraph: |
+          [Local restrictions are extended in the North East and North West of England](https://www.gov.uk/guidance/north-east-of-england-local-restrictions)
       - heading: 24 September
         paragraph: |
-          Get the [NHS COVID-19 app](https://covid19.nhs.uk/) to help protect yourself and others
-      - heading: 24 September
-        paragraph: |
-          Find out how the [Winter Economy Plan](/government/news/chancellor-outlines-winter-economy-plan) will protect jobs and support businesses
-      - heading: 24 September
-        paragraph: |
-          There are [new rules on face coverings, mixing with other households, and how businesses operate](/government/news/coronavirus-covid-19-what-has-changed-22-september)
+          Get the [NHS COVID-19 app] (https://covid19.nhs.uk/) to help protect yourself and others 
       - heading: 14 September
         paragraph: |
-          People must not meet in groups larger than 6 in England. There are [exceptions to this ‘rule of 6’](/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing#seeing-friends-and-family)
+          It’s against the law to meet in groups larger than 6 in England. There are [exceptions to this ‘rule of 6’](https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing#seeing-friends-and-family)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
