@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "PM Commons statement on coronavirus: 12 October 2020"
+      href: /government/speeches/pm-commons-statement-on-coronavirus-12-october-2020
+      published_text: Published 12 October 2020
     - text: "Job Support Scheme expanded to firms required to close due to Covid Restrictions"
       href: /government/news/job-support-scheme-expanded-to-firms-required-to-close-due-to-covid-restrictions
       published_text: Published 9 October 2020
     - text: "Indoor mixing between households restricted in parts of the North East"
       href: /government/news/indoor-inter-household-mixing-restricted-in-parts-of-the-north-east
       published_text: Published 24 September 2020
-    - text: "What has changed – 22 September"
-      href: /government/news/coronavirus-covid-19-what-has-changed-22-september
-      published_text: Published 22 September 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
