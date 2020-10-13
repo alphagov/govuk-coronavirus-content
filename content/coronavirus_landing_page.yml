@@ -12,8 +12,8 @@ content:
       - instruction: make space
         detail: stay at least 2 metres apart - or 1 metre with a face covering or other precautions
     link:
-      href: /government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
-      link_text: "Find out what you need to do"
+      href: /find-coronavirus-local-restrictions
+      link_text: "Postcode checker: find out the Local COVID Alert Level in your area"
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
