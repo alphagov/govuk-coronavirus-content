@@ -76,7 +76,7 @@ content:
   sections:
   additional_country_guidance:
     intro: |
-      See [all guidance on GOV.UK](/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed) to help protect yourself and others
+      See [all guidance on GOV.UK](/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed)
     text: "See specific guidance for"
     links:
       - label: "Scotland"
