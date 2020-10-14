@@ -11,6 +11,8 @@ content:
   guidance_section:
     header: What you can do now
     list:
+      - text: "Check how local coronavirus restrictions affect you"
+        url: /find-coronavirus-local-restrictions
       - text: Financial support if you’re off work because of coronavirus
         url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work 
       - text: Help if you’ve lost your job 
