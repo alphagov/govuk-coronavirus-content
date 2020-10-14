@@ -11,6 +11,8 @@ content:
   guidance_section:
     header: What you can do now
     list:
+      - text: "Check how local coronavirus restrictions affect your business"
+        url: /find-coronavirus-local-restrictions
       - text: "Make your workplace COVID-secure"
         url: /guidance/working-safely-during-coronavirus-covid-19
       - text: Find out what financial support schemes you may be eligible for
