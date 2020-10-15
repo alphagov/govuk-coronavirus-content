@@ -17,9 +17,9 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
-    - text: "Liverpool City Region to move into 'very high' Local COVID Alert Level following infection rise"
-      href: /government/news/liverpool-city-region-to-move-into-very-high-local-covid-alert-level-following-rise-in-coronavirus-infections
-      published_text: Published 12 October 2020
+    - text: "Barrow-in-Furness, Chesterfield, Elmbridge, Erewash, Essex, London boroughs, North East Derbyshire and York to move into 'High' Local COVID Alert Level on 17 October"
+      href: /government/speeches/coronavirus-update-on-areas-in-local-covid-alert-levels
+      published_text: Published 15 October 2020
     - text: "Prime Minister announces new Local COVID Alert Levels"
       href: /government/news/prime-minister-announces-new-local-covid-alert-levels
       published_text: Published 12 October 2020
@@ -62,6 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+     - heading: 15 October
+        paragraph: |
+          ‘High’ Local COVID Alert Level to apply to Barrow-in-Furness, Chesterfield, Elmbridge, Erewash, Essex, London boroughs, North East Derbyshire and York
       - heading: 14 October
         paragraph: |
           [Local COVID Alert Levels](/guidance/local-covid-alert-levels-what-you-need-to-know) apply in your area
