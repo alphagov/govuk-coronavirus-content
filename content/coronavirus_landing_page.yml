@@ -62,6 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 18 October
+        paragraph: | 
+          [People arriving in England from Italy after 4am will need to self-isolate](/government/news/italy-removed-from-travel-corridor-list-and-crete-added-to-list-for-england)
       - heading: 17 October
         paragraph: | 
           [‘High’ Local COVID Alert Level](/guidance/full-list-of-local-covid-alert-levels-by-area) applies to Barrow-in-Furness, Chesterfield, Elmbridge, Erewash, Essex, London boroughs, North East Derbyshire and York
@@ -71,9 +74,6 @@ content:
       - heading: 14 October
         paragraph: |
           [Local COVID Alert Levels](/guidance/local-covid-alert-levels-what-you-need-to-know) apply in your area
-      - heading: 24 September
-        paragraph: |
-          Get the [NHS COVID-19 app](https://covid19.nhs.uk/) to help protect yourself and others 
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
