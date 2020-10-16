@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Lancashire moves to Local COVID Alert Level: Very high on 17 October"
+      href: /government/news/local-covid-alert-level-update-for-lancashire
+      published_text: Published 16 October 2020
     - text: "Barrow-in-Furness, Chesterfield, Elmbridge, Erewash, Essex, London boroughs, North East Derbyshire and York to move into 'High' Local COVID Alert Level"
       href: /government/speeches/coronavirus-update-on-areas-in-local-covid-alert-levels
       published_text: Published 15 October 2020
     - text: "Prime Minister announces new Local COVID Alert Levels"
       href: /government/news/prime-minister-announces-new-local-covid-alert-levels
       published_text: Published 12 October 2020
-    - text: "Job Support Scheme expanded to firms required to close due to Covid Restrictions"
-      href: /government/news/job-support-scheme-expanded-to-firms-required-to-close-due-to-covid-restrictions
-      published_text: Published 9 October 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
