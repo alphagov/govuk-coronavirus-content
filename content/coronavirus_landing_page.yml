@@ -17,7 +17,7 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
-     - text: "Lancashire moves to Local COVID Alert Level: Very high on 17 October"
+    - text: "Lancashire moves to Local COVID Alert Level: Very high on 17 October"
       href: /government/news/local-covid-alert-level-update-for-lancashire
       published_text: Published 16 October 2020
     - text: "Barrow-in-Furness, Chesterfield, Elmbridge, Erewash, Essex, London boroughs, North East Derbyshire and York to move into 'High' Local COVID Alert Level"
