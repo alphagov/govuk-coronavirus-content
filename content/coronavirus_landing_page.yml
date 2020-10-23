@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
-    - text: "South Yorkshire moves to Local COVID Alert Level: Very High on 24 October"
-      href: /government/news/local-covid-alert-level-update-for-south-yorkshire
-      published_text: Published 21 October 2020
+    - text: "Sewage signals early warning of coronavirus outbreaks"
+      href: /government/news/sewage-signals-early-warning-of-coronavirus-outbreaks
+      published_text: Published 23 October 2020
+    - text: "Plan for Jobs: Chancellor increases financial support for businesses and workers"
+      href: /government/news/plan-for-jobs-chancellor-increases-financial-support-for-businesses-and-workers
+      published_text: Published 22 October 2020
     - text: "Greater Manchester moves to Local COVID Alert Level: Very High on 23 October"
       href: /government/news/local-covid-alert-level-update-for-greater-manchester
       published_text: Published 20 October 2020
-    - text: "Lancashire moves to Local COVID Alert Level: Very High on 17 October"
-      href: /government/news/local-covid-alert-level-update-for-lancashire
-      published_text: Published 16 October 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
@@ -64,7 +64,7 @@ content:
     list:
       - heading: 24 October
         paragraph: | 
-          [Local COVID Alert Level: high](/guidance/local-covid-alert-level-high) applies to Coventry, Slough and Stoke-on-Trent
+          [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high) applies to Coventry, Slough and Stoke-on-Trent
       - heading: 24 October
         paragraph: | 
           [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae) applies to Barnsley, Doncaster, Rotherham and Sheffield
