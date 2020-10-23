@@ -62,6 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 25 October
+        paragraph: | 
+          [People arriving from the Canary Islands, Denmark, Maldives and Mykonos do not need to self-isolate](/government/news/canary-islands-denmark-maldives-and-mykonos-added-to-travel-corridor-exempt-list) 
       - heading: 24 October
         paragraph: | 
           [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high) applies to Coventry, Slough and Stoke-on-Trent
@@ -71,9 +74,7 @@ content:
       - heading: 23 October
         paragraph: | 
           [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae) applies to Greater Manchester
-      - heading: 17 October
-        paragraph: | 
-          [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high) applies to Barrow-in-Furness, Chesterfield, Elmbridge, Erewash, Essex, London boroughs, North East Derbyshire and York
+      
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
