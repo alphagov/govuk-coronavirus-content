@@ -62,9 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
-    - heading: 27 October
-      paragraph: | 
-          Warrington moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae)
+      - heading: 27 October
+        paragraph: | 
+            Warrington moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae)
       - heading: 25 October
         paragraph: | 
           [People arriving from the Canary Islands, Denmark, Maldives and Mykonos do not need to self-isolate](/government/news/canary-islands-denmark-maldives-and-mykonos-added-to-travel-corridor-exempt-list) 
