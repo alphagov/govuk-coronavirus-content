@@ -62,19 +62,18 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+    - heading: 27 October
+        paragraph: | 
+          Warrington moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae)
       - heading: 25 October
         paragraph: | 
           [People arriving from the Canary Islands, Denmark, Maldives and Mykonos do not need to self-isolate](/government/news/canary-islands-denmark-maldives-and-mykonos-added-to-travel-corridor-exempt-list) 
       - heading: 24 October
         paragraph: | 
-          [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high) applies to Coventry, Slough and Stoke-on-Trent
+          Coventry, Slough and Stoke-on-Trent move to [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high)
       - heading: 24 October
         paragraph: | 
-          [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae) applies to Barnsley, Doncaster, Rotherham and Sheffield
-      - heading: 23 October
-        paragraph: | 
-          [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae) applies to Greater Manchester
-      
+          South Yorkshire moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
