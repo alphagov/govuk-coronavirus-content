@@ -71,7 +71,7 @@ content:
       - heading: 27 October
         paragraph: | 
             Warrington moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high)      
-    sections_heading: "Guidance and support"
+  sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
   additional_country_guidance:
