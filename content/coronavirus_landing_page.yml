@@ -62,7 +62,7 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
-       - heading: 31 October
+      - heading: 31 October
         paragraph: | 
             The following move to [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high) - Amber Valley, Bolsover, Charnwood, Derby City, Derbyshire Dales, Dudley, East Riding of Yorkshire, High Peak, Kingston-Upon-Hull, Luton, North Lincolnshire, North East Lincolnshire, Oxford City, South Derbyshire, Staffordshire, Telford and Wrekin
       - heading: 30 October
