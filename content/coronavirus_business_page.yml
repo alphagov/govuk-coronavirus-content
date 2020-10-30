@@ -11,14 +11,14 @@ content:
   guidance_section:
     header: What you can do now
     list:
-      - text: "Check how local coronavirus restrictions affect your business"
-        url: /find-coronavirus-local-restrictions
+      - text: "Find out what financial support schemes you may be eligible for"
+        url: /business-coronavirus-support-finder
       - text: "Make your workplace COVID-secure"
         url: /guidance/working-safely-during-coronavirus-covid-19
-      - text: Find out what financial support schemes you may be eligible for
-        url: /business-coronavirus-support-finder
-      - text: Find out how to apply for a grant if you’re self-employed
+      - text: "Find out how to apply for a grant if you’re self-employed"
         url: /guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme
+      - text: "Check how local coronavirus restrictions affect your business"
+        url: /find-coronavirus-local-restrictions     
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/business
   sections:
