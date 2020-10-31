@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Prime Minister's statement on national restrictions in England from 5 November"
+      href: /government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-october-2020
+      published_text: Published 31 October 2020
     - text: "Sewage signals early warning of coronavirus outbreaks"
       href: /government/news/sewage-signals-early-warning-of-coronavirus-outbreaks
       published_text: Published 23 October 2020
     - text: "Plan for Jobs: Chancellor increases financial support for businesses and workers"
       href: /government/news/plan-for-jobs-chancellor-increases-financial-support-for-businesses-and-workers
       published_text: Published 22 October 2020
-    - text: "Greater Manchester moves to Local COVID Alert Level: Very High on 23 October"
-      href: /government/news/local-covid-alert-level-update-for-greater-manchester
-      published_text: Published 20 October 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
