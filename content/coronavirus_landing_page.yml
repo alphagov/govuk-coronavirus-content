@@ -12,7 +12,7 @@ content:
       - instruction: make space
         detail: stay at least 2 metres apart - or 1 metre with a face covering or other precautions
     link:
-      href: /find-coronavirus-local-restrictions
+      href: /guidance/new-national-restrictions-from-5-november
       link_text: "National restrictions in England from 5 November: find out more"
       link_nowrap_text: ""
   announcements_label: Announcements
@@ -64,12 +64,9 @@ content:
     list:
       - heading: 5 November
         paragraph: | 
-            National restrictions apply to England
+            [National restrictions apply to England](/guidance/new-national-restrictions-from-5-november)
             
             Until 5 November, follow the [local restrictions for your area](/find-coronavirus-local-restrictions)
-      - heading: 2 November
-        paragraph: |
-            Bradford, Calderdale, Kirklees, Leeds and Wakefield move to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
