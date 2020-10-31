@@ -12,8 +12,8 @@ content:
       - instruction: make space
         detail: stay at least 2 metres apart - or 1 metre with a face covering or other precautions
     link:
-      href: /find-coronavirus-local-restrictions
-      link_text: "Postcode checker: find out the Local COVID Alert Level in your area"
+      href: /find-coronavirus-local-restrictions # TODO - this should link the new guidance
+      link_text: "National lockdown in England from 5 November: find out more"
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
@@ -62,18 +62,14 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 5 November
+        paragraph: |
+            [National restrictions apply to England](/guidance/local-covid-alert-level-very-high)
+
+            Until 5 November, [follow the local restrictions in your area](/find-coronavirus-local-restrictions)
       - heading: 2 November
         paragraph: |
             Bradford, Calderdale, Kirklees, Leeds and Wakefield move to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high)
-      - heading: 31 October
-        paragraph: | 
-            The following move to [Local COVID Alert Level: High](/guidance/local-covid-alert-level-high) - Amber Valley, Bolsover, Carlisle, Charnwood, Derby City, Derbyshire Dales, Dudley, East Riding of Yorkshire, High Peak, Kingston-Upon-Hull, Luton, North Lincolnshire, North East Lincolnshire, Oxford City, South Derbyshire, Staffordshire, Telford and Wrekin
-      - heading: 30 October
-        paragraph: | 
-            Nottinghamshire moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high)
-      - heading: 27 October
-        paragraph: | 
-            Warrington moves to [Local COVID Alert Level: Very High](/guidance/local-covid-alert-level-very-high)      
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
