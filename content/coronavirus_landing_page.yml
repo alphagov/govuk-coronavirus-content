@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Liverpool to be regularly tested for coronavirus in first whole city testing pilot"
+      href: /government/news/liverpool-to-be-regularly-tested-for-coronavirus-in-first-whole-city-testing-pilot
+      published_text: Published 3 November 2020
     - text: "Prime Minister's statement on national restrictions in England from 5 November"
       href: /government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-october-2020
       published_text: Published 31 October 2020
     - text: "Furlough extended and further support for businesses announced"
       href: /government/news/furlough-scheme-extended-and-further-economic-support-announced
       published_text: Published 31 October 2020   
-    - text: "Sewage signals early warning of coronavirus outbreaks"
-      href: /government/news/sewage-signals-early-warning-of-coronavirus-outbreaks
-      published_text: Published 23 October 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
