@@ -5,14 +5,12 @@ content:
   header_section:
     pretext: Coronavirus (COVID-19) support is available
     list:
-      - some workplaces are starting to open - with social distancing
-      - plan your journey to avoid crowds
+      - everyone who can work from home must do so
+      - if you cannot work from home, plan your journey to avoid crowds
       - financial support is available if you cannot work
   guidance_section:
     header: What you can do now
     list:
-      - text: "Check how local coronavirus restrictions affect you"
-        url: /find-coronavirus-local-restrictions
       - text: Financial support if you’re off work because of coronavirus
         url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work 
       - text: Help if you’ve lost your job 
