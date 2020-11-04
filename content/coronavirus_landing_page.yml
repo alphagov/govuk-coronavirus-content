@@ -17,12 +17,12 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Clinically extremely vulnerable people - new guidance"
+      href: /government/news/clinically-extremely-vulnerable-receive-updated-guidance-in-line-with-new-national-restrictions
+      published_text: Published 4 November 2020
     - text: "First city testing pilot will begin in Liverpool from 6 November"
       href: /government/news/liverpool-to-be-regularly-tested-for-coronavirus-in-first-whole-city-testing-pilot
       published_text: Published 3 November 2020
-    - text: "Prime Minister's statement on national restrictions in England from 5 November"
-      href: /government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-october-2020
-      published_text: Published 31 October 2020
     - text: "Furlough extended and further support for businesses announced"
       href: /government/news/furlough-scheme-extended-and-further-economic-support-announced
       published_text: Published 31 October 2020   
