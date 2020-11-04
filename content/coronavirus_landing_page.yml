@@ -64,9 +64,7 @@ content:
     list:
       - heading: 5 November
         paragraph: | 
-            [National restrictions apply to England](/guidance/new-national-restrictions-from-5-november)
-            
-            Until 5 November, follow the [local restrictions for your area](/find-coronavirus-local-restrictions)
+            [National restrictions now apply to England](/guidance/new-national-restrictions-from-5-november)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
