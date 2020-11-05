@@ -62,9 +62,18 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 6 November
+        paragraph: | 
+            "Everyone who lives or works in Liverpool will be offered coronavirus tests, whether or not they have symptoms."
       - heading: 5 November
         paragraph: | 
             [National restrictions now apply to England](/guidance/new-national-restrictions-from-5-november)
+     list:
+      - you cannot meet socially with anyone indoors unless they’re in your support bubble
+      - there are changes to how many people you can meet outside
+      - you must not travel in the UK or overseas, unless for a specific reason, like education, work or a caring responsibility     
+       paragraph: | 
+            [Clinically extremely vulnerable people are advised to stay at home, except for exercise or essential health appointments](/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19)
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
