@@ -68,7 +68,7 @@ content:
       - heading: 5 November
         paragraph: | 
             [National restrictions now apply to England](/guidance/new-national-restrictions-from-5-november)
-     list:
+      - list:
       - you cannot meet socially with anyone indoors unless they’re in your support bubble
       - there are changes to how many people you can meet outside
       - you must not travel in the UK or overseas, unless for a specific reason, like education, work or a caring responsibility     
