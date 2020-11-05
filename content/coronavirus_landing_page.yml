@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Government extends Furlough to March and increases self-employed support"
+      href: /government/news/government-extends-furlough-to-march-and-increases-self-employed-support
+      published_text: Published 5 November 2020  
     - text: "Clinically extremely vulnerable people - new guidance"
       href: /government/news/clinically-extremely-vulnerable-receive-updated-guidance-in-line-with-new-national-restrictions
       published_text: Published 4 November 2020
     - text: "First city testing pilot will begin in Liverpool from 6 November"
       href: /government/news/liverpool-to-be-regularly-tested-for-coronavirus-in-first-whole-city-testing-pilot
-      published_text: Published 3 November 2020
-    - text: "Furlough extended and further support for businesses announced"
-      href: /government/news/furlough-scheme-extended-and-further-economic-support-announced
-      published_text: Published 31 October 2020   
+      published_text: Published 3 November 2020 
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
