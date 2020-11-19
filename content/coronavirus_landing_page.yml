@@ -62,19 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
-      - heading: 7 November
-        paragraph: |
-            [People returning from Sweden and Germany must self-isolate](/government/news/germany-and-sweden-removed-from-travel-corridor-list-of-exempt-countries).
-            
-            [Visitors from Denmark arriving in the UK will be denied entry](/government/news/travel-ban-implemented-to-protect-public-health-following-denmark-covid-19-mink-outbreak).
-      - heading: 6 November
-        paragraph: |
-            [Everyone who lives or works in Liverpool will be offered coronavirus tests, whether or not they have symptoms](https://liverpool.gov.uk/communities-and-safety/emergency-planning/coronavirus/how-to-get-tested/).
-            
-            [UK residents returning from Denmark must self-isolate](/government/news/transport-secretary-statement-on-denmark).
       - heading: 5 November
         paragraph: |
-            [National restrictions now apply to England](/guidance/new-national-restrictions-from-5-november):
+            [National restrictions apply to England](/guidance/new-national-restrictions-from-5-november):
 
             - you cannot meet socially with anyone indoors unless they’re in your support bubble
             - there are changes to how many people you can meet outside
