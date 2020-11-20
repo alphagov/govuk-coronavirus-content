@@ -41,7 +41,7 @@ content:
       href: /risk-level
       text: Read more about COVID-19 alert levels
   nhs_banner:
-    heading: "If you have coronavirus symptoms:"
+    heading: "If you have any coronavirus symptoms:"
     list:
       - a high temperature
       - a new, continuous cough
