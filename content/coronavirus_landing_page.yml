@@ -62,6 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 23 November
+        paragraph: |
+            Government releases [Winter Plan](/government/publications/covid-19-winter-plan) for managing coronavirus
       - heading: 5 November
         paragraph: |
             [National restrictions apply to England](/guidance/new-national-restrictions-from-5-november):
