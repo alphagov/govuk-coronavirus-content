@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Joint statement on UK-wide Christmas arrangements"
+      href: /government/news/joint-statement-on-uk-wide-christmas-arrangements-from-the-uk-government-and-devolved-administrations
+      published_text: Published 24 November 2020
     - text: "England will introduce a testing strategy for people arriving from abroad"
       href: /government/news/test-to-release-england-introduces-testing-strategy-for-international-arrivals
       published_text: Published 24 November 2020
     - text: "PM statement on COVID-19 Winter Plan"
       href: /government/speeches/pm-statement-on-covid-19-winter-plan-23-november-2020
       published_text: Published 23 November 2020
-    - text: "Government secures 5 million doses of Moderna vaccine"
-      href: /government/news/government-secures-5-million-doses-of-moderna-vaccine
-      published_text: Published 16 November 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
@@ -62,6 +62,9 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: 23 to 27 December
+        paragraph: |
+            [You can make a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family) 
       - heading: 2 December
         paragraph: |
             Follow the [rules for your tier](/guidance/local-restriction-tiers-what-you-need-to-know) in England
@@ -75,8 +78,7 @@ content:
             - you cannot meet socially with anyone indoors unless they’re in your support bubble
             - there are changes to how many people you can meet outside
             - you must not travel in the UK or overseas, unless for a specific reason, like education, work or a caring responsibility
-
-            [Clinically extremely vulnerable people](/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19) are advised to stay at home, except for exercise or essential health appointments
+            
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
