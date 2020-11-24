@@ -17,14 +17,14 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "England introduces testing strategy for international arrivals"
+      href: /government/news/test-to-release-england-introduces-testing-strategy-for-international-arrivals
+      published_text: Published 24 November 2020
     - text: "PM statement on COVID-19 Winter Plan"
       href: /government/speeches/pm-statement-on-covid-19-winter-plan-23-november-2020
       published_text: Published 23 November 2020
     - text: "Government secures 5 million doses of Moderna vaccine"
       href: /government/news/government-secures-5-million-doses-of-moderna-vaccine
-      published_text: Published 16 November 2020
-    - text: "New COVID-19 vaccine trials to begin in the UK"
-      href: /government/news/janssen-to-begin-covid-19-vaccine-trials-in-the-uk
       published_text: Published 16 November 2020
   see_all_announcements_link:
     text: See all announcements
