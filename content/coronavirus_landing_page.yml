@@ -64,7 +64,7 @@ content:
     list:
       - heading: 23 to 27 December
         paragraph: |
-            [You can make a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family) 
+            [You can make a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
       - heading: 2 December
         paragraph: |
             Follow the [rules for your tier](/guidance/local-restriction-tiers-what-you-need-to-know) in England
@@ -78,7 +78,7 @@ content:
             - you cannot meet socially with anyone indoors unless they’re in your support bubble
             - there are changes to how many people you can meet outside
             - you must not travel in the UK or overseas, unless for a specific reason, like education, work or a caring responsibility
-            
+
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
