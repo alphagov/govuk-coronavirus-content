@@ -13,7 +13,7 @@ content:
         detail: stay at least 2 metres apart - or 1 metre with a face covering or other precautions
     link:
       href: /guidance/new-national-restrictions-from-5-november
-      link_text: "National restrictions in England from 5 November: find out more"
+      link_text: "National restrictions in England until 2 December: find out more"
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
@@ -67,7 +67,7 @@ content:
             [You can make a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
       - heading: 2 December
         paragraph: |
-            Follow the [rules for your tier](/guidance/local-restriction-tiers-what-you-need-to-know) in England
+            Follow the [rules for your tier](/find-coronavirus-local-restrictions) in England
       - heading: 23 November
         paragraph: |
             Government releases [Winter Plan](/government/publications/covid-19-winter-plan) for managing coronavirus
