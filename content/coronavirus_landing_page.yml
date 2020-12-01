@@ -12,8 +12,8 @@ content:
       - instruction: make space
         detail: stay at least 2 metres apart - or 1 metre with a face covering or other precautions
     link:
-      href: /guidance/new-national-restrictions-from-5-november
-      link_text: "National restrictions in England until 2 December: find out more"
+      href: /find-coronavirus-local-restrictions
+      link_text: "Postcode checker: find out the tier for your area"
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
@@ -72,13 +72,6 @@ content:
             Follow the rules for your local area
             
             [Find out what tier your area is in and what the local restrictions are](/find-coronavirus-local-restrictions)
-      - heading: 5 November
-        paragraph: |
-            [National restrictions apply to England](/guidance/new-national-restrictions-from-5-november):
-
-            - you cannot meet socially with anyone indoors unless they’re in your support bubble
-            - there are changes to how many people you can meet outside
-            - you must not travel in the UK or overseas, unless for a specific reason, like education, work or a caring responsibility
 
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
