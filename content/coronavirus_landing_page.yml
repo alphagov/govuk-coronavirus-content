@@ -17,11 +17,11 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "UK authorises Pfizer-BioNTech COVID-19 vaccine"
+      href: /government/news/uk-authorises-pfizer-biontech-covid-19-vaccine
+      published_text: Published 2 December 2020
     - text: "Joint statement on UK-wide Christmas arrangements"
       href: /government/news/joint-statement-on-uk-wide-christmas-arrangements-from-the-uk-government-and-devolved-administrations
-      published_text: Published 24 November 2020
-    - text: "England will introduce a testing strategy for people arriving from abroad"
-      href: /government/news/test-to-release-england-introduces-testing-strategy-for-international-arrivals
       published_text: Published 24 November 2020
     - text: "PM statement on COVID-19 Winter Plan"
       href: /government/speeches/pm-statement-on-covid-19-winter-plan-23-november-2020
