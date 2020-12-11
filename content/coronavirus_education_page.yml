@@ -9,7 +9,7 @@ content:
       - In Wales schools are open for primary school children, years 7 and 8, and pupils doing exams
   guidance_section:
     header: What you can do now
-    list
+    list:
       - text: Check how childminders, after school clubs and holiday clubs can operate
         url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
       - text: Check how to work safely in education and childcare
