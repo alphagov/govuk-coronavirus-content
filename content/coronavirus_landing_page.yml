@@ -17,11 +17,11 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "London, South Essex, and South Hertfordshire to move to Tier 3 restrictions"
+      href: /government/news/london-south-essex-and-south-hertfordshire-to-move-to-tier-3-restrictions
+      published_text: Published 14 December 2020
     - text: "UK Chief Medical Officers announces a change to the self-isolation period from 14 to 10 days"
       href: /government/news/uk-chief-medical-officers-statement-on-the-self-isolation-period-11-december-2020
-      published_text: Published 11 December 2020
-    - text: "Targeted testing to be offered to children in north east London, Kent and Essex"
-      href: /government/news/targeted-testing-to-be-offered-to-children-in-north-east-london-kent-and-essex
       published_text: Published 11 December 2020
     - text: "People with long-term health conditions urged to get flu vaccine before Christmas"
       href: /government/news/people-with-long-term-health-conditions-urged-to-get-flu-vaccine-before-christmas
