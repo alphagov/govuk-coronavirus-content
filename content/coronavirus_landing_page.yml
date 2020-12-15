@@ -17,15 +17,15 @@ content:
       link_nowrap_text: ""
   announcements_label: Announcements
   announcements:
+    - text: "Schools and colleges to get weekly coronavirus testing"
+      href: /government/news/secondary-schools-and-colleges-to-get-weekly-coronavirus-testing
+      published_text: Published 15 December 2020
+    - text: "PHE investigating a novel strain of COVID-19"
+      href: /government/news/phe-investigating-a-novel-strain-of-covid-19
+      published_text: Published 14 December 2020
     - text: "London, South Essex, and South Hertfordshire to move to Tier 3 restrictions"
       href: /government/news/london-south-essex-and-south-hertfordshire-to-move-to-tier-3-restrictions
       published_text: Published 14 December 2020
-    - text: "Schools and colleges to get weekly coronavirus testing"
-      href: /government/news/secondary-schools-and-colleges-to-get-weekly-coronavirus-testing
-      published_text: Published 11 December 2020
-    - text: "PHE investigating a novel strain of COVID-19"
-      href: /government/news/phe-investigating-a-novel-strain-of-covid-19
-      published_text: Published 11 December 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
