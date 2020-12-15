@@ -16,16 +16,8 @@ content:
       link_text: "Postcode checker: find out the tier for your area"
       link_nowrap_text: ""
   announcements_label: Announcements
+  # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   announcements:
-    - text: "Schools and colleges to get weekly coronavirus testing"
-      href: /government/news/secondary-schools-and-colleges-to-get-weekly-coronavirus-testing
-      published_text: Published 15 December 2020
-    - text: "PHE investigating a novel strain of COVID-19"
-      href: /government/news/phe-investigating-a-novel-strain-of-covid-19
-      published_text: Published 14 December 2020
-    - text: "London, South Essex, and South Hertfordshire to move to Tier 3 restrictions"
-      href: /government/news/london-south-essex-and-south-hertfordshire-to-move-to-tier-3-restrictions
-      published_text: Published 14 December 2020
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
@@ -65,7 +57,7 @@ content:
       - heading: 23 to 27 December
         paragraph: |
             [You can make a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
-            
+
             Follow guidance on [Christmas activities](/guidance/guidance-for-the-christmas-period)
       - heading: 16 December
         paragraph: |
@@ -73,7 +65,7 @@ content:
       - heading: 2 December
         paragraph: |
             Follow the rules for your local area
-            
+
             [Find out what tier your area is in and what the local restrictions are](/find-coronavirus-local-restrictions)
 
   sections_heading: "Guidance and support"
