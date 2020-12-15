@@ -73,7 +73,7 @@ content:
   sections:
   additional_country_guidance:
     intro: |
-      See [all coronavirus guidance on GOV.UK](/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed)
+      See [all coronavirus guidance on GOV.UK](/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=updated-newest)
     text: "See specific guidance for"
     links:
       - label: "Scotland"
@@ -99,7 +99,7 @@ content:
     header: "All coronavirus information on GOV.UK"
     links:
       - label: "Guidance"
-        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=updated-newest"
       - label: "News"
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
       - label: "Legislation (legislation.gov.uk)"
