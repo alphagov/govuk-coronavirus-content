@@ -97,6 +97,8 @@ content:
         url: https://coronavirus.data.gov.uk/
       - label: UK data and analysis on coronavirus
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
+      - label: Coronavirus cases by local authority
+        url: /government/collections/coronavirus-cases-by-local-authority-epidemiological-data
       - label: Weekly data on testing in the UK
         url: /government/collections/nhs-test-and-trace-statistics-england-weekly-reports
       - label: Statistics on coronavirus funding for business
