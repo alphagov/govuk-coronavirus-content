@@ -91,7 +91,7 @@ content:
         url: https://coronavirus.data.gov.uk/
       - label: UK data and analysis on coronavirus
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
-      - label: Latest data and trends about the coronavirus (Office for National Statistics)
+      - label: Latest data and trends about coronavirus (Office for National Statistics)
         url: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights
       - label: Coronavirus cases by local authority
         url: /government/collections/coronavirus-cases-by-local-authority-epidemiological-data
