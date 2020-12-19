@@ -54,9 +54,14 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
-      - heading: 19 December
+      - heading: 25 December
         paragraph: |
-            Parts of England will move tiers - follow the rules in your local area
+            You can make a Christmas bubble if you live in Tier 1, 2 or 3. You cannot make a Christmas bubble in Tier 4.
+
+            Follow guidance on [making a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
+      - heading: 20 December
+        paragraph: |
+            Parts of England will move into Tier 4: Stay at Home
             
             [Find out what tier your area is in and what the local restrictions are](/find-coronavirus-local-restrictions)
   sections_heading: "Guidance and support"
