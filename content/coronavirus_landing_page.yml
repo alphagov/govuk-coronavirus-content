@@ -56,14 +56,16 @@ content:
     list:
       - heading: 25 December
         paragraph: |
-            You can make a Christmas bubble if you live in Tier 1, 2 or 3. You cannot make a Christmas bubble in Tier 4.
+            In Tier 4 areas in England, you cannot meet other people indoors unless you live with them or they are part of your support bubble.
 
-            Follow guidance on [making a Christmas bubble with friends and family](/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
-      - heading: 20 December
+            You can make a [Christmas bubble if you live in Tier 1, 2 or 3](/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family).
+
+            There are different rules on making a Christmas bubble if you live in [Scotland](https://www.gov.scot/publications/coronavirus-covid-19-guidance-for-festive-period/), [Wales](https://gov.wales/making-christmas-bubble-friends-and-family) and [Northern Ireland](https://www.nidirect.gov.uk/articles/coronavirus-covid-19-regulations-guidance-restrictions-christmas).
+      - heading: From 20 December
         paragraph: |
-            Parts of England will move into Tier 4: Stay at Home
-            
-            [Find out what tier your area is in and what the local restrictions are](/find-coronavirus-local-restrictions)
+            Parts of England are in [Tier 4: Stay at Home](/guidance/tier-4-stay-at-home)
+
+            People in Tier 4 who are [clinically extremely vulnerable are advised to shield](/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19).
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
