@@ -6,12 +6,14 @@ content:
     pretext: Guidance for students including university students, parents, carers, teachers and school leaders
     list:
       - Schools, universities and further education settings are open in January in England, Scotland, Wales and Northern Ireland
-      - Mass asymptomatic testing in schools will start from January in England.
+      - Mass asymptomatic testing in schools will start from January in England
   guidance_section:
     header: What you can do now
     list:
       - text: Find out about the return to school and childcare in January 2021
         url: /government/publications/schools-and-childcare-settings-return-in-january-2021/schools-and-childcare-settings-return-in-january-2021
+      - text: Find out which areas are required to implement the contingency framework from January 2021
+        url: /government/publications/coronavirus-covid-19-contingency-framework-for-education-and-childcare-settings/contingency-framework-education-and-childcare-settings-excluding-universities
       - text: Find out about mass asymptomatic testing in schools and colleges from January 2021
         url: /government/publications/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges
   sections_heading: "Guidance and support"
