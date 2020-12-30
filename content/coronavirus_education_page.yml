@@ -3,17 +3,17 @@ content:
   meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
   page_title: "Education and childcare"
   header_section:
-    pretext: Guidance for teachers, school leaders, carers, parents and students
+    pretext: Guidance for students including university students, parents, carers, teachers and school leaders
     list:
-      - Schools are open to all age groups in England, Scotland and Northern Ireland
-      - In Wales schools are open for primary school children, years 7 and 8, and pupils doing exams
+      - Schools, universities and further education settings are open in January in England, Scotland, Wales and Northern Ireland
+      - Mass asymptomatic testing in schools will start from January in England.
   guidance_section:
     header: What you can do now
     list:
-      - text: Check how childminders, after school clubs and holiday clubs can operate
-        url: /government/publications/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak/guidance-for-parents-and-carers-of-children-attending-out-of-school-settings-during-the-coronavirus-covid-19-outbreak
-      - text: Check how to work safely in education and childcare
-        url: /government/publications/safe-working-in-education-childcare-and-childrens-social-care
+      - text: Find out about going back to school in January 2021
+        url: /government/publications/schools-and-childcare-settings-return-in-january-2021/schools-and-childcare-settings-return-in-january-2021
+      - text: Find out about mass asymptomatic testing in schools and colleges from January 2021
+        url: /government/publications/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
