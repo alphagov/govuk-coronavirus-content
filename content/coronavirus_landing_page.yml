@@ -54,6 +54,13 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
+      - heading: January
+        paragraph: |
+          Secondary schools have a staggered return until 18 January 2021.
+          
+          [Find out about secondary schools reopening](/government/publications/schools-and-childcare-settings-return-in-january-2021/schools-and-childcare-settings-return-in-january-2021).
+
+          Some primary schools are only open to vulnerable children and the children of critical workers. You can [view a list of these areas](/government/news/school-contingency-plans-to-be-implemented-as-cases-rise). 
       - heading: 31 December
         paragraph: |
           In England, many areas are in a higher tier. [Check your postcode to find out what tier you are in](/find-coronavirus-local-restrictions).
