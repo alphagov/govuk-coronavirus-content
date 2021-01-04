@@ -54,18 +54,10 @@ content:
   timeline:
     heading: Recent and upcoming changes
     list:
-      - heading: January
+      - heading: 5 January
         paragraph: |
-          Secondary schools have a staggered return until 18 January 2021.
-          
-          [Find out about secondary schools reopening](/government/publications/schools-and-childcare-settings-return-in-january-2021/schools-and-childcare-settings-return-in-january-2021).
-
-          Some primary schools are only open to vulnerable children and the children of critical workers. You can [view a list of these areas](/government/publications/coronavirus-covid-19-contingency-framework-for-education-and-childcare-settings). 
-      - heading: 31 December
-        paragraph: |
-          In England, many areas are in a higher tier. [Check your postcode to find out what tier you are in](/find-coronavirus-local-restrictions).
-
-          People in [Tier 4](/guidance/tier-4-stay-at-home) who are [clinically extremely vulnerable are advised to shield](/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19).
+          [National lockdown rules apply in England](/guidance/national-lockdown-stay-at-home). Stay at home.
+          Find out what the rules are in [Scotland](https://www.gov.scot/coronavirus-covid-19/), [Wales](https://gov.wales/coronavirus) and [Northern Ireland](https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19).  
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
