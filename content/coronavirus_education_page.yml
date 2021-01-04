@@ -3,18 +3,18 @@ content:
   meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
   page_title: "Education and childcare"
   header_section:
-    pretext: Guidance for students including university students, parents, carers, teachers and school leaders
+    pretext: From January 2021
     list:
-      - Schools, universities and further education settings are open in January in England, Scotland, Wales and Northern Ireland
-      - Mass asymptomatic testing in schools will start from January in England
+      - all pupils in secondary schools and further education providers have a delayed start of up to 2 weeks
+      - in some areas, only vulnerable children and the children of critical workers return to primary schools
   guidance_section:
-    header: What you can do now
+    header: January 2021 changes
     list:
-      - text: Find out about the return to school and childcare in January 2021
+      - text: Find out about the return to school and childcare
         url: /government/publications/schools-and-childcare-settings-return-in-january-2021/schools-and-childcare-settings-return-in-january-2021
-      - text: Find out which areas are required to implement the contingency framework from January 2021
+      - text: The areas where primary schools are only open to vulnerable children and the children of critical workers, Annex A (PDF, 253KB)
         url: /government/publications/coronavirus-covid-19-contingency-framework-for-education-and-childcare-settings
-      - text: Find out about mass asymptomatic testing in schools and colleges from January 2021
+      - text: Find out about mass asymptomatic testing in schools and colleges
         url: /government/publications/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
