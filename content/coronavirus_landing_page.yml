@@ -12,7 +12,7 @@ content:
       Stay 2 metres apart from anyone not in your household or bubble.
     link:
       href: /guidance/national-lockdown-stay-at-home
-      link_text: Find out what you can and cannot do
+      text: Find out what you can and cannot do
       link_nowrap_text: ""
   announcements_label: Announcements
   # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
