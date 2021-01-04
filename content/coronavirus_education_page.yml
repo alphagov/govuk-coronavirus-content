@@ -3,19 +3,13 @@ content:
   meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
   page_title: "Education and childcare"
   header_section:
-    pretext: From January 2021
+    pretext: 
     list:
-      - all pupils in secondary schools and further education providers have a delayed start of up to 2 weeks
-      - in some areas, only vulnerable children and the children of critical workers return to primary schools
   guidance_section:
-    header: January 2021 changes
+    header: National lockdown in England
     list:
-      - text: Find out about the return to school and childcare
-        url: /government/publications/schools-and-childcare-settings-return-in-january-2021/schools-and-childcare-settings-return-in-january-2021
-      - text: The areas where primary schools are only open to vulnerable children and the children of critical workers (in the PDF, Annex A)
-        url: /government/publications/coronavirus-covid-19-contingency-framework-for-education-and-childcare-settings
-      - text: Find out about mass asymptomatic testing in schools and colleges
-        url: /government/publications/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges/coronavirus-covid-19-asymptomatic-testing-in-schools-and-colleges
+      - text: Critical workers and vulnerable children who can access schools or educational settings
+        url: /government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
