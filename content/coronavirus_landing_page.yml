@@ -11,8 +11,12 @@ content:
 
       Stay 2 metres apart from anyone not in your household or bubble.
     link:
+      # Temporarily setting both url and href to support a transition from url to href, if you need to change one change both
       url: /guidance/national-lockdown-stay-at-home
+      href: /guidance/national-lockdown-stay-at-home
+      # Temporarily setting both text and link_text to support a transition from text to link_text, if you need to change one change both
       text: Find out what you can and cannot do
+      link_text: Find out what you can and cannot do
       link_nowrap_text: ""
   announcements_label: Announcements
   # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
