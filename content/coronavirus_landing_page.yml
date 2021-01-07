@@ -11,11 +11,7 @@ content:
 
       1 in 3 people who have the virus have no symptoms, so you could be spreading it without knowing it.
     link:
-      # Temporarily setting both url and href to support a transition from url to href, if you need to change one change both
-      url: /guidance/national-lockdown-stay-at-home
       href: /guidance/national-lockdown-stay-at-home
-      # Temporarily setting both text and link_text to support a transition from text to link_text, if you need to change one change both
-      text: Find out what the rules are
       link_text: Find out what the rules are
       link_nowrap_text: ""
   announcements_label: Announcements
