@@ -90,8 +90,6 @@ content:
         url: /government/collections/coronavirus-cases-by-local-authority-epidemiological-data
       - label: Weekly data on testing in the UK
         url: /government/collections/nhs-test-and-trace-statistics-england-weekly-reports
-      - label: Statistics on coronavirus funding for business
-        url: /government/collections/statistics-on-coronavirus-funding-for-business
   topic_section:
     header: "All coronavirus information on GOV.UK"
     links:
