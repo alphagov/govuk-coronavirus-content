@@ -1,20 +1,37 @@
 content:
-  title: "Coronavirus (COVID-19): Education and childcare"
+  title: "Coronavirus (COVID-19): Education, universities and childcare"
   meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
-  page_title: "Education and childcare"
+  page_title: "Education, universities and childcare"
   header_section:
-    pretext: 
+    pretext: Guidance for teachers, school leaders, carers, parents and students
+    education-pretext:
+      text: You can read more about
+      countries:
+        - label: changes to education in Scotland
+          url: https://www.gov.scot/coronavirus-covid-19/
+        - label: changes to education in Wales
+          url: https://gov.wales/education-coronavirus
+        - label: changes to education in Northern Ireland
+          url: https://www.nidirect.gov.uk/articles/coronavirus-covid-19-advice-schools-colleges-and-universities
+    list_heading: "In England:"
     list:
+      - only children of critical workers and vulnerable children and young people should attend school or college – everyone else will receive remote education
+      - GCSE, AS and A level exams will not go ahead as planned in 2021
+      - there’s remote teaching at universities except for some courses
   guidance_section:
     header: National lockdown in England
     list:
-      - text: Critical workers and vulnerable children who can access schools or educational settings
+      - text: Critical workers and vulnerable pupils: find out who can access schools and educational settings
         url: /government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision
+      - text: Childcare bubbles: how to get help with informal childcare
+        url: /guidance/making-a-childcare-bubble-with-another-household
+      - text: Find out about requesting furlough (‘temporary leave’) for childcare reasons
+        url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
   topic_section:
-    header: "All coronavirus education and childcare information on GOV.UK"
+    header: "All coronavirus education, university and childcare information on GOV.UK"
     links:
       - label: "Guidance"
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=272308f4-05c8-4d0d-abc7-b7c2e3ccd249&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=most-viewed"
@@ -22,5 +39,5 @@ content:
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&level_two_taxon=272308f4-05c8-4d0d-abc7-b7c2e3ccd249&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
   notifications:
     intro: "Stay up to date with GOV.UK"
-    email_link: "Sign up to get emails when we add new coronavirus education and childcare information"
+    email_link: "Sign up to get emails when we add new coronavirus education, university and childcare information"
     email_url: "/email-signup?topic=/coronavirus-taxon/education-and-childcare"
