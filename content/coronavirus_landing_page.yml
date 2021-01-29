@@ -80,16 +80,14 @@ content:
       - label: "Northern Ireland"
         url: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19
   statistics_section:
-    header: Statistics
+    header: UK statistics
     links:
-      - label: Daily UK statistics
+      - label: Daily summary of coronavirus testing, cases and vaccinatons
         url: https://coronavirus.data.gov.uk/
-      - label: UK data and analysis on coronavirus
+      - label: All data and analysis on coronavirus
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
       - label: Coronavirus cases by local authority
         url: /government/collections/coronavirus-cases-by-local-authority-epidemiological-data
-      - label: Weekly data on testing in the UK
-        url: /government/collections/nhs-test-and-trace-statistics-england-weekly-reports
   topic_section:
     header: "All coronavirus information on GOV.UK"
     links:
