@@ -5,7 +5,7 @@ content:
   header_section:
     title: "National lockdown: stay at home"
     intro: |
-      Coronavirus (COVID‑19) is spreading fast.  
+      Coronavirus (COVID‑19) is spreading fast.
 
       Do not leave your home unless necessary.
 
@@ -50,26 +50,9 @@ content:
       text: "Find support"
   explainer_title:
   explainer_text:
+  # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
     heading: Recent and upcoming changes
-    list:
-      - heading: 1 February
-        paragraph: |
-          People living in postcodes CR4, EN10, GU21, ME15, N17, PR9, W7, WS2:
-          Everyone over 16 is strongly encouraged to get a coronavirus (COVID-19) test. [Find out how to get a test](/find-local-council) on your local authority website. 
-
-      - heading: 27 January
-        paragraph: |
-          The Prime Minister has announced that [it'll not be possible to resume face-to-face learning](/government/speeches/prime-ministers-statement-to-the-house-of-commons-on-coronavirus-27-january-2021) for the majority of pupils and students until 8 March at the earliest.
-          
-          The Prime Minister has also announced [further measures at the border](/government/news/tougher-border-controls-to-protect-public-health), including the strengthening of requirements for some arrivals through hotel isolation. We'll set out more details in due course. 
-      
-      - heading: 5 January
-        paragraph: |
-          [National lockdown rules apply in England](/guidance/national-lockdown-stay-at-home). Stay at home.
-          Find out what the rules are in [Scotland](https://www.gov.scot/coronavirus-covid-19/), [Wales](https://gov.wales/coronavirus) and [Northern Ireland](https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19).
-          
-          [Shielding has resumed in England](/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19). If you're shielding, do not attend work, school, college or university. You can [get support if you're clinically extremely vulnerable](/coronavirus-shielding-support), for example priority access to supermarket deliveries. 
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
