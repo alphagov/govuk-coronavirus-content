@@ -70,7 +70,7 @@ content:
   statistics_section:
     header: UK statistics
     links:
-      - label: Daily summary of coronavirus testing, cases and vaccinatons
+      - label: Daily summary of coronavirus testing, cases and vaccinations
         url: https://coronavirus.data.gov.uk/
       - label: All data and analysis on coronavirus
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
