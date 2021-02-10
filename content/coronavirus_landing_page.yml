@@ -72,6 +72,8 @@ content:
     links:
       - label: Daily summary of coronavirus testing, cases and vaccinations
         url: https://coronavirus.data.gov.uk/
+      - label: Data and trends from the Office for National Statistics (ONS)
+        url: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases      
       - label: All data and analysis on coronavirus
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
       - label: Coronavirus cases by local authority
