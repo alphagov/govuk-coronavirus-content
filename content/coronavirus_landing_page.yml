@@ -53,6 +53,8 @@ content:
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
     heading: Roadmap out of lockdown
+    summary: |
+      A [4-step plan to ease lockdown in England](/government/publications/covid-19-response-spring-2021) has been announced.
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
