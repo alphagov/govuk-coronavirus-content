@@ -16,13 +16,12 @@ content:
     list_heading: "In England:"
     list:
       - return to schools for all pupils from 8 March 
-      - GCSE, AS and A level exams will not go ahead as planned 
-      - universities resume on-site education from 8 March
+      - GCSE, AS and A level exams will not go ahead as planned
   guidance_section:
     header: Popular content
     list:
       - text: All pupils return to schools on 8 March
-        url: /guidance/national-lockdown-stay-at-home
+        url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
