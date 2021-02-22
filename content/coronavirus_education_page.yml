@@ -3,7 +3,7 @@ content:
   meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
   page_title: "Education, universities and childcare"
   header_section:
-    pretext: Guidance for teachers, school leaders, carers, parents and students
+    pretext: Guidance for parents and carers, students and university students, teachers and educational setting leaders
     education-pretext:
       text: You can read more about
       countries:
@@ -15,18 +15,13 @@ content:
           url: https://www.nidirect.gov.uk/articles/coronavirus-covid-19-advice-schools-colleges-and-universities
     list_heading: "In England:"
     list:
-      - only children of critical workers and vulnerable children and young people should attend school or college – everyone else will receive remote education
-      - GCSE, AS and A level exams will not go ahead as planned in 2021
-      - there’s remote teaching at universities except for some courses
+      - return to schools for all pupils from 8 March 
+      - GCSE, AS and A level exams will not go ahead as planned
   guidance_section:
-    header: National lockdown in England
+    header: Popular content
     list:
-      - text: Critical workers and vulnerable pupils - find out who can access schools and educational settings
-        url: /government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision
-      - text: Childcare bubbles - how to get help with informal childcare
-        url: /guidance/making-a-childcare-bubble-with-another-household
-      - text: Find out about requesting furlough (‘temporary leave’) for childcare reasons
-        url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme
+      - text: All pupils return to schools on 8 March
+        url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
