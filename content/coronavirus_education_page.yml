@@ -21,8 +21,10 @@ content:
   guidance_section:
     header: Popular content
     list:
-      - text: All pupils return to schools on 8 March
-        url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak
+      - text: Parents and carers - what you need to know about the return to schools 
+        url: https://dfemedia.blog.gov.uk/2021/02/22/all-students-to-return-to-school-and-college-from-8-march-and-what-you-need-to-know/
+      - text: Schools - what you need to know about the return to schools 
+        url: /government/publications/actions-for-schools-during-the-coronavirus-outbreak?priority-taxon=b350e61d-1db9-4cc2-bb44-fab02882ac25
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
