@@ -1,6 +1,6 @@
 content:
   title: "Coronavirus (COVID-19): Education, universities and childcare"
-  meta_description: "Coronavirus (COVID-19) information for parents, schools, colleges and universities: closures, exams, learning, health and wellbeing."
+  meta_description: "Coronavirus (COVID-19) information about schools, nurseries, colleges and universities."
   page_title: "Education, universities and childcare"
   header_section:
     pretext: Guidance for parents and carers, students and university students, teachers and educational setting leaders
@@ -17,6 +17,7 @@ content:
     list:
       - return to schools for all pupils from 8 March 
       - GCSE, AS and A level exams will not go ahead as planned
+      - University students on practical courses who need to access specialist facilities and equipment can return to in-person teaching from 8 March
   guidance_section:
     header: Popular content
     list:
