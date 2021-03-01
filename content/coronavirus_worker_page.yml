@@ -11,12 +11,14 @@ content:
   guidance_section:
     header: What you can do now
     list:
-      - text: Financial support if you’re off work because of coronavirus
-        url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work 
-      - text: Help if you’ve lost your job 
-        url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
-      - text: Financial support if you’re self employed and getting less work or no work 
+      - text: Furlough - find information on the Job Retention Scheme
+        url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme 
+      - text: Self-employed - what to do if you’re getting less or no work
         url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
+      - text: Not working - what to do if you’re employed but cannot work
+        url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
+      - text: Unemployed - what to do if you’ve lost your job
+        url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/workers
   sections:
