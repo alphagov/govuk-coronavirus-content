@@ -11,6 +11,8 @@ content:
   guidance_section:
     header: What you can do now
     list:
+      - text: "Find out what financial support you can get"
+        url: /business-coronavirus-support-finder
       - text: "Make your workplace COVID-secure"
         url: /guidance/working-safely-during-coronavirus-covid-19
       - text: "Check if you can claim a grant if you’re self-employed"
