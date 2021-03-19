@@ -53,6 +53,7 @@ content:
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
     heading: Recent and upcoming changes
+    summary: Restrictions are easing across the UK.
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   sections:
