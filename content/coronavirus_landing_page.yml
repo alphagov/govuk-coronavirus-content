@@ -3,17 +3,16 @@ content:
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
   header_section:
-    title: "National lockdown: stay at home"
+    title: "Coronavirus restrictions remain in place across the country. In England:"
     intro: |
-      Coronavirus (COVID‑19) remains a serious threat across the country.
-
-      Do not leave your home unless necessary.
-
-      1 in 3 people who have the virus have no symptoms, so you could be spreading it without knowing it.
+      - Only socialise indoors with people you live with or who are in your support&nbsp;bubble
+      - Up to 6 people or 2 households can meet&nbsp;outside
+      - Work from home if you can and only travel when&nbsp;necessary
+      - If you have symptoms get a test and stay at&nbsp;home
     link:
-      href: /guidance/national-lockdown-stay-at-home
-      link_text: Find out what the rules are
-      link_nowrap_text: ""
+      href: /guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do
+      link_text: Find out the rules on what you can and
+      link_nowrap_text: cannot do
   announcements_label: Announcements
   # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   announcements:
