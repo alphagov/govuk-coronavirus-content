@@ -13,7 +13,7 @@ content:
     header: What you can do now
     list:
       - text: Furlough - find information on the Job Retention Scheme
-        url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme 
+        url: /guidance/check-if-you-could-be-covered-by-the-coronavirus-job-retention-scheme
       - text: Self-employed - what to do if you’re getting less or no work
         url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
       - text: Not working - what to do if you’re employed but cannot work
@@ -23,6 +23,13 @@ content:
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/workers
   sections:
+  related_topic_section:
+    header: "Related coronavirus topics"
+    links:
+      - label: "Business support"
+        url: "/coronavirus/business-support"
+      - label: "Education, universities and childcare"
+        url: "/coronavirus/education-and-childcare"
   topic_section:
     header: All coronavirus work and financial support information on GOV.UK
     links:
