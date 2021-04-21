@@ -22,13 +22,20 @@ content:
   guidance_section:
     header: Popular content
     list:
-      - text: Order rapid lateral flow tests to do twice a week, for example if you’re a parent or carer 
-        url: /order-coronavirus-rapid-lateral-flow-tests  
+      - text: Order rapid lateral flow tests to do twice a week, for example if you’re a parent or carer
+        url: /order-coronavirus-rapid-lateral-flow-tests
       - text: Parents and carers - what you need to know
         url: /government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/education
   sections:
+  related_topic_section:
+    header: "Related coronavirus topics"
+    links:
+      - label: "Business support"
+        url: "/coronavirus/business-support"
+      - label: "Work and financial support"
+        url: "/coronavirus/worker-support"
   topic_section:
     header: "All coronavirus education, university and childcare information on GOV.UK"
     links:

@@ -18,6 +18,13 @@ content:
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/business
   sections:
+  related_topic_section:
+    header: "Related coronavirus topics"
+    links:
+      - label: "Education, universities and childcare"
+        url: "/coronavirus/education-and-childcare"
+      - label: "Work and financial support"
+        url: "/coronavirus/worker-support"
   topic_section:
     header: "All coronavirus business support information on GOV.UK"
     links:
