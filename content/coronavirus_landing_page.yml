@@ -3,11 +3,11 @@ content:
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
   header_section:
-    title: "Coronavirus restrictions remain in place across the country. In England:"
+    title: "Coronavirus restrictions remain in place across the country, including for people who have been vaccinated. In England:"
     intro: |
-      - Only socialise indoors with people you live with or who are in your support&nbsp;bubble
-      - Up to 6 people or 2 households can meet&nbsp;outside
-      - Work from home if you can and minimise travel
+      - You can meet indoors in a group of up to 6 people or a group of any size from 2 households 
+      - You can meet outside in a group of up to 30 people
+      - Work from home if you can and travel safely
       - If you have symptoms get a test and stay at&nbsp;home
     link:
       href: /guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do
