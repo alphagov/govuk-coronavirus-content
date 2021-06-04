@@ -39,12 +39,6 @@ content:
         markdown: |
           - [get a PCR test](/get-coronavirus-test)
           - stay at home
-  find_help:
-    heading: "Find out what support you can get"
-    paragraph: "For example, if you’re out of work, need to get food, or want to take care of your mental health."
-    link:
-      href: "/find-coronavirus-support"
-      text: "Find support"
   explainer_title:
   explainer_text:
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
