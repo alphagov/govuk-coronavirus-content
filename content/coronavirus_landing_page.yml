@@ -34,8 +34,8 @@ content:
     sections:
       - heading: "If you have no symptoms:"
         markdown: |
-          - [Get regular rapid lateral flow tests](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/regular-rapid-coronavirus-tests-if-you-do-not-have-symptoms/).
-          - [Report rapid lateral flow test results](https://www.gov.uk/report-covid19-result)
+          - [get regular rapid lateral flow tests](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/regular-rapid-coronavirus-tests-if-you-do-not-have-symptoms/)
+          - [report rapid lateral flow test results](https://www.gov.uk/report-covid19-result)
       - heading: "If you have coronavirus symptoms:"
         markdown: |
           - [get a PCR test](/get-coronavirus-test)
