@@ -86,8 +86,8 @@ content:
         url: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases
       - label: All data and analysis on coronavirus
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
-      - label: Coronavirus cases by local authority
-        url: /government/collections/coronavirus-cases-by-local-authority-epidemiological-data
+      - label: An interactive map of coronavirus (COVID-19) cases in the UK
+        url: https://coronavirus.data.gov.uk/details/interactive-map
   topic_section:
     header: "All coronavirus information on GOV.UK"
     links:
