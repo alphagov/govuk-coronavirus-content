@@ -52,3 +52,10 @@ landing page][1] and the [Coronavirus Business hub page][2].
 
 [1]: https://github.com/alphagov/collections-publisher/blob/master/app/controllers/coronavirus_controller.rb#L5-L6
 [2]: https://github.com/alphagov/collections-publisher/blob/master/lib/tasks/publishing_api.rake#L31-L52
+
+## Editing the content as a Frontend developer
+
+- Update `.yml` as required 
+  - [`govspeak`](https://github.com/alphagov/govspeak) can be used to render markdown as markup
+- Raise PR, after merge it will need to be published via [content_publisher](https://collections-publisher.publishing.service.gov.uk/coronavirus) to be visible on production (requires SC for access)
+- This will then appear within the content item on the [landing page](https://www.gov.uk/coronavirus) ready for local intergration into the `.html.erb` view.
