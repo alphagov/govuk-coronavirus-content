@@ -3,16 +3,18 @@ content:
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
   header_section:
-    title: "Coronavirus restrictions remain in place across the country, including for people who have been vaccinated. In England:"
+    title: "Coronavirus remains a serious health risk. It’s important to stay cautious and help protect yourself and others. In England:"
     intro: |
-      - You can meet indoors in a group of up to 6 people or a group of any size from 2 households 
-      - You can meet outside in a group of up to 30 people
-      - Work from home if you can and travel safely
-      - If you have symptoms get a test and stay at&nbsp;home
+      - Meet up outside or if you’re indoors open windows or doors if you have visitors.
+      - If you think you might have COVID-19 symptoms, [take a PCR test](/get-coronavirus-test) and stay home.
+      - Wear face coverings in crowded places to help protect others.
+      - Check in with the NHS COVID-19 app when you’re out.
+      - Wash your hands regularly and for at least 20 seconds with soap.
+      - [Get vaccinated](https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/) if you are 18 or over.
     link:
       href: /guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do
-      link_text: Find out the rules on what you can and
-      link_nowrap_text: cannot do
+      link_text: Find out how to stay safe and help
+      link_nowrap_text: prevent the spread
   announcements_label: Announcements
   # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   announcements:
