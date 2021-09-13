@@ -13,8 +13,8 @@ content:
     list:
       - text: "Find out what financial support you can get"
         url: /business-coronavirus-support-finder
-      - text: "Make your workplace COVID-secure"
-        url: /guidance/working-safely-during-coronavirus-covid-19
+      - text: "Find out how to work safely"
+        url: /workingsafely
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/business
   sections:

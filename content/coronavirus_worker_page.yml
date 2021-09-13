@@ -5,8 +5,7 @@ content:
   header_section:
     pretext: Coronavirus (COVID-19) support is available
     list:
-      - everyone who can work from home must do so
-      - if you cannot work from home, plan your journey to avoid crowds
+      - whilst the government is no longer instructing people to work from home if they can, the government expects and recommends a gradual return over the summer
       - the furlough scheme is extended until 30 September
       - the Self-Employment Income Support Scheme will be extended until 30 September - you may be eligible if you submitted a tax return for the 2019 to 2020 tax year
   guidance_section:
@@ -18,8 +17,8 @@ content:
         url: /guidance/coronavirus-covid-19-what-to-do-if-youre-self-employed-and-getting-less-work-or-no-work
       - text: Not working - what to do if you’re employed but cannot work
         url: /guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work
-      - text: Unemployed - what to do if you’ve lost your job
-        url: /guidance/coronavirus-covid-19-what-to-do-if-you-were-employed-and-have-lost-your-job
+      - text: Unemployed - help finding work and claiming benefits
+        url: /guidance/redundancy-help-finding-work-and-claiming-benefits
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/workers
   sections:
