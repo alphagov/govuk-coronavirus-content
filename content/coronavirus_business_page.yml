@@ -5,9 +5,8 @@ content:
   header_section:
     pretext: Coronavirus (COVID-19) support is available to businesses
     list:
-      - Loans, tax relief and cash grants are available
-      - Employers might be eligible for financial support to pay wages
-      - Self-employed people might be eligible for a taxable grant covering 80% of trading profits
+      - Loans are available
+      - Tax relief and cash grants are available
   guidance_section:
     header: What you can do now
     list:
