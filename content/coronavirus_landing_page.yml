@@ -31,6 +31,7 @@ content:
       href: /risk-level
       text: Read more about COVID-19 alert levels
   nhs_banner:
+    header: Testing for coronavirus (COVID-19)
     sections:
       - heading: "If you have no symptoms:"
         markdown: |
