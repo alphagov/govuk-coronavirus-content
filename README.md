@@ -3,9 +3,6 @@
 Stores the content for the following pages:
 
 * www.gov.uk/coronavirus
-* www.gov.uk/coronavirus/business-support
-* www.gov.uk/coronavirus/education-and-childcare
-* www.gov.uk/coronavirus/worker-support
 
 ## Live examples
 
@@ -48,7 +45,6 @@ If you're happy that everything looks OK, press "Publish". Check that everything
 looks OK and head for the hills.
 
 This is used by Collections Publisher when publishing the [Coronavirus
-landing page][1] and the [Coronavirus Business hub page][2].
+landing page][1].
 
 [1]: https://github.com/alphagov/collections-publisher/blob/master/app/controllers/coronavirus_controller.rb#L5-L6
-[2]: https://github.com/alphagov/collections-publisher/blob/master/lib/tasks/publishing_api.rake#L31-L52
