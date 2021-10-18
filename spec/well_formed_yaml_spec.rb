@@ -6,8 +6,7 @@ RSpec.describe 'Content YAML files' do
   Dir.glob("#{__dir__}/../content/*.yml") do |filename|
     basename = File.basename(filename)
     describe basename do
-      let(:page_type) { basename =~ /coronavirus_landing_page/ ? :landing : :hub }
-      let(:schema_path) { File.expand_path("../schema/coronavirus_#{page_type}_page.jsonnet", __dir__) }
+      let(:schema_path) { File.expand_path("../schema/coronavirus_landing_page.jsonnet", __dir__) }
       let(:schema) { Jsonnet.load(schema_path) }
       let(:yaml) { YAML.load_file(filename) }
 
