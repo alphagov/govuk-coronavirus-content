@@ -78,8 +78,12 @@ content:
         url: https://coronavirus.data.gov.uk/details/healthcare
     vaccinations:
       title: People vaccinated, and percent of population aged 12 and over vaccinated
-      first_dose_heading: 1st dose
-      second_dose_heading: 2nd dose
+      first_dose:
+        heading: 1st dose
+        label: people
+      second_dose:
+        heading: 2nd dose
+        label: people
       guidance_link:
         label: View all vaccination data on the coronavirus data dashboard
         url: https://coronavirus.data.gov.uk/details/vaccinations
