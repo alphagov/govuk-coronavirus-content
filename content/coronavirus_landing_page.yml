@@ -61,23 +61,23 @@ content:
       - label: "Northern Ireland"
         url: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19
   statistics_section:
-    header: UK statistics
+    header: UK COVID-19 statistics
     tests:
       title: People tested positive
       daily_heading: Daily
       weekly_heading: Last 7 Days
       guidance_link:
-        label: View all case data on the coronavirus data dashboard
+        label: All cases data on the data dashboard
         url: https://coronavirus.data.gov.uk/details/cases
     admissions:
       title: Patients admitted to hospital
       daily_heading: Daily
       weekly_heading: Last 7 Days
       guidance_link:
-        label: View all healthcare data on the coronavirus data dashboard
+        label: All healthcare data on the data dashboard
         url: https://coronavirus.data.gov.uk/details/healthcare
     vaccinations:
-      title: People vaccinated, and percent of population aged 12 and over vaccinated
+      title: People vaccinated, percentage of population aged 12 and over
       first_dose:
         heading: 1st dose
         label: people
@@ -85,7 +85,7 @@ content:
         heading: 2nd dose
         label: people
       guidance_link:
-        label: View all vaccination data on the coronavirus data dashboard
+        label: All vaccination data on the data dashboard
         url: https://coronavirus.data.gov.uk/details/vaccinations
     updated_date: Latest data provided on
     cumulative_vaccinations:
