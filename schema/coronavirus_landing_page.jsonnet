@@ -7,7 +7,6 @@
       required: [
         'title',
         'meta_description',
-        'header_section',
         'announcements_label',
         'announcements',
         'nhs_banner',

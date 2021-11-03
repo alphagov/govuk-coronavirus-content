@@ -2,17 +2,7 @@ content:
   title: "Coronavirus (COVID-19): guidance and support"
   meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
-  header_section:
-    title: "Coronavirus remains a serious health risk. You should stay cautious to help protect yourself and others."
-    intro: |
-      - Let fresh air in if you meet indoors. Meeting outdoors is safer
-      - Wear a face covering in crowded and enclosed spaces where you come into contact with people you do not normally meet
-      - [Get tested](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/get-tested-for-coronavirus/) and self-isolate if required
-      - If you haven't already, [get vaccinated](https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/)
-    link:
-      href: /guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do
-      link_text: Find out how to stay safe and help
-      link_nowrap_text: prevent the spread
+  # The header section is edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   announcements_label: Announcements
   # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   announcements:
