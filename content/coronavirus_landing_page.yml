@@ -55,16 +55,16 @@ content:
     tests:
       title: People tested positive
       daily_heading: Daily
-      weekly_heading: Last 7 Days
+      weekly_heading: Last 7 days
       guidance_link:
-        label: All cases data on the data dashboard
+        label: All cases data
         url: https://coronavirus.data.gov.uk/details/cases
     admissions:
       title: Patients admitted to hospital
       daily_heading: Daily
-      weekly_heading: Last 7 Days
+      weekly_heading: Last 7 days
       guidance_link:
-        label: All healthcare data on the data dashboard
+        label: All healthcare data
         url: https://coronavirus.data.gov.uk/details/healthcare
     vaccinations:
       title: People vaccinated, percentage of population aged 12 and over
@@ -75,7 +75,7 @@ content:
         heading: 2nd dose
         label: people
       guidance_link:
-        label: All vaccination data on the data dashboard
+        label: All vaccination data
         url: https://coronavirus.data.gov.uk/details/vaccinations
     updated_date: Latest data provided on
     cumulative_vaccinations:
