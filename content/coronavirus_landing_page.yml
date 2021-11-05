@@ -57,7 +57,7 @@ content:
       daily_heading: Daily
       weekly_heading: Last 7 days
       guidance_link:
-        label: All cases data
+        label: All case data
         url: https://coronavirus.data.gov.uk/details/cases
     admissions:
       title: Patients admitted to hospital
