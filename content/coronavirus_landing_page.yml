@@ -21,16 +21,14 @@ content:
       href: /risk-level
       text: Read more about COVID-19 alert levels
   nhs_banner:
-    header: Testing for coronavirus (COVID-19)
+    header: Testing and vaccinations
     sections:
-      - heading: "If you have no symptoms:"
-        markdown: |
-          - [get regular rapid lateral flow tests](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/regular-rapid-coronavirus-tests-if-you-do-not-have-symptoms/)
-          - [report rapid lateral flow test results](https://www.gov.uk/report-covid19-result)
-      - heading: "If you have coronavirus symptoms:"
-        markdown: |
-          - [get a PCR test](/get-coronavirus-test)
-          - stay at home
+      - heading: "Testing for coronavirus (COVID-19)"
+        url: "https://www.nhs.uk/conditions/coronavirus-covid-19/testing/"
+        markdown: "Find out how to get tested, what your test result means and how to report your result."
+      - heading: "Coronavirus (COVID-19) vaccination"
+        url: "https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/"
+        markdown: "Get your COVID-19 vaccination including booster dose, read about how vaccinations work and what happens when you have one."
   explainer_title:
   explainer_text:
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
