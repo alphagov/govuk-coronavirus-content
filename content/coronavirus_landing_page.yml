@@ -5,7 +5,6 @@ content:
   # The header section is edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   announcements_label: Announcements
   # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
-  announcements:
   see_all_announcements_link:
     text: See all announcements
     href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
@@ -29,14 +28,11 @@ content:
       - heading: "Coronavirus (COVID-19) vaccination"
         url: "https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/"
         markdown: "Get your COVID-19 vaccination including booster dose, read about how vaccinations work and what happens when you have one."
-  explainer_title:
-  explainer_text:
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
     heading: Recent and upcoming changes
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
-  sections:
   additional_country_guidance:
     intro: |
       See [all coronavirus guidance on GOV.UK](/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=updated-newest)
@@ -130,6 +126,3 @@ content:
     quarantine_guidelines_url: https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
     school_closures_info_url: https://www.gov.uk/check-school-closure
     travel_bans_url: https://www.gov.uk/guidance/travel-advice-novel-coronavirus
-  # The following sections are here temporarily to unblock publishing
-  stay_at_home: "DO NOT USE THIS"
-  guidance: "DO NOT USE THIS"

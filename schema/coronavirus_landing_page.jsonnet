@@ -8,9 +8,7 @@
         'title',
         'meta_description',
         'announcements_label',
-        'announcements',
         'nhs_banner',
-        'sections',
         'topic_section',
         'notifications'
       ]
