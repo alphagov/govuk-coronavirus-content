@@ -63,10 +63,10 @@ content:
     vaccinations:
       title: People vaccinated, percentage of population aged 12 and over
       first_dose:
-        heading: 1st dose
+        heading: First dose
         label: people
       second_dose:
-        heading: 2nd dose
+        heading: Second dose
         label: people
       guidance_link:
         label: All vaccination data
