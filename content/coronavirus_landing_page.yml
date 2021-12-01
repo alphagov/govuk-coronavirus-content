@@ -68,6 +68,9 @@ content:
       second_dose:
         heading: Second dose
         label: people
+      third_dose: 
+        heading: Booster or third dose
+        label: people
       guidance_link:
         label: All vaccination data
         url: https://coronavirus.data.gov.uk/details/vaccinations
