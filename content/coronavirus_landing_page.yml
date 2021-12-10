@@ -83,18 +83,24 @@ content:
       - label: All data and analysis on COVID-19
         url: /guidance/coronavirus-covid-19-statistics-and-analysis
   topic_section:
-    header: "All coronavirus information on GOV.UK"
+    header: "More COVID-19 information"
     links:
-      - label: "Guidance"
+      - label: "Guidance and regulation about COVID-19"
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=guidance_and_regulation&order=updated-newest"
-      - label: "News"
+      - label: "News and communications about COVID-19"
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
-      - label: "Legislation (legislation.gov.uk)"
+      - label: "Research and statistics about COVID-19"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=research_and_statistics&order=updated-newest"
+      - label: "Policy papers and consultations about COVID-19"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=policy_and_engagement&order=updated-newest"
+      - label: "Transparency and freedom of information releases about COVID-19"
+        url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=transparency&order=updated-newest"
+      - label: "COVID-19 legislation on legislation.gov.uk"
         url: "https://www.legislation.gov.uk/coronavirus"
-      - label: "Press conferences (YouTube)"
+      - label: "COVID-19 press conferences on YouTube"
         url: "https://www.youtube.com/user/Number10gov/videos"
-      - label: "Press conference statements"
-        url: "/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences#transcripts"
+      - label: "Slides, datasets and transcripts from press conferences"
+        url: "/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences"
   notifications:
     intro: "Stay up to date with GOV.UK"
     email_link: "Sign up to get emails when we change any coronavirus information on the GOV.UK website"
