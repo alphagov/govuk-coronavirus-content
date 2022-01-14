@@ -30,10 +30,10 @@ content:
         markdown: "Get your COVID-19 vaccination including booster dose, read about how vaccinations work and what happens when you have one."
     # nhs_sections is currently being used for test purposes, do not edit this. To edit nhs banner use the sections yaml above. 
     nhs_sections: |
-      [Testing for COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/)
+      ## [Testing for COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/testing/)
       Find out how to get tested, what your test result means and how to report your result.
 
-      [COVID-19 vaccination](https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/)
+      ## [COVID-19 vaccination](https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/)
       Get your COVID-19 vaccination including booster dose, read about how vaccinations work and what happens when you have one.    
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
