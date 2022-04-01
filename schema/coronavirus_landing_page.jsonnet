@@ -8,7 +8,6 @@
         'title',
         'meta_description',
         'announcements_label',
-        'nhs_banner',
         'topic_section',
         'notifications'
       ]

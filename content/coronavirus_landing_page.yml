@@ -19,15 +19,6 @@ content:
     link:
       href: /risk-level
       text: Read more about COVID-19 alert levels
-  nhs_banner:
-    header: Testing and vaccinations
-    sections:
-      - heading: "Testing for COVID-19"
-        url: "https://www.nhs.uk/conditions/coronavirus-covid-19/testing/"
-        markdown: "Find out how to get tested, what your test result means and how to report your result."
-      - heading: "COVID-19 vaccination"
-        url: "https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/"
-        markdown: "Get your COVID-19 vaccination including booster dose, read about how vaccinations work and what happens when you have one."   
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
     heading: Recent and upcoming changes
@@ -68,7 +59,7 @@ content:
       second_dose:
         heading: Second dose
         label: people
-      third_dose: 
+      third_dose:
         heading: Booster or third dose
         label: people
       guidance_link:
