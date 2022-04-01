@@ -95,7 +95,7 @@ content:
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=policy_and_engagement&order=updated-newest"
       - label: "Transparency and freedom of information releases about COVID-19"
         url: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=transparency&order=updated-newest"
-      - label: "Daily summary of COVID-19 testing, cases and vaccinations"
+      - label: "Summary of COVID-19 testing, cases and vaccinations"
         url: "https://coronavirus.data.gov.uk/"
       - label: "COVID-19 legislation on legislation.gov.uk"
         url: "https://www.legislation.gov.uk/coronavirus"
