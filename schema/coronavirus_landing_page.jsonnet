@@ -7,7 +7,6 @@
       required: [
         'title',
         'meta_description',
-        'announcements_label',
         'topic_section',
         'notifications'
       ]

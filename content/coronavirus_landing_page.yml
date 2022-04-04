@@ -1,24 +1,8 @@
 content:
   title: "Coronavirus (COVID-19): guidance and support"
-  meta_description: "Find information on coronavirus, including guidance, support, announcements and statistics."
+  meta_description: "Find information on coronavirus, including guidance, support and statistics."
   page_header: "Coronavirus (COVID&#8209;19)"
   # The header section is edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
-  announcements_label: Announcements
-  # Announcements are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
-  see_all_announcements_link:
-    text: See all announcements
-    href: "/search/all?level_one_taxon=5b7b9532-a775-4bd2-a3aa-6ce380184b6c&content_purpose_supergroup%5B%5D=news_and_communications&order=updated-newest"
-  risk_level:
-    #set show_risk_level_section to true to display the risk/alert level section on the landing page
-    show_risk_level_section: false
-    heading: COVID-19 alert level
-    paragraph: Level X of 5 – there is something happening
-    # bold_text should be the portion of the paragraph you would like to make bold.
-    # for instance, if our paragraph is "Find information on coronavirus", and we want the word "coronavirus" to be bold, we would set bold_text: coronavirus
-    bold_text: Level X of 5
-    link:
-      href: /risk-level
-      text: Read more about COVID-19 alert levels
   # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   timeline:
     heading: Recent and upcoming changes
