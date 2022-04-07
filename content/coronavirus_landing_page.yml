@@ -3,9 +3,6 @@ content:
   meta_description: "Find information on coronavirus, including guidance and support."
   page_header: "Coronavirus (COVID&#8209;19)"
   # The header section is edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
-  # Timeline entries are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
-  timeline:
-    heading: Recent and upcoming changes
   sections_heading: "Guidance and support"
   # sections are edited in https://collections-publisher.publishing.service.gov.uk/coronavirus/landing
   additional_country_guidance:
