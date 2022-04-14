@@ -1,3 +1,7 @@
+# Archived: This project is not in use 
+
+The remaining content in [content/coronavirus_landing_page.yml](https://github.com/alphagov/govuk-coronavirus-content/blob/master/content/coronavirus_landing_page.yml) has been moved into [the rendering application](https://github.com/alphagov/collections/pull/2748).
+
 # govuk-coronavirus-content
 
 Stores the content for the following pages:
